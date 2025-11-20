@@ -27,7 +27,7 @@
 ## 🛠 Skills & Tools
 
 ### ⚡ Programming  
-*Python* • *Java* • *SQL*
+*Python* • *Java* •
 
 ### 📚 Python Libraries  
 *Pandas* • *NumPy* • *Matplotlib* • *Seaborn*
