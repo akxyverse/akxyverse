@@ -12,88 +12,73 @@
 
 ## 🚀 About Me
 
-- 🔎 Aspiring *Data Analyst* from India  
-- 📊 Focused on *Data Cleaning, EDA, Reporting & Business Dashboards*  
-- 🐍 Comfortable with *Python (Pandas, NumPy, Matplotlib, Seaborn)*  
-- 🗄 Write SQL for *MySQL & PostgreSQL*  
-- 📉 Build dashboards in *Tableau, Power BI & Excel*  
-- 🤖 Explore *AI tools like Julius AI, Quadratic AI, Data Squirrel AI, FormulaBot* for analytics  
-- 🎯 Building real-world analytics projects to switch from non-IT to Data  
+- 👨‍💻 Aspirant *Data Analyst* from India  
+- 🔍 Focused on *Data Cleaning, Transformation, EDA, Manipulation & Visualization*  
+- 🐍 Skilled in *Python (Pandas, NumPy, Matplotlib, Seaborn)*  
+- 🗄 Skilled in *SQL* (MySQL & PostgreSQL)  
+- 📊 Build dashboards using *Tableau, Power BI & MS Excel*  
+- 🤖 Explore AI tools like *Julius AI, Quadratic AI, Data Squirrel AI, FormulaBot*  
+- 💡 Interested in *real-world analytics* & solving business problems  
 - 📩 Email: *akashyadav110502@gmail.com*  
-- 🔗 LinkedIn: **[Akash Yadav](https://www.linkedin.com/in/akash-yadav-122a75288/)**  
+- 🔗 LinkedIn: **https://www.linkedin.com/in/akash-yadav-122a75288/**
 
 ---
+## 🛠 Skills & Tools  
 
-## 🛠 Skills & Tools
-
-### ⚡ Programming  
-*Python* • *Java* •
+### 🚀 Programming  
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+</p>
 
 ### 📚 Python Libraries  
-*Pandas* • *NumPy* • *Matplotlib* • *Seaborn*
+<p>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=matplotlib&logoColor=white"/>
+<img src="https://img.shields.io/badge/Seaborn-4c72b0?style=for-the-badge&logo=seaborn&logoColor=white"/>
+</p>
 
-### 🛢 Databases  
-*MySQL* • *PostgreSQL*
+### 🗄 Databases  
+<p>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</p>
 
 ### 📊 BI & Visualization Tools  
-*Tableau* • *Power BI* • *MS Excel*
+<p>
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/MS%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+</p>
 
-### 💻 Development & Notebook Tools  
-*VS Code* • *Jupyter Notebook* • *PyCharm* • *Google Colab* • *Replit*
+### 🧑‍💻 Development & Notebook Tools  
+<p>
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/>
+<img src="https://img.shields.io/badge/Replit-000000?style=for-the-badge&logo=replit&logoColor=white"/>
+</p>
 
 ### 🤖 AI & Automation Tools  
-*Julius AI* • *Quadratic AI* • *Data Squirrel AI* • *FormulaBot* • *ChatGPT / Gemini for insights*
+<p>
+<img src="https://img.shields.io/badge/Julius%20AI-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Quadratic%20AI-purple?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data%20Squirrel%20AI-green?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/FormulaBot-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+</p>
 
-### 🧰 Version Control  
-*Git* • *GitHub*
-
----
-
-## ⭐ Featured Projects
-
-### 🔶 1. AI-Powered Sales Intelligence Dashboard
-
-📌 Python • SQL • Tableau • Julius AI • Prophet  
-
-*What I did:*
-
-- Cleaned and prepared Superstore sales data using *Python (Pandas)*  
-- Performed *EDA* to identify trends by Category, Region & Segment  
-- Used *Julius AI* to generate *AI-powered insights and recommendations*  
-- Implemented *Prophet* for *sales forecasting* (next 30 days)  
-- Designed an interactive *Tableau Dashboard* and published it online  
-
-🔗 *GitHub Repo:*  
-➡ https://github.com/akxyverse/AI-Powered-Sales-Intelligence-Dashboard  
-
-🔗 *Live Tableau Dashboard:*  
-➡ (Paste your Tableau Public link here)  
+### 🔧 Version Control  
+<p>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
 
 ---
 
-### 🔶 2. Blinkit Sales Analysis Dashboard
-
-📌 Power BI • Sales & Outlet Analytics  
-
-*What I did:*
-
-- Built a *Power BI dashboard* to analyze Blinkit sales performance  
-- Created *KPI cards* for sales, quantity, and outlet performance  
-- Performed *product & category-level analysis*  
-- Designed clean and interactive visuals for storytelling  
-
-🔗 *GitHub Repo:*  
-➡ https://github.com/akxyverse/Blinkit-Sales-Anakysis  
-
----
-
-### 🔶 3. More Projects Coming Soon…
-
-- SQL case studies  
-- Python EDA notebooks  
-- More dashboards & AI + Analytics projects  
-
----
 
 ## 🌐 Connect With Me
 
@@ -123,6 +108,3 @@
 
 ---
 
-<p align="center">
-  ✨ Thanks for visiting <strong>akxyverse</strong> — more AI-powered analytics projects coming soon!
-</p>
