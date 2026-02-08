@@ -48,7 +48,7 @@ With strong foundations in **Python**, **SQL**, and modern **BI tools**, I build
 <p align="center">
   <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="tableau" width="50" height="50"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="powerbi" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftexcel/microsoftexcel-plain.svg" alt="excel" width="50" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" alt="excel" width="50" height="50"/>
   <img src="https://skillicons.dev/icons?i=streamlit" alt="streamlit" width="50" height="50"/>
 </p>
 
@@ -65,9 +65,16 @@ With strong foundations in **Python**, **SQL**, and modern **BI tools**, I build
   <img src="https://www.gstatic.com/lamda/images/gemini_sparkle_v002_d4735304ff6292a690345.svg" alt="Gemini" width="50" height="50"/>
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Julius_AI-6B46C1?style=for-the-badge&logo=ai&logoColor=white" alt="Julius AI"/>
+  <img src="https://img.shields.io/badge/FormulaBot-10B981?style=for-the-badge&logo=ai&logoColor=white" alt="FormulaBot"/>
+  <img src="https://img.shields.io/badge/Quadratic_AI-3B82F6?style=for-the-badge&logo=ai&logoColor=white" alt="Quadratic AI"/>
+  <img src="https://img.shields.io/badge/Data_Squirrel_AI-F59E0B?style=for-the-badge&logo=ai&logoColor=white" alt="Data Squirrel AI"/>
+</p>
+
 ### 🔄 Automation Tools  
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/zapier/zapier-original.svg" alt="zapier" width="50" height="50"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/zapier.svg" alt="zapier" width="50" height="50"/>
 </p>
 
 ### 🔧 Version Control  
