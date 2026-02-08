@@ -61,8 +61,8 @@ With strong foundations in **Python**, **SQL**, and modern **BI tools**, I build
 
 ### 🤖 AI Tools  
 <p align="center">
-  <img src="./ai-tools/chatgpt.png" alt="ChatGPT" width="50" height="50"/>
-  <img src="./ai-tools/claude.png" alt="Claude" width="50" height="50"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWxe5TD1htryrAcSLitG72BneNUN1veGbVLw&s" alt="ChatGPT" width="50" height="50"/>
+  <img src="https://avatars.slack-edge.com/2025-05-14/8891273522918_30c38bf627ac73075db6_512.png" alt="Claude" width="50" height="50"/>
   <img src="https://www.gstatic.com/lamda/images/gemini_sparkle_v002_d4735304ff6292a690345.svg" alt="Gemini" width="50" height="50"/>
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfvIMIkwxjuc6w0tx6xY84Gi8fSZCpccKd0w&s" alt="Julius AI" width="50" height="50"/>
   <img src="https://res.cloudinary.com/apideck/image/upload/w_196,f_auto/v1675519017/marketplaces/ckhg56iu1mkpc0b66vj7fsj3o/listings/9oGeTW3I_400x400_iaxdlt.jpg" alt="FormulaBot" width="50" height="50"/>
