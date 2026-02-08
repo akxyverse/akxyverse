@@ -1,12 +1,7 @@
 <!-- ======================== HEADER ======================== -->
 
 <h1 align="center">Hi 👋, I'm <strong>Akash Yadav</strong></h1>
-
-<div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?size=28&color=00E8FF&center=true&vCenter=true&width=550&lines=Aspirant+Data+Analyst+from+India;Python+%7C+SQL+%7C+Tableau+%7C+Power+BI;Turning+Data+into+Insights" />
-
-</div>
+<h3 align="center">Aspirant Data Analyst from India</h3>
 
 ---
 
@@ -31,65 +26,53 @@ With strong foundations in **Python**, **SQL**, and modern **BI tools**, I build
 
 ## 🛠 Skills & Tools  
 
-### ⚡ Programming Languages
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-1a1a1a?style=for-the-badge&logo=python&logoColor=3776AB"/>
-  <img src="https://img.shields.io/badge/Java-1a1a1a?style=for-the-badge&logo=java&logoColor=ED8B00"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java" alt="Programming Languages"/>
 </p>
 
 ### 📚 Python Libraries  
-<p align="left">
-  <img src="https://img.shields.io/badge/Pandas-1a1a1a?style=for-the-badge&logo=pandas&logoColor=150458"/>
-  <img src="https://img.shields.io/badge/NumPy-1a1a1a?style=for-the-badge&logo=numpy&logoColor=013243"/>
-  <img src="https://img.shields.io/badge/Matplotlib-1a1a1a?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Seaborn-1a1a1a?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Plotly-1a1a1a?style=for-the-badge&logo=plotly&logoColor=3F4F75"/>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="50" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="matplotlib" width="50" height="50"/>
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/plotly/plotly-original.svg" alt="plotly" width="50" height="50"/>
 </p>
 
 ### 🗄 Databases  
-<p align="left">
-  <img src="https://img.shields.io/badge/MySQL-1a1a1a?style=for-the-badge&logo=mysql&logoColor=4479A1"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-1a1a1a?style=for-the-badge&logo=postgresql&logoColor=336791"/>
-  <img src="https://img.shields.io/badge/Supabase-1a1a1a?style=for-the-badge&logo=supabase&logoColor=3ECF8E"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,supabase" alt="Databases"/>
 </p>
 
 ### 📊 Visualization & BI Tools  
-<p align="left">
-  <img src="https://img.shields.io/badge/Tableau-1a1a1a?style=for-the-badge&logo=tableau&logoColor=E97627"/>
-  <img src="https://img.shields.io/badge/Power%20BI-1a1a1a?style=for-the-badge&logo=powerbi&logoColor=F2C811"/>
-  <img src="https://img.shields.io/badge/Excel-1a1a1a?style=for-the-badge&logo=microsoft-excel&logoColor=217346"/>
-  <img src="https://img.shields.io/badge/Streamlit-1a1a1a?style=for-the-badge&logo=streamlit&logoColor=FF4B4B"/>
+<p align="center">
+  <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="tableau" width="50" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="powerbi" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftexcel/microsoftexcel-plain.svg" alt="excel" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=streamlit" alt="streamlit" width="50" height="50"/>
 </p>
 
 ### 🧪 Development Tools  
-<p align="left">
-  <img src="https://img.shields.io/badge/VS%20Code-1a1a1a?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC"/>
-  <img src="https://img.shields.io/badge/Jupyter-1a1a1a?style=for-the-badge&logo=jupyter&logoColor=F37626"/>
-  <img src="https://img.shields.io/badge/Google%20Colab-1a1a1a?style=for-the-badge&logo=googlecolab&logoColor=F9AB00"/>
-  <img src="https://img.shields.io/badge/Replit-1a1a1a?style=for-the-badge&logo=replit&logoColor=F26207"/>
-  <img src="https://img.shields.io/badge/PyCharm-1a1a1a?style=for-the-badge&logo=pycharm&logoColor=21D789"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,pycharm,replit" alt="Dev Tools"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="jupyter" width="50" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" alt="colab" width="50" height="50"/>
 </p>
 
 ### 🤖 AI Tools  
-<p align="left">
-  <img src="https://img.shields.io/badge/Julius%20AI-1a1a1a?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Quadratic%20AI-1a1a1a?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Data%20Squirrel%20AI-1a1a1a?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FormulaBot-1a1a1a?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ChatGPT-1a1a1a?style=for-the-badge&logo=openai&logoColor=74AA9C"/>
-  <img src="https://img.shields.io/badge/Gemini-1a1a1a?style=for-the-badge&logo=google&logoColor=4285F4"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=openai" alt="ChatGPT" width="50" height="50"/>
+  <img src="https://www.gstatic.com/lamda/images/gemini_sparkle_v002_d4735304ff6292a690345.svg" alt="Gemini" width="50" height="50"/>
 </p>
 
 ### 🔄 Automation Tools  
-<p align="left">
-  <img src="https://img.shields.io/badge/n8n-1a1a1a?style=for-the-badge&logo=n8n&logoColor=EA4B71"/>
-  <img src="https://img.shields.io/badge/Zapier-1a1a1a?style=for-the-badge&logo=zapier&logoColor=FF4A00"/>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/zapier/zapier-original.svg" alt="zapier" width="50" height="50"/>
 </p>
 
 ### 🔧 Version Control  
-<p align="left">
-  <img src="https://img.shields.io/badge/Git-1a1a1a?style=for-the-badge&logo=git&logoColor=F05032"/>
-  <img src="https://img.shields.io/badge/GitHub-1a1a1a?style=for-the-badge&logo=github&logoColor=white"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github" alt="Version Control"/>
 </p>
 
 ---
@@ -98,17 +81,17 @@ With strong foundations in **Python**, **SQL**, and modern **BI tools**, I build
 
 ## 🌐 Connect With Me  
 
+<p align="center">
 <a href="https://www.linkedin.com/in/akash-yadav-122a75288/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
 <a href="mailto:akashyadav110502@gmail.com">
   <img src="https://img.shields.io/badge/Email-D44638?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
 <a href="https://github.com/akxyverse">
   <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+</p>
 
 ---
 
@@ -122,4 +105,3 @@ With strong foundations in **Python**, **SQL**, and modern **BI tools**, I build
 ---
 
 <p align="center">✨ Thanks for visiting! More data analytics projects coming soon. 📊</p>
-
