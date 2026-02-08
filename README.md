@@ -48,8 +48,8 @@ With strong foundations in **Python**, **SQL**, and modern **BI tools**, I build
 <p align="center">
   <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="tableau" width="50" height="50"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="powerbi" width="50" height="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" alt="excel" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=streamlit" alt="streamlit" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/48/000000/ms-excel.png" alt="excel" width="50" height="50"/>
+  <img src="https://streamlit.io/images/brand/streamlit-mark-color.png" alt="streamlit" width="50" height="50"/>
 </p>
 
 ### 🧪 Development Tools  
@@ -61,20 +61,21 @@ With strong foundations in **Python**, **SQL**, and modern **BI tools**, I build
 
 ### 🤖 AI Tools  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=openai" alt="ChatGPT" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/48/chatgpt.png" alt="ChatGPT" width="50" height="50"/>
   <img src="https://www.gstatic.com/lamda/images/gemini_sparkle_v002_d4735304ff6292a690345.svg" alt="Gemini" width="50" height="50"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Julius_AI-6B46C1?style=for-the-badge&logo=ai&logoColor=white" alt="Julius AI"/>
-  <img src="https://img.shields.io/badge/FormulaBot-10B981?style=for-the-badge&logo=ai&logoColor=white" alt="FormulaBot"/>
-  <img src="https://img.shields.io/badge/Quadratic_AI-3B82F6?style=for-the-badge&logo=ai&logoColor=white" alt="Quadratic AI"/>
-  <img src="https://img.shields.io/badge/Data_Squirrel_AI-F59E0B?style=for-the-badge&logo=ai&logoColor=white" alt="Data Squirrel AI"/>
+  <img src="https://img.shields.io/badge/Julius_AI-1a1a1a?style=for-the-badge&logoColor=white" alt="Julius AI"/>
+  <img src="https://img.shields.io/badge/FormulaBot-1a1a1a?style=for-the-badge&logoColor=white" alt="FormulaBot"/>
+  <img src="https://img.shields.io/badge/Quadratic_AI-1a1a1a?style=for-the-badge&logoColor=white" alt="Quadratic AI"/>
+  <img src="https://img.shields.io/badge/Data_Squirrel_AI-1a1a1a?style=for-the-badge&logoColor=white" alt="Data Squirrel AI"/>
 </p>
 
 ### 🔄 Automation Tools  
 <p align="center">
   <img src="https://cdn.worldvectorlogo.com/logos/zapier.svg" alt="zapier" width="50" height="50"/>
+  <img src="https://docs.n8n.io/favicon.svg" alt="n8n" width="50" height="50"/>
 </p>
 
 ### 🔧 Version Control  
@@ -111,4 +112,4 @@ With strong foundations in **Python**, **SQL**, and modern **BI tools**, I build
 
 ---
 
-<p align="center">✨ Thanks for visiting! More data analytics projects coming soon. 📊</p>
+<p align="center">✨ Thanks for visiting! . 📊</p>
