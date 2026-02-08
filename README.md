@@ -61,21 +61,19 @@ With strong foundations in **Python**, **SQL**, and modern **BI tools**, I build
 
 ### 🤖 AI Tools  
 <p align="center">
-  <img src="https://img.icons8.com/color/48/chatgpt.png" alt="ChatGPT" width="50" height="50"/>
+  <img src="./ai-tools/chatgpt.png" alt="ChatGPT" width="50" height="50"/>
+  <img src="./ai-tools/claude.png" alt="Claude" width="50" height="50"/>
   <img src="https://www.gstatic.com/lamda/images/gemini_sparkle_v002_d4735304ff6292a690345.svg" alt="Gemini" width="50" height="50"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Julius_AI-1a1a1a?style=for-the-badge&logoColor=white" alt="Julius AI"/>
-  <img src="https://img.shields.io/badge/FormulaBot-1a1a1a?style=for-the-badge&logoColor=white" alt="FormulaBot"/>
-  <img src="https://img.shields.io/badge/Quadratic_AI-1a1a1a?style=for-the-badge&logoColor=white" alt="Quadratic AI"/>
-  <img src="https://img.shields.io/badge/Data_Squirrel_AI-1a1a1a?style=for-the-badge&logoColor=white" alt="Data Squirrel AI"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfvIMIkwxjuc6w0tx6xY84Gi8fSZCpccKd0w&s" alt="Julius AI" width="50" height="50"/>
+  <img src="https://res.cloudinary.com/apideck/image/upload/w_196,f_auto/v1675519017/marketplaces/ckhg56iu1mkpc0b66vj7fsj3o/listings/9oGeTW3I_400x400_iaxdlt.jpg" alt="FormulaBot" width="50" height="50"/>
+  <img src="https://media2.dev.to/dynamic/image/width=320,height=320,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Forganization%2Fprofile_image%2F10472%2F5ec582d6-eb59-4e06-8d88-78c873f6dcfd.png" alt="Quadratic AI" width="50" height="50"/>
+  <img src="https://1e5dcb836f18f1acfca4290485cb7c8f.cdn.bubble.io/cdn-cgi/image/w=1200,h=630,f=auto,dpr=2,fit=cover/f1669209762453x610316262092877300/Squirrel_Logo_cropped.png" alt="Data Squirrel AI" width="50" height="50"/>
 </p>
 
 ### 🔄 Automation Tools  
 <p align="center">
-  <img src="https://cdn.worldvectorlogo.com/logos/zapier.svg" alt="zapier" width="50" height="50"/>
-  <img src="https://docs.n8n.io/favicon.svg" alt="n8n" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/48/zapier.png" alt="zapier" width="50" height="50"/>
+  <img src="https://avatars.githubusercontent.com/u/45487711?s=200&v=4" alt="n8n" width="50" height="50"/>
 </p>
 
 ### 🔧 Version Control  
@@ -112,4 +110,4 @@ With strong foundations in **Python**, **SQL**, and modern **BI tools**, I build
 
 ---
 
-<p align="center">✨ Thanks for visiting! . 📊</p>
+<p align="center">✨ Thanks for visiting!</p>
