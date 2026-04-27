@@ -23,23 +23,16 @@
 
 ## 👨‍💻 About Me
 
-```python
-analyst = {
-    "name"      : "Akash Yadav",
-    "role"      : "Aspirant Data Analyst",
-    "location"  : "India 🇮🇳",
-    "focus"     : ["Data Cleaning", "EDA", "Visualization", "Dashboards"],
-    "tools"     : ["Python", "SQL", "Power BI", "Tableau"],
-    "learning"  : ["Machine Learning", "Advanced SQL", "DAX"],
-    "fun_fact"  : "I believe every dataset has a story — I just find it 🔍"
-}
-```
+👋 Hi! I'm **Akash Yadav**, an Aspirant **Data Analyst** from **India 🇮🇳**
 
-- 📊 Clean, transform & analyze complex datasets  
-- 🔍 Perform deep **Exploratory Data Analysis (EDA)**  
-- 📈 Build interactive **dashboards and reports**  
-- 🤖 Leverage **AI tools** to automate & optimize workflows  
-- 💡 Deliver **data-driven insights** for real business problems  
+- 🎯 **Role** — Aspirant Data Analyst passionate about turning raw data into decisions
+- 📍 **Location** — India 🇮🇳
+- 🔭 **Focus** — Data Cleaning · EDA · Visualization · Dashboards
+- 🛠️ **Core Tools** — Python · SQL · Power BI · Tableau
+- 📚 **Currently Learning** — Machine Learning · Advanced SQL · DAX
+- 📊 **What I do** — Clean & transform complex datasets, build interactive dashboards, and deliver data-driven insights
+- 🤖 **Extra Edge** — I leverage AI tools to automate and optimize analytical workflows
+- ⚡ **Fun Fact** — I believe every dataset has a story — I just find it 🔍
 
 ---
 
