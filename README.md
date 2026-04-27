@@ -1,113 +1,151 @@
-<!-- ======================== HEADER ======================== -->
+<div align="center">
 
-<h1 align="center">Hi 👋, I'm <strong>Akash Yadav</strong></h1>
-<h3 align="center">Aspirant Data Analyst from India</h3>
+<!-- Animated Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Akash%20Yadav&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Data%20Analyst%20%7C%20Python%20%7C%20SQL%20%7C%20BI%20Tools&descAlignY=55&descSize=18"/>
 
----
-
-<!-- ======================== ABOUT ME ======================== -->
-
-## 🚀 About Me  
-
-I'm a passionate **Data Analyst** aspirant dedicated to transforming raw data into actionable business insights. My expertise lies in data cleaning, exploratory analysis, and creating compelling visualizations that drive decision-making.
-
-With strong foundations in **Python**, **SQL**, and modern **BI tools**, I build end-to-end analytics solutions — from data extraction and transformation to dashboard creation. I'm constantly exploring new technologies and AI-powered tools to enhance analytical workflows.
-
-**What I do:**
-- 📊 Clean, transform, and analyze complex datasets
-- 🔍 Perform in-depth exploratory data analysis (EDA)
-- 📈 Build interactive dashboards and reports
-- 🤖 Leverage AI tools to automate and optimize workflows
-- 💡 Deliver data-driven insights for business problems
-
----
-
-<!-- ======================== SKILLS SECTION ======================== -->
-
-## 🛠 Skills & Tools  
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java" alt="Programming Languages"/>
-</p>
-
-### 📚 Python Libraries  
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="50" height="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="matplotlib" width="50" height="50"/>
-  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/plotly/plotly-original.svg" alt="plotly" width="50" height="50"/>
-</p>
-
-### 🗄 Databases  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql,supabase" alt="Databases"/>
-</p>
-
-### 📊 Visualization & BI Tools  
-<p align="center">
-  <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="tableau" width="50" height="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="powerbi" width="50" height="50"/>
-  <img src="https://img.icons8.com/color/48/000000/ms-excel.png" alt="excel" width="50" height="50"/>
-  <img src="https://streamlit.io/images/brand/streamlit-mark-color.png" alt="streamlit" width="50" height="50"/>
-</p>
-
-### 🧪 Development Tools  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,pycharm,replit" alt="Dev Tools"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="jupyter" width="50" height="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" alt="colab" width="50" height="50"/>
-</p>
-
-### 🤖 AI Tools  
-<p align="center">
-  <img src="https://admin.ositcom.com/media/blog/blog-posts/is-your-chat-with-ai-getting-toxic-chatgpts-latest-update-aims-to-fix-that.jpg" alt="ChatGPT" width="50" height="50"/>
-  <img src="https://avatars.slack-edge.com/2025-05-14/8891273522918_30c38bf627ac73075db6_512.png" alt="Claude" width="50" height="50"/>
-  <img src="https://www.gstatic.com/lamda/images/gemini_sparkle_v002_d4735304ff6292a690345.svg" alt="Gemini" width="50" height="50"/>
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfvIMIkwxjuc6w0tx6xY84Gi8fSZCpccKd0w&s" alt="Julius AI" width="50" height="50"/>
-  <img src="https://res.cloudinary.com/apideck/image/upload/w_196,f_auto/v1675519017/marketplaces/ckhg56iu1mkpc0b66vj7fsj3o/listings/9oGeTW3I_400x400_iaxdlt.jpg" alt="FormulaBot" width="50" height="50"/>
-  <img src="https://media2.dev.to/dynamic/image/width=320,height=320,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Forganization%2Fprofile_image%2F10472%2F5ec582d6-eb59-4e06-8d88-78c873f6dcfd.png" alt="Quadratic AI" width="50" height="50"/>
-  <img src="https://1e5dcb836f18f1acfca4290485cb7c8f.cdn.bubble.io/cdn-cgi/image/w=1200,h=630,f=auto,dpr=2,fit=cover/f1669209762453x610316262092877300/Squirrel_Logo_cropped.png" alt="Data Squirrel AI" width="50" height="50"/>
-</p>
-
-### 🔄 Automation Tools  
-<p align="center">
-  <img src="https://img.icons8.com/color/48/zapier.png" alt="zapier" width="50" height="50"/>
-  <img src="https://avatars.githubusercontent.com/u/45487711?s=200&v=4" alt="n8n" width="50" height="50"/>
-</p>
-
-### 🔧 Version Control  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github" alt="Version Control"/>
-</p>
-
----
-
-<!-- ======================== CONTACT ======================== -->
-
-## 🌐 Connect With Me  
-
-<p align="center">
-<a href="https://www.linkedin.com/in/akash-yadav-122a75288/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<!-- Typing Animation -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Transforming+Data+into+Insights+%F0%9F%93%8A;Python+%7C+SQL+%7C+Power+BI+%7C+Tableau;EDA+%7C+Dashboards+%7C+Storytelling;Always+Learning+New+Data+Tools+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
-<a href="mailto:akashyadav110502@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D44638?style=for-the-badge&logo=gmail&logoColor=white"/>
+
+<br/>
+
+<!-- Profile Views & Followers -->
+<img src="https://komarev.com/ghpvc/?username=akashyadav&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
+&nbsp;
+<a href="https://github.com/akashyadav?tab=followers">
+  <img src="https://img.shields.io/github/followers/akashyadav?label=Followers&style=social" alt="followers"/>
 </a>
-<a href="https://github.com/akxyverse">
-  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+```python
+analyst = {
+    "name"      : "Akash Yadav",
+    "role"      : "Aspirant Data Analyst",
+    "location"  : "India 🇮🇳",
+    "focus"     : ["Data Cleaning", "EDA", "Visualization", "Dashboards"],
+    "tools"     : ["Python", "SQL", "Power BI", "Tableau"],
+    "learning"  : ["Machine Learning", "Advanced SQL", "DAX"],
+    "fun_fact"  : "I believe every dataset has a story — I just find it 🔍"
+}
+```
+
+- 📊 Clean, transform & analyze complex datasets  
+- 🔍 Perform deep **Exploratory Data Analysis (EDA)**  
+- 📈 Build interactive **dashboards and reports**  
+- 🤖 Leverage **AI tools** to automate & optimize workflows  
+- 💡 Deliver **data-driven insights** for real business problems  
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+### 💻 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java&theme=dark" />
+</p>
+
+### 📦 Python Libraries
+<p>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+</p>
+
+### 🗄️ Databases
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
+</p>
+
+### 📊 BI & Visualization
+<p>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+</p>
+
+### 🤖 AI Tools
+<p>
+  <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Claude-CC785C?style=for-the-badge&logo=anthropic&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Julius%20AI-7C3AED?style=for-the-badge&logo=data:image/png;base64,&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Formula%20Bot-00BFA5?style=for-the-badge&logoColor=white"/>
+</p>
+
+### 🔄 Automation & DevOps
+<p>
+  <img src="https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white"/>
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=git,github&theme=dark"/>
+</p>
+
+### 🧰 Dev Environments
+<p>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyCharm-21D789?style=for-the-badge&logo=pycharm&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Replit-667881?style=for-the-badge&logo=replit&logoColor=white"/>
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akxyverse&show_icons=true&theme=radical" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akxyverse&layout=compact&theme=radical" height="180"/>
-</p>
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=akashyadav&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=akashyadav&theme=tokyonight&hide_border=true" />
+
+<br/>
+
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashyadav&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
 
 ---
 
-<p align="center">✨ Thanks for visiting!</p>
+## 📊 Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=akashyadav&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=akashyadav&theme=tokyonight&no-frame=true&row=1&column=7" width="100%"/>
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akash-yadav-122a75288/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/akashyadav)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+
+**"Without data, you're just another person with an opinion." — W. Edwards Deming**
+
+</div>
