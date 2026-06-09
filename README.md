@@ -26,8 +26,6 @@
 <!-- ===== ABOUT ME ===== -->
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
 
-<img align="right" width="38%" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
-
 ```python
 class AkashYadav:
     def __init__(self):
@@ -49,8 +47,6 @@ class AkashYadav:
 - 🤖 &nbsp;Leveraging AI tools to automate analytical workflows
 - 🌱 &nbsp;Currently leveling up in **ML, Advanced SQL & DAX**
 - 💬 &nbsp;Ask me about **data cleaning, EDA, or dashboard design**
-
-<br clear="right"/>
 
 ---
 
@@ -108,6 +104,60 @@ class AkashYadav:
 
 ---
 
+<!-- ===== FEATURED PROJECTS ===== -->
+## 🚀 Featured Projects
+
+> Replace the placeholder repo links, names, and descriptions with your real projects. Delete any card you don't need.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 📊 Sales Dashboard — Power BI
+Interactive dashboard tracking revenue, regional trends & KPIs with drill-down filters and dynamic DAX measures.
+
+`Power BI` `DAX` `Excel`
+
+[![Repo](https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/akashyadav/PROJECT_NAME)
+
+</td>
+<td width="50%" valign="top">
+
+### 🧹 Customer Churn Analysis — Python
+End-to-end EDA on customer data: cleaning, feature analysis & visual insights into what drives churn.
+
+`Python` `Pandas` `Seaborn`
+
+[![Repo](https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/akashyadav/PROJECT_NAME)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🗄️ SQL Data Exploration
+Querying & analyzing a large dataset using joins, CTEs & window functions to answer real business questions.
+
+`SQL` `PostgreSQL`
+
+[![Repo](https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/akashyadav/PROJECT_NAME)
+
+</td>
+<td width="50%" valign="top">
+
+### 📈 Streamlit Data App
+A live, interactive web app that lets users upload data and explore auto-generated charts & summaries.
+
+`Python` `Streamlit` `Plotly`
+
+[![Repo](https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/akashyadav/PROJECT_NAME)
+
+</td>
+</tr>
+</table>
+
+---
+
 <!-- ===== GITHUB STATS ===== -->
 ## 📈 GitHub Analytics
 
@@ -122,6 +172,18 @@ class AkashYadav:
 
 </div>
 
+<!-- ===== SNAKE ANIMATION ===== -->
+<!-- Eats your contribution graph. Requires the snake GitHub Action (setup steps are at the bottom of this file). -->
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/akashyadav/akashyadav/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/akashyadav/akashyadav/output/github-snake.svg" />
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/akashyadav/akashyadav/output/github-snake.svg" width="100%" />
+</picture>
+
+</div>
+
 <!-- ===== CONTRIBUTION GRAPH ===== -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=akashyadav&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" width="100%"/>
 
@@ -129,6 +191,20 @@ class AkashYadav:
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=akashyadav&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" width="100%"/>
 </div>
+
+---
+
+<!-- ===== CERTIFICATIONS ===== -->
+## 🎓 Certifications & Learning
+
+> Swap these for your real certs and add credential links. Delete rows you don't have yet.
+
+| Certification | Issuer | Status |
+|---|---|---|
+| Google Data Analytics | Coursera | ✅ Completed |
+| Power BI Data Analyst (PL-300) | Microsoft | 🔄 In Progress |
+| SQL for Data Analysis | _Issuer_ | ✅ Completed |
+| Python for Data Science | _Issuer_ | 🔄 In Progress |
 
 ---
 
