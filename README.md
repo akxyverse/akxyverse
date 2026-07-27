@@ -35,7 +35,7 @@ Akash Yadav — Aspiring Data Analyst from India, learning and building in publi
 
 **💡 Why This Page**
 
-The single starting point for everything I build — one hub, nine focused repositories.
+The single starting point for everything I build — one hub, eight focused repositories.
 
 </td>
 <td width="25%" align="center" valign="top">
@@ -176,7 +176,7 @@ A live, growing map of real skills — not a static resume.
 
 ## 🗂️ Repository Ecosystem
 
-My Data Analytics work is organized across 9 focused repositories rather than one giant monorepo — each has a single, clear purpose, and every one shares the same design language:
+My Data Analytics work is organized across 8 focused repositories (plus this profile hub) rather than one giant monorepo — each has a single, clear purpose, and every one shares the same design language:
 
 <table>
 <tr>
@@ -215,20 +215,20 @@ Generative & Agentic AI, LangChain, n8n, automation
 
 ## 🌟 Featured Projects
 
-Standalone projects, each with its own live demo and full documentation:
+Fully hosted inside [`data-analytics-projects`](https://github.com/akxyverse/data-analytics-projects) and [`data-analytics-resources`](https://github.com/akxyverse/data-analytics-resources) — each with its own live demo and full documentation:
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**📊 [Excel Roadmap Guide](https://github.com/akxyverse/excel-roadmap-guide)**
+**📊 [Excel Roadmap Guide](https://github.com/akxyverse/data-analytics-resources/tree/main/Guidebooks/Excel%20Roadmap%20Guide)**
 A step-by-step Excel roadmap from basics to advanced — 30 skills across 4 levels, built for aspiring data analysts.
 `Excel` `Data Analysis` `Free Resource`
 
 </td>
 <td width="50%" valign="top">
 
-**⚡ [ThunderCast: Storm Forecasting Platform](https://github.com/akxyverse/ThunderCast-Storm-Forecasting-Platform)**
+**⚡ [ThunderCast: Storm Forecasting Platform](https://github.com/akxyverse/data-analytics-projects/tree/main/End-to-End%20Projects/ThunderCast)**
 Real-time thunderstorm prediction using Facebook Prophet time-series forecasting, live weather API integration, and an interactive Streamlit dashboard.
 `Python` `Prophet` `Streamlit` [🔗 Live Demo](https://akxyverse-thundercast-smart-storm-predictio-dashboardapp-xqeckf.streamlit.app/)
 
@@ -237,14 +237,14 @@ Real-time thunderstorm prediction using Facebook Prophet time-series forecasting
 <tr>
 <td width="50%" valign="top">
 
-**🎮 [Esports & Gaming Revenue Analytics](https://github.com/akxyverse/Esports-Gaming-Revenue-Analytics)**
+**🎮 [Esports & Gaming Revenue Analytics](https://github.com/akxyverse/data-analytics-projects/tree/main/Domain-wise%20Projects/Others/Esports%20Gaming%20Revenue%20Analytics)**
 Analyzed 400+ records across 25 countries (2010–2025) — 17.7% CAGR in gaming revenue, Europe/Asia market dominance, interactive Tableau dashboard.
 `Python` `Tableau` `EDA`
 
 </td>
 <td width="50%" valign="top">
 
-**📦 [Supply Chain Analytics Dashboard](https://github.com/akxyverse/Supply-chain-analytics-Dashboard)**
+**📦 [Supply Chain Analytics Dashboard](https://github.com/akxyverse/data-analytics-projects/tree/main/Domain-wise%20Projects/Logistics/Supply%20Chain%20Analytics%20Dashboard)**
 Analyzed 43K+ delivery records with 30+ visualizations — KPI metrics and insights on delivery performance and agent efficiency.
 `Python` `Streamlit` [🔗 Live Demo](https://supply-chain-analytics-system-5tlaustxwavffqjplsgutw.streamlit.app/)
 
@@ -252,30 +252,21 @@ Analyzed 43K+ delivery records with 30+ visualizations — KPI metrics and insig
 </tr>
 </table>
 
-<sub>Not shown here: a private algorithmic trading repository (kept private by design) and a forked reference notes repository (not original work).</sub>
+<sub>Not shown here: a private algorithmic trading repository (kept private by design) and a forked reference notes repository (not original work — see <a href="https://github.com/akxyverse/data-analytics-resources/tree/main/External%20Study%20Resources">External Study Resources</a>).</sub>
 
 ## 📈 GitHub Stats
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=akxyverse&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=akxyverse&theme=tokyonight&hide_border=true" />
-
-<br/>
-
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akxyverse&layout=compact&theme=tokyonight&hide_border=true" />
+![Followers](https://img.shields.io/github/followers/akxyverse?style=for-the-badge&color=38bdf8&label=Followers)
+![Public Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/akxyverse&label=Public%20Repos&query=%24.public_repos&style=for-the-badge&color=22d3ee)
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=akxyverse&theme=tokyonight&hide_border=true" alt="GitHub streak stats" />
 
 </div>
 
 ## 📊 Contribution Graph
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=akxyverse&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=akxyverse&theme=tokyonight&no-frame=true&row=1&column=7" width="100%"/>
-</div>
 
 ---
 
