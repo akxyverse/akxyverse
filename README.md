@@ -260,7 +260,6 @@ Analyzed 43K+ delivery records with 30+ visualizations — KPI metrics and insig
 
 ![Followers](https://img.shields.io/github/followers/akxyverse?style=for-the-badge&color=38bdf8&label=Followers)
 ![Public Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/akxyverse&label=Public%20Repos&query=%24.public_repos&style=for-the-badge&color=22d3ee)
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=akxyverse&theme=tokyonight&hide_border=true" alt="GitHub streak stats" />
 
 </div>
 
