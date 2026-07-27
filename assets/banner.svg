@@ -52,12 +52,10 @@
     <circle cx="340" cy="180" r="3"/><circle cx="430" cy="195" r="3"/><circle cx="520" cy="150" r="3"/><circle cx="610" cy="165" r="3.5"/>
   </g>
 
-  <g transform="translate(70,150)">
-    <rect x="0"  y="45" width="13" height="45" rx="2" fill="url(#barGrad)"/>
-    <rect x="19" y="25" width="13" height="65" rx="2" fill="url(#barGrad)"/>
-    <rect x="38" y="55" width="13" height="35" rx="2" fill="url(#barGrad)"/>
-    <rect x="57" y="10" width="13" height="80" rx="2" fill="url(#barGrad)"/>
-  </g>
+  <!-- signature-style flourish, personal-brand touch -->
+  <path d="M20,95 C40,60 60,60 70,85 C80,110 95,110 100,80 C104,58 115,58 118,75"
+    fill="none" stroke="url(#spectrum)" stroke-width="4" stroke-linecap="round" opacity="0.85"/>
+  <circle cx="118" cy="75" r="5" fill="#f59e0b"/>
 
   <text x="150" y="150" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="46" font-weight="700" fill="#f8fafc">
     AKXYVERSE
