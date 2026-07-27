@@ -1,0 +1,76 @@
+<svg width="1200" height="320" viewBox="0 0 1200 320" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Akxyverse — Data Analytics Ecosystem banner">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#080b18"/>
+      <stop offset="50%" stop-color="#0b1f3a"/>
+      <stop offset="100%" stop-color="#1a0f3a"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="82%" cy="18%" r="65%">
+      <stop offset="0%" stop-color="#38bdf8" stop-opacity="0.30"/>
+      <stop offset="100%" stop-color="#38bdf8" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="spectrum" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38bdf8"/>
+      <stop offset="25%" stop-color="#22d3ee"/>
+      <stop offset="50%" stop-color="#a78bfa"/>
+      <stop offset="75%" stop-color="#d946ef"/>
+      <stop offset="100%" stop-color="#f59e0b"/>
+    </linearGradient>
+    <linearGradient id="barGrad" x1="0%" y1="100%" x2="0%" y2="0%">
+      <stop offset="0%" stop-color="#0f766e"/>
+      <stop offset="100%" stop-color="#c4b5fd"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="320" fill="url(#bg)"/>
+  <rect width="1200" height="320" fill="url(#glow)"/>
+
+  <!-- hub-and-spoke motif: central node connecting to 6 orbiting nodes, representing the ecosystem's repos -->
+  <g stroke-width="1.2" opacity="0.5">
+    <line x1="1000" y1="70" x2="930" y2="35" stroke="#38bdf8"/>
+    <line x1="1000" y1="70" x2="1080" y2="30" stroke="#22d3ee"/>
+    <line x1="1000" y1="70" x2="1120" y2="90" stroke="#a78bfa"/>
+    <line x1="1000" y1="70" x2="1090" y2="140" stroke="#d946ef"/>
+    <line x1="1000" y1="70" x2="1000" y2="150" stroke="#f59e0b"/>
+    <line x1="1000" y1="70" x2="920" y2="120" stroke="#5eead4"/>
+  </g>
+  <circle cx="1000" cy="70" r="7" fill="#f8fafc"/>
+  <g fill="#f8fafc" opacity="0.75">
+    <circle cx="930" cy="35" r="4"/><circle cx="1080" cy="30" r="4"/><circle cx="1120" cy="90" r="4"/>
+    <circle cx="1090" cy="140" r="4"/><circle cx="1000" cy="150" r="4"/><circle cx="920" cy="120" r="4"/>
+  </g>
+
+  <g fill="#38bdf8" opacity="0.10">
+    <circle cx="60" cy="40" r="2.2"/><circle cx="100" cy="40" r="2.2"/><circle cx="140" cy="40" r="2.2"/>
+    <circle cx="60" cy="70" r="2.2"/><circle cx="100" cy="70" r="2.2"/><circle cx="140" cy="70" r="2.2"/>
+  </g>
+
+  <polyline points="70,240 160,215 250,230 340,180 430,195 520,150 610,165"
+    fill="none" stroke="#c4b5fd" stroke-width="2.5" opacity="0.5"/>
+  <g fill="#c4b5fd" opacity="0.7">
+    <circle cx="70" cy="240" r="3"/><circle cx="160" cy="215" r="3"/><circle cx="250" cy="230" r="3"/>
+    <circle cx="340" cy="180" r="3"/><circle cx="430" cy="195" r="3"/><circle cx="520" cy="150" r="3"/><circle cx="610" cy="165" r="3.5"/>
+  </g>
+
+  <g transform="translate(70,150)">
+    <rect x="0"  y="45" width="13" height="45" rx="2" fill="url(#barGrad)"/>
+    <rect x="19" y="25" width="13" height="65" rx="2" fill="url(#barGrad)"/>
+    <rect x="38" y="55" width="13" height="35" rx="2" fill="url(#barGrad)"/>
+    <rect x="57" y="10" width="13" height="80" rx="2" fill="url(#barGrad)"/>
+  </g>
+
+  <text x="150" y="150" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="46" font-weight="700" fill="#f8fafc">
+    AKXYVERSE
+  </text>
+  <rect x="150" y="164" width="150" height="4" rx="2" fill="url(#spectrum)"/>
+  <text x="150" y="200" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="22" font-weight="500" fill="#cbd5f5">
+    Data Analytics &#8226; Data Engineering &#8226; AI Engineering
+  </text>
+  <text x="150" y="232" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#94a3c9">
+    The hub connecting every repository in this ecosystem
+  </text>
+
+  <text x="1130" y="295" text-anchor="end" font-family="Consolas, Menlo, monospace" font-size="14" fill="#5b6a94">
+    github.com/akxyverse
+  </text>
+</svg>

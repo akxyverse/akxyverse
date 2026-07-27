@@ -1,23 +1,78 @@
 <div align="center">
 
-<!-- Animated Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Akash%20Yadav&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Data%20Analyst%20%7C%20Python%20%7C%20SQL%20%7C%20BI%20Tools&descAlignY=55&descSize=18"/>
+<img src="./assets/logo.svg" alt="Akxyverse logo" width="92">
 
-<!-- Typing Animation -->
+<br><br>
+
+<img src="./assets/banner.svg" alt="Akxyverse — Data Analytics Ecosystem" width="100%">
+
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Transforming+Data+into+Insights+%F0%9F%93%8A;Python+%7C+SQL+%7C+Power+BI+%7C+Tableau;EDA+%7C+Dashboards+%7C+Storytelling;Always+Learning+New+Data+Tools+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
-<br/>
+<br>
 
-<!-- Profile Views & Followers -->
-<img src="https://komarev.com/ghpvc/?username=akxyverse&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
+<img src="https://komarev.com/ghpvc/?username=akxyverse&label=Profile%20Views&color=38bdf8&style=for-the-badge" alt="profile views"/>
 &nbsp;
 <a href="https://github.com/akxyverse?tab=followers">
-  <img src="https://img.shields.io/github/followers/akxyverse?label=Followers&style=social" alt="followers"/>
+  <img src="https://img.shields.io/github/followers/akxyverse?label=Followers&style=for-the-badge&color=22d3ee" alt="followers"/>
 </a>
 
 </div>
+
+<br>
+
+<table>
+<tr>
+<td width="25%" align="center" valign="top">
+
+**🧭 Who**
+
+Akash Yadav — Aspiring Data Analyst from India, learning and building in public.
+
+</td>
+<td width="25%" align="center" valign="top">
+
+**💡 Why This Page**
+
+The single starting point for everything I build — one hub, nine focused repositories.
+
+</td>
+<td width="25%" align="center" valign="top">
+
+**👥 For**
+
+Recruiters, hiring managers, fellow learners, and anyone exploring Data Analytics.
+
+</td>
+<td width="25%" align="center" valign="top">
+
+**🎁 Value**
+
+A live, growing map of real skills — not a static resume.
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+### 🧭 Explore the Ecosystem
+
+</div>
+
+<table>
+<tr>
+<td align="center" width="11%"><a href="https://github.com/akxyverse/data-analytics-knowledge-system"><b>🧠</b><br><sub>Knowledge Hub</sub></a></td>
+<td align="center" width="11%"><a href="https://github.com/akxyverse/data-analytics-projects"><b>🚀</b><br><sub>Projects</sub></a></td>
+<td align="center" width="11%"><a href="https://github.com/akxyverse/datasets"><b>📦</b><br><sub>Datasets</sub></a></td>
+<td align="center" width="11%"><a href="https://github.com/akxyverse/data-analytics-resources"><b>📚</b><br><sub>Resources</sub></a></td>
+<td align="center" width="11%"><a href="https://github.com/akxyverse/career-hub"><b>💼</b><br><sub>Career</sub></a></td>
+<td align="center" width="11%"><a href="https://github.com/akxyverse/content-studio"><b>✍️</b><br><sub>Content</sub></a></td>
+<td align="center" width="11%"><a href="https://github.com/akxyverse/certifications"><b>🏅</b><br><sub>Certs</sub></a></td>
+<td align="center" width="11%"><a href="https://github.com/akxyverse/ai-automation"><b>🤖</b><br><sub>AI Automation</sub></a></td>
+</tr>
+</table>
 
 ---
 
@@ -34,15 +89,14 @@
 - 🤖 **Extra Edge** — I leverage AI tools to automate and optimize analytical workflows
 - ⚡ **Fun Fact** — I believe every dataset has a story — I just find it 🔍
 
----
-
 ## 🛠️ Tech Stack & Tools
 
 <table align="center">
   <tr>
     <td align="center" width="50%">
 
-### 💻 Languages & Core
+**💻 Languages & Core**
+
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
@@ -50,7 +104,8 @@
 </td>
     <td align="center" width="50%">
 
-### 🗄️ Databases
+**🗄️ Databases**
+
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
@@ -60,7 +115,8 @@
   <tr>
     <td align="center">
 
-### 📦 Python Libraries
+**📦 Python Libraries**
+
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white"/>
@@ -71,7 +127,8 @@
 </td>
     <td align="center">
 
-### 📊 BI & Visualization
+**📊 BI & Visualization**
+
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
 <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
@@ -81,7 +138,8 @@
   <tr>
     <td align="center">
 
-### 🤖 AI Tools
+**🤖 AI Tools**
+
 <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white"/>
 <img src="https://img.shields.io/badge/Claude-CC785C?style=for-the-badge&logo=anthropic&logoColor=white"/>
 <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
@@ -92,7 +150,8 @@
 </td>
     <td align="center">
 
-### 🔄 Automation & Version Control
+**🔄 Automation & Version Control**
+
 <img src="https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white"/>
 <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
@@ -103,7 +162,8 @@
   <tr>
     <td colspan="2" align="center">
 
-### 🧰 Dev Environments
+**🧰 Dev Environments**
+
 <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 <img src="https://img.shields.io/badge/PyCharm-21D789?style=for-the-badge&logo=pycharm&logoColor=black"/>
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
@@ -114,28 +174,44 @@
   </tr>
 </table>
 
----
-
 ## 🗂️ Repository Ecosystem
 
-My Data Analytics work is organized across 8 focused repositories rather than one giant monorepo — each has a single, clear purpose:
+My Data Analytics work is organized across 9 focused repositories rather than one giant monorepo — each has a single, clear purpose, and every one shares the same design language:
 
-<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
 
-| Repository | Purpose |
-|---|---|
-| 🧠 [**data-analytics-knowledge-system**](https://github.com/akxyverse/data-analytics-knowledge-system) | Core DA learning — fundamentals, Python, SQL, BI tools |
-| 🚀 [**data-analytics-projects**](https://github.com/akxyverse/data-analytics-projects) | Hands-on projects — tool-wise, domain-wise, end-to-end |
-| 📦 [**datasets**](https://github.com/akxyverse/datasets) | Datasets shared across projects, organized by source |
-| 📚 [**data-analytics-resources**](https://github.com/akxyverse/data-analytics-resources) | Books, docs, papers, courses, cheat sheets |
-| 💼 [**career-hub**](https://github.com/akxyverse/career-hub) | Resume, interview prep, applications, career planning |
-| ✍️ [**content-studio**](https://github.com/akxyverse/content-studio) | LinkedIn posts, articles, tutorials, content assets |
-| 🏅 [**certifications**](https://github.com/akxyverse/certifications) | Certifications in progress, completed, and earned |
-| 🤖 [**ai-automation**](https://github.com/akxyverse/ai-automation) | Generative & Agentic AI, LangChain, n8n, automation |
+**🧠 [Data Analytics Knowledge Hub](https://github.com/akxyverse/data-analytics-knowledge-system)**
+Core DA learning — fundamentals, Python, SQL, BI tools
 
-</div>
+**🚀 [Data Analytics Projects](https://github.com/akxyverse/data-analytics-projects)**
+Hands-on projects — tool-wise, domain-wise, end-to-end
 
----
+**📦 [Datasets](https://github.com/akxyverse/datasets)**
+Datasets shared across projects, organized by source
+
+**📚 [Learning Resources](https://github.com/akxyverse/data-analytics-resources)**
+Books, docs, papers, courses, cheat sheets
+
+</td>
+<td width="50%" valign="top">
+
+**💼 [Career Hub](https://github.com/akxyverse/career-hub)**
+Resume, interview prep, applications, career planning
+
+**✍️ [Content Studio](https://github.com/akxyverse/content-studio)**
+LinkedIn posts, articles, tutorials, content assets
+
+**🏅 [Certifications](https://github.com/akxyverse/certifications)**
+Certifications in progress, completed, and earned
+
+**🤖 [AI Automation](https://github.com/akxyverse/ai-automation)**
+Generative & Agentic AI, LangChain, n8n, automation
+
+</td>
+</tr>
+</table>
 
 ## 🌟 Featured Projects
 
@@ -178,8 +254,6 @@ Analyzed 43K+ delivery records with 30+ visualizations — KPI metrics and insig
 
 <sub>Not shown here: a private algorithmic trading repository (kept private by design) and a forked reference notes repository (not original work).</sub>
 
----
-
 ## 📈 GitHub Stats
 
 <div align="center">
@@ -193,13 +267,9 @@ Analyzed 43K+ delivery records with 30+ visualizations — KPI metrics and insig
 
 </div>
 
----
-
 ## 📊 Contribution Graph
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=akxyverse&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
-
----
 
 ## 🏆 GitHub Trophies
 
@@ -209,12 +279,14 @@ Analyzed 43K+ delivery records with 30+ visualizations — KPI metrics and insig
 
 ---
 
-## 🌐 Connect With Me
-
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akash-yadav-122a75288/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/akxyverse)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akash-yadav-122a75288/)
+[![GitHub](https://img.shields.io/badge/GitHub-akxyverse-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/akxyverse)
+[![Gmail](https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akashyadav110502@gmail.com)
+
+**⭐ If any of this ecosystem is useful to you, a star goes a long way.**
+
+<sub>Akash Yadav — learning in public, one repository at a time.</sub>
 
 </div>
