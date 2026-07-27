@@ -76,6 +76,60 @@ A live, growing map of real skills — not a static resume.
 
 ---
 
+## 🗺 Choose Your Path
+
+*First time here? Pick what you're looking for.*
+
+<table>
+<tr>
+<td width="25%" align="center" valign="top">
+
+### 🎓 Student
+*Learning data analytics from scratch*
+
+**Start here:**
+1. [Knowledge Hub](https://github.com/akxyverse/data-analytics-knowledge-system) — fundamentals
+2. [Learning Resources](https://github.com/akxyverse/data-analytics-resources) — guides & guidebooks
+3. [Projects](https://github.com/akxyverse/data-analytics-projects) — see it applied
+
+</td>
+<td width="25%" align="center" valign="top">
+
+### 💼 Recruiter
+*Evaluating my work*
+
+**Start here:**
+1. [Featured Projects](#-featured-projects) below
+2. [Certifications](https://github.com/akxyverse/certifications) — verified credentials
+3. [Career Hub](https://github.com/akxyverse/career-hub) — resume & experience
+
+</td>
+<td width="25%" align="center" valign="top">
+
+### 📊 Fellow Analyst
+*Looking for projects, tools, techniques*
+
+**Start here:**
+1. [Projects](https://github.com/akxyverse/data-analytics-projects) — end-to-end work
+2. [Datasets](https://github.com/akxyverse/datasets) — real data sources
+3. [Knowledge Hub](https://github.com/akxyverse/data-analytics-knowledge-system) — technical notes
+
+</td>
+<td width="25%" align="center" valign="top">
+
+### 🤖 AI Enthusiast
+*Interested in automation*
+
+**Start here:**
+1. [AI Automation](https://github.com/akxyverse/ai-automation) — LangChain, n8n, agents
+2. [Projects](https://github.com/akxyverse/data-analytics-projects) — applied AI work
+
+</td>
+</tr>
+</table>
+
+---
+
 ## 👨‍💻 About Me
 
 👋 Hi! I'm **Akash Yadav**, an Aspirant **Data Analyst** from **India 🇮🇳**
@@ -266,6 +320,19 @@ Analyzed 43K+ delivery records with 30+ visualizations — KPI metrics and insig
 ## 📊 Contribution Graph
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=akxyverse&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+
+## 🔭 Currently Working On
+
+- 🟡 SQL (Intermediate/Advanced) — building on the [SQL Basic](https://github.com/akxyverse/certifications) certification already earned
+- 🟡 [SQL, Python, Power BI & Tableau guidebooks](https://github.com/akxyverse/data-analytics-resources/tree/main/Guidebooks) — expanding the guidebook library beyond Excel
+- 🟡 A formal cloud certification (see the [Certifications roadmap](https://github.com/akxyverse/certifications#-roadmap--whats-next))
+
+## 💬 Why Follow
+
+- 📊 Real, migrated, working projects — not links to someone else's repo
+- 🧠 Structured learning notes, not scattered snippets
+- 🏅 Verified certifications with credential links, not just badges for show
+- 🔓 Everything documented and open — fork the structure for your own learning system
 
 ---
 
