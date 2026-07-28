@@ -38,20 +38,6 @@ Building a connected ecosystem of real, working data projects — not just a lis
   <img src="https://img.shields.io/badge/%F0%9F%93%9A%20Knowledge%20Hub-22d3ee?style=for-the-badge" alt="Knowledge Hub"/>
 </a>
 &nbsp;
-<a href="https://github.com/akxyverse/ai-automation">
-  <img src="https://img.shields.io/badge/%F0%9F%A4%96%20AI%20Lab-8b5cf6?style=for-the-badge" alt="AI Lab"/>
-</a>
-
-<br><br>
-
-<a href="https://github.com/akxyverse/career-hub">
-  <img src="https://img.shields.io/badge/%F0%9F%92%BC%20Career%20Hub-f59e0b?style=for-the-badge" alt="Career Hub"/>
-</a>
-&nbsp;
-<a href="https://github.com/akxyverse/data-analytics-resources">
-  <img src="https://img.shields.io/badge/%F0%9F%93%96%20Resources-14b8a6?style=for-the-badge" alt="Resources"/>
-</a>
-&nbsp;
 <a href="https://www.linkedin.com/in/akash-yadav-122a75288/">
   <img src="https://img.shields.io/badge/%F0%9F%94%97%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
@@ -181,10 +167,7 @@ A live, growing map of real skills — not a static resume.
 ### 🎓 Student
 *Learning data analytics from scratch*
 
-**Start here:**
-1. [Knowledge Hub](https://github.com/akxyverse/data-analytics-knowledge-system) — fundamentals
-2. [Learning Resources](https://github.com/akxyverse/data-analytics-resources) — guides & guidebooks
-3. [Projects](https://github.com/akxyverse/data-analytics-projects) — see it applied
+[Knowledge Hub](https://github.com/akxyverse/data-analytics-knowledge-system) → [Learning Resources](https://github.com/akxyverse/data-analytics-resources) → [Projects](https://github.com/akxyverse/data-analytics-projects)
 
 </td>
 <td width="25%" align="center" valign="top">
@@ -192,10 +175,7 @@ A live, growing map of real skills — not a static resume.
 ### 💼 Recruiter
 *Evaluating my work*
 
-**Start here:**
-1. [Featured Project Universe](#-featured-project-universe) below
-2. [Certifications](https://github.com/akxyverse/certifications) — verified credentials
-3. [Career Hub](https://github.com/akxyverse/career-hub) — resume & experience
+[Featured Project Universe](#-featured-project-universe) → [Certifications](https://github.com/akxyverse/certifications) → [Career Hub](https://github.com/akxyverse/career-hub)
 
 </td>
 <td width="25%" align="center" valign="top">
@@ -203,10 +183,7 @@ A live, growing map of real skills — not a static resume.
 ### 📊 Fellow Analyst
 *Looking for projects, tools, techniques*
 
-**Start here:**
-1. [Projects](https://github.com/akxyverse/data-analytics-projects) — end-to-end work
-2. [Datasets](https://github.com/akxyverse/datasets) — real data sources
-3. [Knowledge Hub](https://github.com/akxyverse/data-analytics-knowledge-system) — technical notes
+[Projects](https://github.com/akxyverse/data-analytics-projects) → [Datasets](https://github.com/akxyverse/datasets) → [Knowledge Hub](https://github.com/akxyverse/data-analytics-knowledge-system)
 
 </td>
 <td width="25%" align="center" valign="top">
@@ -214,9 +191,7 @@ A live, growing map of real skills — not a static resume.
 ### 🤖 AI Enthusiast
 *Interested in automation*
 
-**Start here:**
-1. [AI Automation](https://github.com/akxyverse/ai-automation) — LangChain, n8n, agents
-2. [Projects](https://github.com/akxyverse/data-analytics-projects) — applied AI work
+[AI Automation](https://github.com/akxyverse/ai-automation) → [Projects](https://github.com/akxyverse/data-analytics-projects)
 
 </td>
 </tr>
@@ -230,8 +205,6 @@ A live, growing map of real skills — not a static resume.
 
 **🐍 Languages**
 <br>
-<sub>Core programming languages for data manipulation, querying, and analysis.</sub>
-<br>
 <img src="https://img.shields.io/badge/Python-242938?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python"/>
 <img src="https://img.shields.io/badge/Java-242938?style=for-the-badge&logo=openjdk&logoColor=ED8B00" alt="Java"/>
 <img src="https://img.shields.io/badge/SQL-242938?style=for-the-badge&logo=mysql&logoColor=4479A1" alt="SQL"/>
@@ -240,8 +213,6 @@ A live, growing map of real skills — not a static resume.
 
 **🗄️ Databases**
 <br>
-<sub>Relational and cloud databases for storing, querying, and managing structured data.</sub>
-<br>
 <img src="https://img.shields.io/badge/MySQL-242938?style=for-the-badge&logo=mysql&logoColor=4479A1" alt="MySQL"/>
 <img src="https://img.shields.io/badge/PostgreSQL-242938?style=for-the-badge&logo=postgresql&logoColor=4169E1" alt="PostgreSQL"/>
 <img src="https://img.shields.io/badge/Supabase-242938?style=for-the-badge&logo=supabase&logoColor=3ECF8E" alt="Supabase"/>
@@ -249,8 +220,6 @@ A live, growing map of real skills — not a static resume.
 <br><br>
 
 **📦 Python Ecosystem**
-<br>
-<sub>Libraries for data wrangling, numerical computing, and interactive visualization.</sub>
 <br>
 <img src="https://img.shields.io/badge/Pandas-242938?style=for-the-badge&logo=pandas&logoColor=E70488" alt="Pandas"/>
 <img src="https://img.shields.io/badge/NumPy-242938?style=for-the-badge&logo=numpy&logoColor=4DABCF" alt="NumPy"/>
@@ -263,8 +232,6 @@ A live, growing map of real skills — not a static resume.
 
 **📊 Analytics & BI**
 <br>
-<sub>Interactive dashboards, business reporting, KPI tracking and visual storytelling.</sub>
-<br>
 <img src="https://img.shields.io/badge/Power%20BI-242938?style=for-the-badge&logoColor=F2C811" alt="Power BI"/>
 <img src="https://img.shields.io/badge/Tableau-242938?style=for-the-badge&logoColor=E97627" alt="Tableau"/>
 <img src="https://img.shields.io/badge/Excel-242938?style=for-the-badge&logoColor=217346" alt="Excel"/>
@@ -272,8 +239,6 @@ A live, growing map of real skills — not a static resume.
 <br><br>
 
 **🤖 AI & Automation**
-<br>
-<sub>AI-assisted analysis and workflow automation, from chat-based tools to no-code pipelines.</sub>
 <br>
 <img src="https://img.shields.io/badge/ChatGPT-242938?style=for-the-badge&logoColor=74aa9c" alt="ChatGPT"/>
 <img src="https://img.shields.io/badge/Claude-242938?style=for-the-badge&logo=claude&logoColor=CC785C" alt="Claude"/>
@@ -287,8 +252,6 @@ A live, growing map of real skills — not a static resume.
 <br><br>
 
 **⚙️ Development Tools**
-<br>
-<sub>Version control and the day-to-day environments used to write, test, and ship code.</sub>
 <br>
 <img src="https://img.shields.io/badge/Git-242938?style=for-the-badge&logo=git&logoColor=F05032" alt="Git"/>
 <img src="https://img.shields.io/badge/GitHub-242938?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
@@ -311,8 +274,6 @@ Real, working analytics products — not just repositories. Each one solves an a
 ### ⚡ ThunderCast — Storm Forecasting Platform
 <sub>⭐ Flagship Project</sub>
 
-*Real-time thunderstorm prediction, built end-to-end.*
-
 Time-series forecasting with Facebook Prophet, live weather API integration, delivered as an interactive Streamlit dashboard.
 
 `Python` `Prophet` `Streamlit`
@@ -322,8 +283,6 @@ Time-series forecasting with Facebook Prophet, live weather API integration, del
 ---
 
 ### 📦 Supply Chain Analytics Dashboard
-
-*Where are delivery delays actually coming from?*
 
 43K+ delivery records analyzed across 30+ visualizations, surfacing KPI metrics on delivery performance and agent efficiency.
 
@@ -335,8 +294,6 @@ Time-series forecasting with Facebook Prophet, live weather API integration, del
 
 ### 🎮 Esports & Gaming Revenue Analytics
 
-*16 years of industry revenue, one interactive dashboard.*
-
 400+ records across 25 countries (2010–2025) — 17.7% CAGR in gaming revenue, with clear Europe/Asia market dominance.
 
 `Python` `Tableau` `EDA`
@@ -346,8 +303,6 @@ Time-series forecasting with Facebook Prophet, live weather API integration, del
 ---
 
 ### 📊 Excel Roadmap Guide
-
-*A complete, self-contained Excel learning path.*
 
 30 skills across 4 levels — from basics to Data Analyst-ready, built as a free, structured resource for aspiring analysts.
 
@@ -409,9 +364,7 @@ Live insight into the Akxyverse ecosystem — development activity, languages, a
 
 <br><br>
 
-<sub><b>📊 OVERVIEW</b></sub>
-<br>
-<sub>A snapshot of the account behind Akxyverse.</sub>
+<sub><b>📊 ACCOUNT OVERVIEW</b></sub>
 <br>
 <img src="https://img.shields.io/github/stars/akxyverse/data-analytics-projects?style=for-the-badge&logo=github&label=Project%20Stars&color=8b5cf6" alt="Project Stars">
 
@@ -422,34 +375,26 @@ Live insight into the Akxyverse ecosystem — development activity, languages, a
 
 <br><br>
 
-<sub><b>💻 DEVELOPMENT INSIGHTS</b></sub>
-<br>
-<sub>What gets used, by repo and by commit.</sub>
+<sub><b>💻 LANGUAGES BY REPO & BY COMMIT</b></sub>
 <br>
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=akxyverse&theme=tokyonight" alt="Languages by Repo">
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=akxyverse&theme=tokyonight" alt="Languages by Commit">
 
 <br><br>
 
-<sub><b>⏰ ACTIVITY PATTERNS</b></sub>
-<br>
-<sub>When the work actually happens.</sub>
+<sub><b>⏰ PRODUCTIVE HOURS (IST)</b></sub>
 <br>
 <img width="60%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=akxyverse&theme=tokyonight&utcOffset=5.5" alt="Productive Time (IST, UTC+5:30)">
 
 <br><br>
 
-<sub><b>🌱 CONTRIBUTION ACTIVITY</b></sub>
-<br>
-<sub>The shape of a year of commits.</sub>
+<sub><b>🌱 CONTRIBUTION GRAPH (PAST YEAR)</b></sub>
 <br>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=akxyverse&theme=tokyo-night&hide_border=false&area=true" width="100%" alt="akxyverse's GitHub contribution activity graph over the past year"/>
 
 <br><br>
 
-<sub><b>🐍 CONTRIBUTION JOURNEY</b></sub>
-<br>
-<sub>The same activity, one square at a time.</sub>
+<sub><b>🐍 CONTRIBUTION SNAKE</b></sub>
 <br>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/akxyverse/akxyverse/output/github-contribution-grid-snake-dark.svg">
@@ -459,8 +404,6 @@ Live insight into the Akxyverse ecosystem — development activity, languages, a
 
 </div>
 
-<sub>Widgets served by the official <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">github-profile-summary-cards</a>, <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">github-readme-activity-graph</a>, and <a href="https://github.com/Platane/snk">Platane/snk</a> public instances — occasionally slow or unavailable under shared load; they self-recover without any change needed here.</sub>
-
 ## 🏆 Hall of Achievements
 
 Milestones that reflect continuous learning, shipped work, open knowledge, and credentials worth verifying — not badges collected for their own sake.
@@ -469,25 +412,23 @@ Milestones that reflect continuous learning, shipped work, open knowledge, and c
 
 **🚀 Shipped Projects**
 <br>
-Four real, documented projects — from a live storm-forecasting dashboard to a 43K-record supply chain analysis, each with source code and most with a working live demo. [See Featured Project Universe →](#-featured-project-universe)
+Real, documented, end-to-end analytics work — from live dashboards to interactive forecasting tools, each with source code and most with a working live demo. [See Featured Project Universe →](#-featured-project-universe)
 
 <br>
 
 **📚 Open Knowledge**
 <br>
-A published, free 30-skill Excel Roadmap Guide, structured across 4 levels from basics to Data Analyst-ready. [View Guide →](https://github.com/akxyverse/data-analytics-resources/tree/main/Guidebooks/Excel%20Roadmap%20Guide)
-<br>
-A growing Knowledge Hub and Learning Resources library — the learning process kept in the open, not in private notes.
+Free guidebooks and a growing Knowledge Hub — the learning process kept in the open, not in private notes. [View Resources →](https://github.com/akxyverse/data-analytics-resources)
 
 <br>
 
 **🏅 Verified Certifications**
 <br>
-5 completed certifications spanning Git & Version Control, Azure Machine Learning, SQL, and professional development — each linked to the issuer's own verification page where one exists. [See Certifications →](https://github.com/akxyverse/certifications)
+Completed certifications across data analytics, cloud, and professional development — each linked to the issuer's own verification page where one exists. [See Certifications →](https://github.com/akxyverse/certifications)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=60&color=0:38bdf8,100:8b5cf6&section=header" width="100%" alt=""/>
 
-## 🌍 Connect with Akxyverse
+## 🌍 Connect with Akash Yadav
 
 <div align="center">
 
@@ -497,9 +438,9 @@ Whether you're here to learn, collaborate, or just see how a project comes toget
 
 <br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-akxyverse-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/akxyverse)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akash-yadav-122a75288/)
-[![Gmail](https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akashyadav110502@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/akxyverse)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akash-yadav-122a75288/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akashyadav110502@gmail.com)
 
 <br>
 
