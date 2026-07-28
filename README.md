@@ -354,25 +354,24 @@ Analyzed 43K+ delivery records with 30+ visualizations — KPI metrics and insig
 
 <img src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif" width="260">
 
-<br><br>
+<br>
 
 <sub><b>📊 PROFILE METRICS</b></sub>
 <br>
-<img src="https://img.shields.io/github/followers/akxyverse?style=for-the-badge&color=38bdf8&label=Followers" alt="Followers">
-&nbsp;•&nbsp;
-<img src="https://komarev.com/ghpvc/?username=akxyverse&label=Profile%20Views&color=22d3ee&style=for-the-badge" alt="Profile Views">
-&nbsp;•&nbsp;
 <img src="https://img.shields.io/github/stars/akxyverse/data-analytics-projects?style=for-the-badge&logo=github&label=Project%20Stars&color=8b5cf6" alt="Project Stars">
+&nbsp;•&nbsp;
+<img src="https://img.shields.io/badge/Commits%20(Past%20Year)-95-38bdf8?style=for-the-badge" alt="Commits in the past year">
+&nbsp;•&nbsp;
+<img src="https://img.shields.io/badge/Public%20Repos-13-22d3ee?style=for-the-badge" alt="Public repositories">
 
-<br><br>
+<br>
 
 <sub><b>📋 PROFILE SUMMARY & STATS</b></sub>
 <br>
-<img align="left" width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akxyverse&theme=radical" alt="Profile Summary Card">
-<img align="right" width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=akxyverse&theme=radical" alt="GitHub Stats Card">
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akxyverse&theme=radical" alt="Profile Summary Card">
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=akxyverse&theme=radical" alt="GitHub Stats Card">
 
-<br clear="both">
-<br><br>
+<br>
 
 <sub><b>🧠 LANGUAGES & ACTIVITY</b></sub>
 <br>
@@ -380,7 +379,7 @@ Analyzed 43K+ delivery records with 30+ visualizations — KPI metrics and insig
 <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=akxyverse&theme=radical" alt="Languages by Commit">
 <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=akxyverse&theme=radical&utcOffset=5.5" alt="Productive Time (IST, UTC+5:30)">
 
-<br><br>
+<br>
 
 <sub><b>⭐ FEATURED PROJECT</b></sub>
 <br>
