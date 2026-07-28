@@ -20,13 +20,7 @@
 
 </div>
 
-<br><br>
-
-<div align="center">
-<img src="./assets/data-analytics-hero.png" alt="Data Analytics — dashboards, charts, and a team turning raw data into decisions" width="1100">
-</div>
-
-<br><br>
+<br>
 
 ## 👨‍💻 About Me
 
