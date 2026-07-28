@@ -68,19 +68,21 @@ Building a connected ecosystem of real, working data projects — not just a lis
 
 <br><br>
 
-## 🪐 About Akxyverse
+## 👨‍💻 About Me
 
 <img align="right" width="340" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="">
 
-Akxyverse is a growing ecosystem for Data Analytics, AI, Automation, real projects, guidebooks, and learning in public — built and maintained by **Akash Yadav**.
-
-### 👋 Welcome
-
-This isn't a single portfolio — it's a connected set of repositories covering everything from raw data to shipped dashboards, from fundamentals to AI-assisted workflows. Explore whichever part is relevant to you, or follow the whole journey.
-
 ### 👨‍💻 Meet the Creator
 
-Hi, I'm **Akash Yadav** — the person behind Akxyverse. I'm based in **India 🇮🇳**, currently building toward a career as a Data Analyst, and everything here is genuinely mine: one person, learning and shipping in public, not a template filled in.
+Hi, I'm **Akash Yadav**, based in **India 🇮🇳** and currently building toward a career as a Data Analyst, one real project at a time.
+
+I like the moment a messy, unstructured dataset turns into something someone can actually act on — a dashboard, a clear number, a decision made a little more confidently. That's the part of the work I keep coming back to.
+
+Akxyverse exists because my learning used to live scattered across notes, bookmarks, and half-finished folders. I built this ecosystem so everything — the projects, the fundamentals, the guidebooks, the proof of work — has one structured, public home instead of disappearing into private files.
+
+### 🪐 Welcome to Akxyverse
+
+Akxyverse is my ecosystem for Data Analytics, AI, Automation, real projects, guidebooks, and learning in public. It isn't a single portfolio — it's a connected set of repositories covering everything from raw data to shipped dashboards, from fundamentals to AI-assisted workflows. Explore whichever part is relevant to you, or follow the whole journey.
 
 ### 🎯 Mission
 
@@ -97,14 +99,14 @@ Turn raw data into decisions people can actually act on. Build analytics product
 - ✍️ **[Content Studio](https://github.com/akxyverse/content-studio)** — articles, tutorials, and content assets
 - 📦 **[Datasets](https://github.com/akxyverse/datasets)** — the data behind every project, organized by source
 
-### 🧭 Philosophy
+### 💭 Philosophy
 
 Build in public, not behind closed doors.
 Ship real projects, not just tutorials.
 Document the process, not just the outcome.
 Every version should be better than the last.
 
-### 🔭 Currently Exploring
+### 🚀 Currently Exploring
 
 Machine Learning · Advanced SQL · DAX
 
