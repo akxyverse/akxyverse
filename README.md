@@ -43,26 +43,20 @@
 
 <img align="right" width="340" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 
-### 👋 Who I Am
-I'm **Akash Yadav**, an aspiring **Data Analyst** based in **India 🇮🇳**. I build practical, end-to-end analytics projects and document the process publicly as I learn — this profile is that record.
+### 👋 Hi, I'm Akash Yadav
+**Aspirant Data Analyst** turning raw data into decisions — based in **India 🇮🇳**
 
-### 🎯 Current Focus
-- End-to-end Data Analytics projects — cleaning, EDA, visualization, dashboards
-- SQL and Python for data manipulation and analysis
-- Power BI and Tableau for business intelligence
-- AI-assisted analytical workflows
+> *Every dataset has a story. I just find it.*
 
-### 🚀 Currently Building
-- **[Excel Roadmap Guide](https://github.com/akxyverse/data-analytics-resources/tree/main/Guidebooks/Excel%20Roadmap%20Guide)** — a 30-skill, 4-level Excel learning path for aspiring analysts
-- **[ThunderCast](https://github.com/akxyverse/data-analytics-projects/tree/main/End-to-End%20Projects/ThunderCast)** — real-time thunderstorm prediction using Prophet time-series forecasting
-- **[Esports & Gaming Revenue Analytics](https://github.com/akxyverse/data-analytics-projects/tree/main/Domain-wise%20Projects/Others/Esports%20Gaming%20Revenue%20Analytics)** — a Tableau dashboard analyzing 16 years of industry revenue trends
-- **[Supply Chain Analytics Dashboard](https://github.com/akxyverse/data-analytics-projects/tree/main/Domain-wise%20Projects/Logistics/Supply%20Chain%20Analytics%20Dashboard)** — delivery performance analysis across 43K+ records
-
-### 📚 Learning in Public
-Every step is documented, not just the finished results — fundamentals in the [Knowledge Hub](https://github.com/akxyverse/data-analytics-knowledge-system), study material in [Learning Resources](https://github.com/akxyverse/data-analytics-resources), verified progress in [Certifications](https://github.com/akxyverse/certifications), and applied work in [Data Analytics Projects](https://github.com/akxyverse/data-analytics-projects).
-
-### 🌍 Why Follow My Journey
-Expect new shipped projects, interactive dashboards, structured notes, guidebooks, and AI-assisted analytics workflows — an evolving record of a Data Analyst learning in public, not a static resume.
+- 🎯 **Role** — Aspirant Data Analyst passionate about turning raw data into decisions
+- 📍 **Location** — India 🇮🇳
+- 🔭 **Focus** — Data Cleaning · EDA · Visualization · Dashboards
+- 🛠️ **Core Tools** — Python · SQL · Power BI · Tableau · Excel · Pandas · Streamlit
+- 📚 **Currently Learning** — Machine Learning · Advanced SQL · DAX
+- 📊 **What I do** — Clean & transform complex datasets, build interactive dashboards, and deliver data-driven insights
+- 🤖 **Extra Edge** — I leverage AI tools to automate and optimize analytical workflows
+- 🌱 **Growth** — Went from spreadsheets to end-to-end dashboards and forecasting pipelines, one shipped project at a time
+- 💬 **Ask Me About** — Data cleaning tricks, dashboard design, or how I structured this whole ecosystem
 
 <br>
 
