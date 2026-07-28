@@ -354,25 +354,36 @@ Analyzed 43K+ delivery records with 30+ visualizations — KPI metrics and insig
 
 <img src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif" width="260">
 
-![Followers](https://img.shields.io/github/followers/akxyverse?style=for-the-badge&color=38bdf8&label=Followers)
-![Project Stars](https://img.shields.io/github/stars/akxyverse/data-analytics-projects?style=for-the-badge&logo=github&label=Project%20Stars&color=8b5cf6)
+<br><br>
 
-</div>
-
-<div align="center">
-
-<img align="left" width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akxyverse&theme=radical" alt="akxyverse's GitHub stats">
-<img align="right" width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=akxyverse&theme=radical" alt="akxyverse's streak stats">
-
-<br clear="both">
+<sub><b>📊 PROFILE METRICS</b></sub>
 <br>
-
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=akxyverse&theme=radical" alt="akxyverse's top languages by repo">
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=akxyverse&theme=radical" alt="akxyverse's top languages by commit">
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=akxyverse&theme=radical&utcOffset=5.5" alt="akxyverse's productive time (IST, UTC+5:30)">
+<img src="https://img.shields.io/github/followers/akxyverse?style=for-the-badge&color=38bdf8&label=Followers" alt="Followers">
+&nbsp;•&nbsp;
+<img src="https://komarev.com/ghpvc/?username=akxyverse&label=Profile%20Views&color=22d3ee&style=for-the-badge" alt="Profile Views">
+&nbsp;•&nbsp;
+<img src="https://img.shields.io/github/stars/akxyverse/data-analytics-projects?style=for-the-badge&logo=github&label=Project%20Stars&color=8b5cf6" alt="Project Stars">
 
 <br><br>
 
+<sub><b>📋 PROFILE SUMMARY & STATS</b></sub>
+<br>
+<img align="left" width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akxyverse&theme=radical" alt="Profile Summary Card">
+<img align="right" width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=akxyverse&theme=radical" alt="GitHub Stats Card">
+
+<br clear="both">
+<br><br>
+
+<sub><b>🧠 LANGUAGES & ACTIVITY</b></sub>
+<br>
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=akxyverse&theme=radical" alt="Languages by Repo">
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=akxyverse&theme=radical" alt="Languages by Commit">
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=akxyverse&theme=radical&utcOffset=5.5" alt="Productive Time (IST, UTC+5:30)">
+
+<br><br>
+
+<sub><b>⭐ FEATURED PROJECT</b></sub>
+<br>
 <img width="70%" src="https://socialify.git.ci/akxyverse/data-analytics-projects/image?theme=Dark&pattern=Circuit%20Board&language=1&owner=1&name=1&description=1&font=Inter" alt="Featured repo — data-analytics-projects">
 
 </div>
