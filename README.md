@@ -267,10 +267,6 @@ Generative & Agentic AI, LangChain, n8n, automation
 </tr>
 </table>
 
-<div align="center">
-<img src="./assets/data-analytics-divider.jpg" alt="Data Analytics — turning raw data into decisions" width="100%">
-</div>
-
 ## 🌟 Featured Projects
 
 Fully hosted inside [`data-analytics-projects`](https://github.com/akxyverse/data-analytics-projects) and [`data-analytics-resources`](https://github.com/akxyverse/data-analytics-resources) — each with its own live demo and full documentation:
