@@ -393,54 +393,67 @@ Time-series forecasting with Facebook Prophet, live weather API integration, del
 
 <sub>Not shown here: a private algorithmic trading repository (kept private by design) and a forked reference notes repository (not original work — see <a href="https://github.com/akxyverse/data-analytics-resources/tree/main/External%20Study%20Resources">External Study Resources</a>).</sub>
 
-## 📈 GitHub Stats
+## 📈 Live Activity
+
+Live insight into the Akxyverse ecosystem — development activity, languages, and contribution patterns, pulled straight from GitHub.
 
 <div align="center">
 
 <img src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif" width="260">
 
-<br>
+<br><br>
 
-<sub><b>📊 PROFILE METRICS</b></sub>
+<sub><b>📊 OVERVIEW</b></sub>
+<br>
+<sub>A snapshot of the account behind Akxyverse.</sub>
 <br>
 <img src="https://img.shields.io/github/stars/akxyverse/data-analytics-projects?style=for-the-badge&logo=github&label=Project%20Stars&color=8b5cf6" alt="Project Stars">
-&nbsp;•&nbsp;
-<img src="https://img.shields.io/badge/Commits%20(Past%20Year)-95-38bdf8?style=for-the-badge" alt="Commits in the past year">
-&nbsp;•&nbsp;
-<img src="https://img.shields.io/badge/Public%20Repos-13-22d3ee?style=for-the-badge" alt="Public repositories">
 
-<br>
+<br><br>
 
-<sub><b>📋 PROFILE SUMMARY & STATS</b></sub>
-<br>
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akxyverse&theme=tokyonight" alt="Profile Summary Card">
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=akxyverse&theme=tokyonight" alt="GitHub Stats Card">
 
+<br><br>
+
+<sub><b>💻 DEVELOPMENT INSIGHTS</b></sub>
 <br>
-
-<sub><b>🧠 LANGUAGES & ACTIVITY</b></sub>
+<sub>What gets used, by repo and by commit.</sub>
 <br>
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=akxyverse&theme=tokyonight" alt="Languages by Repo">
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=akxyverse&theme=tokyonight" alt="Languages by Commit">
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=akxyverse&theme=tokyonight&utcOffset=5.5" alt="Productive Time (IST, UTC+5:30)">
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=akxyverse&theme=tokyonight" alt="Languages by Repo">
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=akxyverse&theme=tokyonight" alt="Languages by Commit">
 
-</div>
+<br><br>
 
-<sub>Widgets served by the official <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">github-profile-summary-cards</a> and <a href="https://github.com/anuraghazra/github-readme-stats">github-readme-stats</a> public instances — occasionally slow or unavailable under shared load; they self-recover without any change needed here.</sub>
+<sub><b>⏰ ACTIVITY PATTERNS</b></sub>
+<br>
+<sub>When the work actually happens.</sub>
+<br>
+<img width="60%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=akxyverse&theme=tokyonight&utcOffset=5.5" alt="Productive Time (IST, UTC+5:30)">
 
-## 📈 Contribution Graph 📈
+<br><br>
 
-<div align="center">
+<sub><b>🌱 CONTRIBUTION ACTIVITY</b></sub>
+<br>
+<sub>The shape of a year of commits.</sub>
+<br>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=akxyverse&theme=tokyo-night&hide_border=false&area=true" width="100%"/>
-</div>
 
-<div align="center">
+<br><br>
+
+<sub><b>🐍 CONTRIBUTION JOURNEY</b></sub>
+<br>
+<sub>The same activity, one square at a time.</sub>
+<br>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/akxyverse/akxyverse/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/akxyverse/akxyverse/output/github-contribution-grid-snake.svg">
   <img alt="akxyverse's contribution snake" src="https://raw.githubusercontent.com/akxyverse/akxyverse/output/github-contribution-grid-snake.svg" width="100%">
 </picture>
+
 </div>
+
+<sub>Widgets served by the official <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">github-profile-summary-cards</a>, <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">github-readme-activity-graph</a>, and <a href="https://github.com/Platane/snk">Platane/snk</a> public instances — occasionally slow or unavailable under shared load; they self-recover without any change needed here.</sub>
 
 ## 🔭 Currently Working On
 
