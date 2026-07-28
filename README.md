@@ -267,52 +267,13 @@ A live, growing map of real skills — not a static resume.
 
 ## 🚀 Featured Project Universe
 
-Real, working analytics products — not just repositories. Each one solves an actual problem end to end, and most of them you can open and use right now.
+Real, working analytics products, not a static list — new ones ship regularly, so this points straight to the live source instead of going stale.
 
-<br>
+<div align="center">
 
-### ⚡ ThunderCast — Storm Forecasting Platform
-<sub>⭐ Flagship Project</sub>
+**🚀 [Browse All Projects →](https://github.com/akxyverse/data-analytics-projects)**
 
-Time-series forecasting with Facebook Prophet, live weather API integration, delivered as an interactive Streamlit dashboard.
-
-`Python` `Prophet` `Streamlit`
-
-[**View Project →**](https://github.com/akxyverse/data-analytics-projects/tree/main/End-to-End%20Projects/ThunderCast) &nbsp;·&nbsp; [🔗 Live Demo](https://akxyverse-thundercast-smart-storm-predictio-dashboardapp-xqeckf.streamlit.app/)
-
----
-
-### 📦 Supply Chain Analytics Dashboard
-
-43K+ delivery records analyzed across 30+ visualizations, surfacing KPI metrics on delivery performance and agent efficiency.
-
-`Python` `Streamlit`
-
-[**View Project →**](https://github.com/akxyverse/data-analytics-projects/tree/main/Domain-wise%20Projects/Logistics/Supply%20Chain%20Analytics%20Dashboard) &nbsp;·&nbsp; [🔗 Live Demo](https://supply-chain-analytics-system-5tlaustxwavffqjplsgutw.streamlit.app/)
-
----
-
-### 🎮 Esports & Gaming Revenue Analytics
-
-400+ records across 25 countries (2010–2025) — 17.7% CAGR in gaming revenue, with clear Europe/Asia market dominance.
-
-`Python` `Tableau` `EDA`
-
-[**View Project →**](https://github.com/akxyverse/data-analytics-projects/tree/main/Domain-wise%20Projects/Others/Esports%20Gaming%20Revenue%20Analytics) &nbsp;·&nbsp; [🔗 Live Demo](https://public.tableau.com/views/GamingEsportsSalesAnalyticsDasboard/GamingEsportsRevenueAnalyticsDashboard20102025?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
-
----
-
-### 📊 Excel Roadmap Guide
-
-30 skills across 4 levels — from basics to Data Analyst-ready, built as a free, structured resource for aspiring analysts.
-
-`Excel` `Data Analysis` `Free Resource`
-
-[**View Project →**](https://github.com/akxyverse/data-analytics-resources/tree/main/Guidebooks/Excel%20Roadmap%20Guide)
-
-<br>
-
-<sub>Not shown here: a private algorithmic trading repository (kept private by design) and a forked reference notes repository (not original work — see <a href="https://github.com/akxyverse/data-analytics-resources/tree/main/External%20Study%20Resources">External Study Resources</a>).</sub>
+</div>
 
 ## 🌌 Ecosystem Map
 
@@ -364,7 +325,7 @@ Live insight into the Akxyverse ecosystem — development activity, languages, a
 
 <br><br>
 
-<sub><b>📊 ACCOUNT OVERVIEW</b></sub>
+### 📊 Account Overview
 <br>
 <img src="https://img.shields.io/github/stars/akxyverse/data-analytics-projects?style=for-the-badge&logo=github&label=Project%20Stars&color=8b5cf6" alt="Project Stars">
 
@@ -375,26 +336,26 @@ Live insight into the Akxyverse ecosystem — development activity, languages, a
 
 <br><br>
 
-<sub><b>💻 LANGUAGES BY REPO & BY COMMIT</b></sub>
+### 💻 Languages by Repo & by Commit
 <br>
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=akxyverse&theme=tokyonight" alt="Languages by Repo">
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=akxyverse&theme=tokyonight" alt="Languages by Commit">
 
 <br><br>
 
-<sub><b>⏰ PRODUCTIVE HOURS (IST)</b></sub>
+### ⏰ Productive Hours (IST)
 <br>
 <img width="60%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=akxyverse&theme=tokyonight&utcOffset=5.5" alt="Productive Time (IST, UTC+5:30)">
 
 <br><br>
 
-<sub><b>🌱 CONTRIBUTION GRAPH (PAST YEAR)</b></sub>
+### 🌱 Contribution Graph (Past Year)
 <br>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=akxyverse&theme=tokyo-night&hide_border=false&area=true" width="100%" alt="akxyverse's GitHub contribution activity graph over the past year"/>
 
 <br><br>
 
-<sub><b>🐍 CONTRIBUTION SNAKE</b></sub>
+### 🐍 Contribution Snake
 <br>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/akxyverse/akxyverse/output/github-contribution-grid-snake-dark.svg">
@@ -432,20 +393,24 @@ Completed certifications across data analytics, cloud, and professional developm
 
 <div align="center">
 
-Thanks for exploring.
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:38bdf8,100:8b5cf6&section=header&text=Let's%20Build%20Something%20Data-Driven&fontSize=28&fontColor=ffffff&animation=fadeIn" width="100%" alt="Let's Connect"/>
 
-Whether you're here to learn, collaborate, or just see how a project comes together — you're always welcome.
+Always up for a conversation about data, dashboards, or what to build next.
 
-<br>
+<br><br>
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/akxyverse)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akash-yadav-122a75288/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akashyadav110502@gmail.com)
 
-<br>
+<br><br>
 
 **⭐ If any of this ecosystem is useful to you, a star goes a long way.**
 
 <sub>Akash Yadav — learning in public, one repository at a time.</sub>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:38bdf8,100:8b5cf6&section=footer" width="100%" alt=""/>
 
 </div>
