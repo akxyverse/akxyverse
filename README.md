@@ -2,21 +2,42 @@
 
 <img src="./assets/banner-illustration.jpg" alt="Akxyverse — Data Analytics Ecosystem" width="100%">
 
+<br><br>
+
+## Akash Yadav
+### Aspiring Data Analyst · Turning Raw Data into Decisions
+
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Transforming+Data+into+Insights+%F0%9F%93%8A;Python+%7C+SQL+%7C+Power+BI+%7C+Tableau;EDA+%7C+Dashboards+%7C+Storytelling;Always+Learning+New+Data+Tools+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Turning+Raw+Data+into+Clear+Decisions+%F0%9F%93%8A;Python+%C2%B7+SQL+%C2%B7+Power+BI+%C2%B7+Tableau;EDA+%C2%B7+Dashboards+%C2%B7+Data+Storytelling;Building+in+Public%2C+One+Project+at+a+Time+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
-<br>
+<br><br>
 
 <img src="https://komarev.com/ghpvc/?username=akxyverse&label=Profile%20Views&color=38bdf8&style=for-the-badge" alt="profile views"/>
 &nbsp;
 <a href="https://github.com/akxyverse?tab=followers">
   <img src="https://img.shields.io/github/followers/akxyverse?label=Followers&style=for-the-badge&color=22d3ee" alt="followers"/>
 </a>
+&nbsp;
+<img src="https://img.shields.io/badge/Repositories-8-22d3ee?style=for-the-badge" alt="8 repositories"/>
+
+<br><br>
+
+<a href="https://github.com/akxyverse/data-analytics-projects">
+  <img src="https://img.shields.io/badge/%F0%9F%9A%80%20Explore%20Projects-38bdf8?style=for-the-badge" alt="Explore Projects"/>
+</a>
+&nbsp;
+<a href="https://github.com/akxyverse/career-hub">
+  <img src="https://img.shields.io/badge/%F0%9F%92%BC%20Career%20Hub-8b5cf6?style=for-the-badge" alt="Career Hub"/>
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/akash-yadav-122a75288/">
+  <img src="https://img.shields.io/badge/%F0%9F%94%97%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
 
 </div>
 
-<br>
+<br><br>
 
 ## 👨‍💻 About Me
 
