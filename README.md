@@ -1,9 +1,5 @@
 <div align="center">
 
-<img src="./assets/logo.svg" alt="Akxyverse logo" width="92">
-
-<br><br>
-
 <img src="./assets/banner-illustration.jpg" alt="Akxyverse — Data Analytics Ecosystem" width="100%">
 
 <a href="https://git.io/typing-svg">
