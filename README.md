@@ -296,44 +296,45 @@ A live, growing map of real skills — not a static resume.
 
 <sub>Icons render wherever the underlying icon library (simple-icons) actually carries that logo — a few tools shown above (Power BI, Tableau, Excel, VS Code, ChatGPT, Julius AI, Formula Bot, Quadratic AI) have no icon in that library at all (confirmed against its own source list, not a rendering bug), so those display as clean text-only tiles instead.</sub>
 
-## 🗂️ Repository Ecosystem
+## 🌌 Ecosystem Map
 
-My Data Analytics work is organized across 8 focused repositories (plus this profile hub) rather than one giant monorepo — each has a single, clear purpose, and every one shares the same design language:
+Akxyverse isn't one repository — it's several, each with a single job, designed to work together rather than duplicate each other.
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<br>
 
-**🧠 [Data Analytics Knowledge Hub](https://github.com/akxyverse/data-analytics-knowledge-system)**
-Core DA learning — fundamentals, Python, SQL, BI tools
+**🧠 Learn**
+<br>
+**[Knowledge Hub](https://github.com/akxyverse/data-analytics-knowledge-system)** — the starting point: fundamentals before tools.
+<br>
+**[Learning Resources](https://github.com/akxyverse/data-analytics-resources)** — the reference shelf everything else draws from.
 
-**🚀 [Data Analytics Projects](https://github.com/akxyverse/data-analytics-projects)**
-Hands-on projects — tool-wise, domain-wise, end-to-end
+<br><br>
 
-**📦 [Datasets](https://github.com/akxyverse/datasets)**
-Datasets shared across projects, organized by source
+**🚀 Build**
+<br>
+**[Data Analytics Projects](https://github.com/akxyverse/data-analytics-projects)** — where fundamentals become real, shipped work.
+<br>
+**[Datasets](https://github.com/akxyverse/datasets)** — the raw material every project is built on.
 
-**📚 [Learning Resources](https://github.com/akxyverse/data-analytics-resources)**
-Books, docs, papers, courses, cheat sheets
+<br><br>
 
-</td>
-<td width="50%" valign="top">
+**🤖 Automate**
+<br>
+**[AI Automation](https://github.com/akxyverse/ai-automation)** — where analytics work extends into AI and agentic workflows.
 
-**💼 [Career Hub](https://github.com/akxyverse/career-hub)**
-Resume, interview prep, applications, career planning
+<br><br>
 
-**✍️ [Content Studio](https://github.com/akxyverse/content-studio)**
-LinkedIn posts, articles, tutorials, content assets
+**💼 Career**
+<br>
+**[Career Hub](https://github.com/akxyverse/career-hub)** — where the work turns into opportunities.
 
-**🏅 [Certifications](https://github.com/akxyverse/certifications)**
-Certifications in progress, completed, and earned
+<br><br>
 
-**🤖 [AI Automation](https://github.com/akxyverse/ai-automation)**
-Generative & Agentic AI, LangChain, n8n, automation
-
-</td>
-</tr>
-</table>
+**📚 Share**
+<br>
+**[Content Studio](https://github.com/akxyverse/content-studio)** — where the process gets written up and shared.
+<br>
+**[Certifications](https://github.com/akxyverse/certifications)** — where the learning gets externally verified.
 
 ## 🚀 Featured Project Universe
 
