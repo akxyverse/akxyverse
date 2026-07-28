@@ -203,6 +203,8 @@ A live, growing map of real skills — not a static resume.
 
 <div align="center">
 
+<img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="180" alt="Tech Stack">
+
 **🐍 Languages**
 <br>
 <img src="https://img.shields.io/badge/Python-242938?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python"/>
