@@ -24,11 +24,12 @@
 
 ## 👨‍💻 About Me
 
-<table>
-<tr>
-<td width="70%" valign="middle">
+<img align="right" width="340" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 
-👋 Hi! I'm **Akash Yadav**, an Aspirant **Data Analyst** from **India 🇮🇳**
+### 👋 Hi, I'm Akash Yadav
+**Aspirant Data Analyst** turning raw data into decisions — based in **India 🇮🇳**
+
+> *Every dataset has a story. I just find it.*
 
 - 🎯 **Role** — Aspirant Data Analyst passionate about turning raw data into decisions
 - 📍 **Location** — India 🇮🇳
@@ -39,26 +40,18 @@
 - 🤖 **Extra Edge** — I leverage AI tools to automate and optimize analytical workflows
 - 🌱 **Growth** — Went from spreadsheets to end-to-end dashboards and forecasting pipelines, one shipped project at a time
 - 💬 **Ask Me About** — Data cleaning tricks, dashboard design, or how I structured this whole ecosystem
-- ⚡ **Fun Fact** — I believe every dataset has a story — I just find it 🔍
 
 <br>
 
-![Python](https://img.shields.io/badge/-Python-242938?style=flat-square&logo=python&logoColor=3776AB)
-![SQL](https://img.shields.io/badge/-SQL-242938?style=flat-square&logo=mysql&logoColor=4479A1)
-![Power BI](https://img.shields.io/badge/-Power%20BI-242938?style=flat-square&logoColor=F2C811)
-![Tableau](https://img.shields.io/badge/-Tableau-242938?style=flat-square&logoColor=E97627)
-![Excel](https://img.shields.io/badge/-Excel-242938?style=flat-square&logoColor=217346)
-![Pandas](https://img.shields.io/badge/-Pandas-242938?style=flat-square&logo=pandas&logoColor=E70488)
-![Streamlit](https://img.shields.io/badge/-Streamlit-242938?style=flat-square&logo=streamlit&logoColor=FF4B4B)
+![Python](https://img.shields.io/badge/-Python-242938?style=for-the-badge&logo=python&logoColor=3776AB)
+![SQL](https://img.shields.io/badge/-SQL-242938?style=for-the-badge&logo=mysql&logoColor=4479A1)
+![Power BI](https://img.shields.io/badge/-Power%20BI-242938?style=for-the-badge&logoColor=F2C811)
+![Tableau](https://img.shields.io/badge/-Tableau-242938?style=for-the-badge&logoColor=E97627)
+![Excel](https://img.shields.io/badge/-Excel-242938?style=for-the-badge&logoColor=217346)
+![Pandas](https://img.shields.io/badge/-Pandas-242938?style=for-the-badge&logo=pandas&logoColor=E70488)
+![Streamlit](https://img.shields.io/badge/-Streamlit-242938?style=for-the-badge&logo=streamlit&logoColor=FF4B4B)
 
-</td>
-<td width="30%" align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%">
-
-</td>
-</tr>
-</table>
+<br clear="right">
 
 <table>
 <tr>
