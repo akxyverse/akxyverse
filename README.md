@@ -379,15 +379,15 @@ Analyzed 43K+ delivery records with 30+ visualizations — KPI metrics and insig
 <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=akxyverse&theme=radical" alt="Languages by Commit">
 <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=akxyverse&theme=radical&utcOffset=5.5" alt="Productive Time (IST, UTC+5:30)">
 
-<br>
-
-<sub><b>⭐ FEATURED PROJECT</b></sub>
-<br>
-<img width="70%" src="https://socialify.git.ci/akxyverse/data-analytics-projects/image?theme=Dark&pattern=Circuit%20Board&language=1&owner=1&name=1&description=1&font=Inter" alt="Featured repo — data-analytics-projects">
-
 </div>
 
 <sub>Widgets served by the official <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">github-profile-summary-cards</a> and <a href="https://github.com/anuraghazra/github-readme-stats">github-readme-stats</a> public instances — occasionally slow or unavailable under shared load; they self-recover without any change needed here.</sub>
+
+## 🚀 Featured Project
+
+<div align="center">
+<img width="70%" src="https://socialify.git.ci/akxyverse/data-analytics-projects/image?theme=Dark&pattern=Circuit%20Board&language=1&owner=1&name=1&description=1&font=Inter" alt="Featured repo — data-analytics-projects">
+</div>
 
 ## 📈 Contribution Graph 📈
 
