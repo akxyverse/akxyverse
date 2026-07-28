@@ -187,7 +187,7 @@ A live, growing map of real skills — not a static resume.
 *Evaluating my work*
 
 **Start here:**
-1. [Featured Projects](#-featured-projects) below
+1. [Featured Project Universe](#-featured-project-universe) below
 2. [Certifications](https://github.com/akxyverse/certifications) — verified credentials
 3. [Career Hub](https://github.com/akxyverse/career-hub) — resume & experience
 
@@ -335,44 +335,60 @@ Generative & Agentic AI, LangChain, n8n, automation
 </tr>
 </table>
 
-## 🌟 Featured Projects
+## 🚀 Featured Project Universe
 
-Fully hosted inside [`data-analytics-projects`](https://github.com/akxyverse/data-analytics-projects) and [`data-analytics-resources`](https://github.com/akxyverse/data-analytics-resources) — each with its own live demo and full documentation:
+Real, working analytics products — not just repositories. Each one solves an actual problem end to end, and most of them you can open and use right now.
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<br>
 
-**📊 [Excel Roadmap Guide](https://github.com/akxyverse/data-analytics-resources/tree/main/Guidebooks/Excel%20Roadmap%20Guide)**
-A step-by-step Excel roadmap from basics to advanced — 30 skills across 4 levels, built for aspiring data analysts.
-`Excel` `Data Analysis` `Free Resource`
+### ⚡ ThunderCast — Storm Forecasting Platform
+<sub>⭐ Flagship Project</sub>
 
-</td>
-<td width="50%" valign="top">
+*Real-time thunderstorm prediction, built end-to-end.*
 
-**⚡ [ThunderCast: Storm Forecasting Platform](https://github.com/akxyverse/data-analytics-projects/tree/main/End-to-End%20Projects/ThunderCast)**
-Real-time thunderstorm prediction using Facebook Prophet time-series forecasting, live weather API integration, and an interactive Streamlit dashboard.
-`Python` `Prophet` `Streamlit` [🔗 Live Demo](https://akxyverse-thundercast-smart-storm-predictio-dashboardapp-xqeckf.streamlit.app/)
+Time-series forecasting with Facebook Prophet, live weather API integration, delivered as an interactive Streamlit dashboard.
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+`Python` `Prophet` `Streamlit`
 
-**🎮 [Esports & Gaming Revenue Analytics](https://github.com/akxyverse/data-analytics-projects/tree/main/Domain-wise%20Projects/Others/Esports%20Gaming%20Revenue%20Analytics)**
-Analyzed 400+ records across 25 countries (2010–2025) — 17.7% CAGR in gaming revenue, Europe/Asia market dominance, interactive Tableau dashboard.
+[**View Project →**](https://github.com/akxyverse/data-analytics-projects/tree/main/End-to-End%20Projects/ThunderCast) &nbsp;·&nbsp; [🔗 Live Demo](https://akxyverse-thundercast-smart-storm-predictio-dashboardapp-xqeckf.streamlit.app/)
+
+---
+
+### 📦 Supply Chain Analytics Dashboard
+
+*Where are delivery delays actually coming from?*
+
+43K+ delivery records analyzed across 30+ visualizations, surfacing KPI metrics on delivery performance and agent efficiency.
+
+`Python` `Streamlit`
+
+[**View Project →**](https://github.com/akxyverse/data-analytics-projects/tree/main/Domain-wise%20Projects/Logistics/Supply%20Chain%20Analytics%20Dashboard) &nbsp;·&nbsp; [🔗 Live Demo](https://supply-chain-analytics-system-5tlaustxwavffqjplsgutw.streamlit.app/)
+
+---
+
+### 🎮 Esports & Gaming Revenue Analytics
+
+*16 years of industry revenue, one interactive dashboard.*
+
+400+ records across 25 countries (2010–2025) — 17.7% CAGR in gaming revenue, with clear Europe/Asia market dominance.
+
 `Python` `Tableau` `EDA`
 
-</td>
-<td width="50%" valign="top">
+[**View Project →**](https://github.com/akxyverse/data-analytics-projects/tree/main/Domain-wise%20Projects/Others/Esports%20Gaming%20Revenue%20Analytics) &nbsp;·&nbsp; [🔗 Live Demo](https://public.tableau.com/views/GamingEsportsSalesAnalyticsDasboard/GamingEsportsRevenueAnalyticsDashboard20102025?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-**📦 [Supply Chain Analytics Dashboard](https://github.com/akxyverse/data-analytics-projects/tree/main/Domain-wise%20Projects/Logistics/Supply%20Chain%20Analytics%20Dashboard)**
-Analyzed 43K+ delivery records with 30+ visualizations — KPI metrics and insights on delivery performance and agent efficiency.
-`Python` `Streamlit` [🔗 Live Demo](https://supply-chain-analytics-system-5tlaustxwavffqjplsgutw.streamlit.app/)
+---
 
-</td>
-</tr>
-</table>
+### 📊 Excel Roadmap Guide
+
+*A complete, self-contained Excel learning path.*
+
+30 skills across 4 levels — from basics to Data Analyst-ready, built as a free, structured resource for aspiring analysts.
+
+`Excel` `Data Analysis` `Free Resource`
+
+[**View Project →**](https://github.com/akxyverse/data-analytics-resources/tree/main/Guidebooks/Excel%20Roadmap%20Guide)
+
+<br>
 
 <sub>Not shown here: a private algorithmic trading repository (kept private by design) and a forked reference notes repository (not original work — see <a href="https://github.com/akxyverse/data-analytics-resources/tree/main/External%20Study%20Resources">External Study Resources</a>).</sub>
 
