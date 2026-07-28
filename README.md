@@ -315,6 +315,7 @@ Analyzed 43K+ delivery records with 30+ visualizations — KPI metrics and insig
 <img src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif" width="260">
 
 ![Followers](https://img.shields.io/github/followers/akxyverse?style=for-the-badge&color=38bdf8&label=Followers)
+![Project Stars](https://img.shields.io/github/stars/akxyverse/data-analytics-projects?style=for-the-badge&logo=github&label=Project%20Stars&color=8b5cf6)
 
 </div>
 
@@ -328,7 +329,7 @@ Analyzed 43K+ delivery records with 30+ visualizations — KPI metrics and insig
 
 <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=akxyverse&theme=radical" alt="akxyverse's top languages by repo">
 <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=akxyverse&theme=radical" alt="akxyverse's top languages by commit">
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=akxyverse&theme=radical&utcOffset=5" alt="akxyverse's productive time (IST, UTC+5)">
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=akxyverse&theme=radical&utcOffset=5.5" alt="akxyverse's productive time (IST, UTC+5:30)">
 
 <br><br>
 
