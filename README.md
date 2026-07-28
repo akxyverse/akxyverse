@@ -218,11 +218,13 @@ A live, growing map of real skills — not a static resume.
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## ⚔️ Tech Arsenal
 
 <div align="center">
 
-**💻 Languages & Core**
+**🐍 Languages**
+<br>
+<sub>Core programming languages for data manipulation, querying, and analysis.</sub>
 <br>
 <img src="https://img.shields.io/badge/Python-242938?style=for-the-badge&logo=python&logoColor=3776AB"/>
 <img src="https://img.shields.io/badge/Java-242938?style=for-the-badge&logo=openjdk&logoColor=ED8B00"/>
@@ -232,13 +234,17 @@ A live, growing map of real skills — not a static resume.
 
 **🗄️ Databases**
 <br>
+<sub>Relational and cloud databases for storing, querying, and managing structured data.</sub>
+<br>
 <img src="https://img.shields.io/badge/MySQL-242938?style=for-the-badge&logo=mysql&logoColor=4479A1"/>
 <img src="https://img.shields.io/badge/PostgreSQL-242938?style=for-the-badge&logo=postgresql&logoColor=4169E1"/>
 <img src="https://img.shields.io/badge/Supabase-242938?style=for-the-badge&logo=supabase&logoColor=3ECF8E"/>
 
 <br><br>
 
-**📦 Python Libraries**
+**📦 Python Ecosystem**
+<br>
+<sub>Libraries for data wrangling, numerical computing, and interactive visualization.</sub>
 <br>
 <img src="https://img.shields.io/badge/Pandas-242938?style=for-the-badge&logo=pandas&logoColor=E70488"/>
 <img src="https://img.shields.io/badge/NumPy-242938?style=for-the-badge&logo=numpy&logoColor=4DABCF"/>
@@ -249,7 +255,9 @@ A live, growing map of real skills — not a static resume.
 
 <br><br>
 
-**📊 BI & Visualization**
+**📊 Analytics & BI**
+<br>
+<sub>Interactive dashboards, business reporting, KPI tracking and visual storytelling.</sub>
 <br>
 <img src="https://img.shields.io/badge/Power%20BI-242938?style=for-the-badge&logoColor=F2C811"/>
 <img src="https://img.shields.io/badge/Tableau-242938?style=for-the-badge&logoColor=E97627"/>
@@ -257,7 +265,9 @@ A live, growing map of real skills — not a static resume.
 
 <br><br>
 
-**🤖 AI Tools**
+**🤖 AI & Automation**
+<br>
+<sub>AI-assisted analysis and workflow automation, from chat-based tools to no-code pipelines.</sub>
 <br>
 <img src="https://img.shields.io/badge/ChatGPT-242938?style=for-the-badge&logoColor=74aa9c"/>
 <img src="https://img.shields.io/badge/Claude-242938?style=for-the-badge&logo=claude&logoColor=CC785C"/>
@@ -265,20 +275,17 @@ A live, growing map of real skills — not a static resume.
 <img src="https://img.shields.io/badge/Julius%20AI-242938?style=for-the-badge&logoColor=7C3AED"/>
 <img src="https://img.shields.io/badge/Formula%20Bot-242938?style=for-the-badge&logoColor=00BFA5"/>
 <img src="https://img.shields.io/badge/Quadratic%20AI-242938?style=for-the-badge&logoColor=A78BFA"/>
-
-<br><br>
-
-**🔄 Automation & Version Control**
-<br>
 <img src="https://img.shields.io/badge/Zapier-242938?style=for-the-badge&logo=zapier&logoColor=FF4A00"/>
 <img src="https://img.shields.io/badge/n8n-242938?style=for-the-badge&logo=n8n&logoColor=EA4B71"/>
-<img src="https://img.shields.io/badge/Git-242938?style=for-the-badge&logo=git&logoColor=F05032"/>
-<img src="https://img.shields.io/badge/GitHub-242938?style=for-the-badge&logo=github&logoColor=white"/>
 
 <br><br>
 
-**🧰 Dev Environments**
+**⚙️ Development Tools**
 <br>
+<sub>Version control and the day-to-day environments used to write, test, and ship code.</sub>
+<br>
+<img src="https://img.shields.io/badge/Git-242938?style=for-the-badge&logo=git&logoColor=F05032"/>
+<img src="https://img.shields.io/badge/GitHub-242938?style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/VS%20Code-242938?style=for-the-badge&logoColor=007ACC"/>
 <img src="https://img.shields.io/badge/PyCharm-242938?style=for-the-badge&logo=pycharm&logoColor=21D789"/>
 <img src="https://img.shields.io/badge/Jupyter-242938?style=for-the-badge&logo=jupyter&logoColor=F37626"/>
