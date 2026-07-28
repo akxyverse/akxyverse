@@ -4,31 +4,50 @@
 
 <br><br>
 
-## Akash Yadav
-### Aspiring Data Analyst · Turning Raw Data into Decisions
-
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Turning+Raw+Data+into+Clear+Decisions+%F0%9F%93%8A;Python+%C2%B7+SQL+%C2%B7+Power+BI+%C2%B7+Tableau;EDA+%C2%B7+Dashboards+%C2%B7+Data+Storytelling;Building+in+Public%2C+One+Project+at+a+Time+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
-<br><br>
+<br>
 
+**Akash Yadav** — Aspiring Data Analyst building end-to-end analytics projects, from raw data to dashboards people actually use.
+
+Eight focused repositories plus this profile hub — every project documented and built in public, not just linked to.
+
+<br>
+
+<sub>📊 PROFILE AT A GLANCE</sub>
+<br>
 <img src="https://komarev.com/ghpvc/?username=akxyverse&label=Profile%20Views&color=38bdf8&style=for-the-badge" alt="profile views"/>
-&nbsp;
+&nbsp;•&nbsp;
 <a href="https://github.com/akxyverse?tab=followers">
   <img src="https://img.shields.io/github/followers/akxyverse?label=Followers&style=for-the-badge&color=22d3ee" alt="followers"/>
 </a>
-&nbsp;
-<img src="https://img.shields.io/badge/Repositories-8-22d3ee?style=for-the-badge" alt="8 repositories"/>
+&nbsp;•&nbsp;
+<img src="https://img.shields.io/badge/Repositories-8-8b5cf6?style=for-the-badge" alt="8 repositories"/>
 
 <br><br>
 
 <a href="https://github.com/akxyverse/data-analytics-projects">
-  <img src="https://img.shields.io/badge/%F0%9F%9A%80%20Explore%20Projects-38bdf8?style=for-the-badge" alt="Explore Projects"/>
+  <img src="https://img.shields.io/badge/%F0%9F%9A%80%20Projects-38bdf8?style=for-the-badge" alt="Projects"/>
 </a>
 &nbsp;
+<a href="https://github.com/akxyverse/data-analytics-knowledge-system">
+  <img src="https://img.shields.io/badge/%F0%9F%93%9A%20Knowledge%20Hub-22d3ee?style=for-the-badge" alt="Knowledge Hub"/>
+</a>
+&nbsp;
+<a href="https://github.com/akxyverse/ai-automation">
+  <img src="https://img.shields.io/badge/%F0%9F%A4%96%20AI%20Lab-8b5cf6?style=for-the-badge" alt="AI Lab"/>
+</a>
+
+<br><br>
+
 <a href="https://github.com/akxyverse/career-hub">
-  <img src="https://img.shields.io/badge/%F0%9F%92%BC%20Career%20Hub-8b5cf6?style=for-the-badge" alt="Career Hub"/>
+  <img src="https://img.shields.io/badge/%F0%9F%92%BC%20Career%20Hub-f59e0b?style=for-the-badge" alt="Career Hub"/>
+</a>
+&nbsp;
+<a href="https://github.com/akxyverse/data-analytics-resources">
+  <img src="https://img.shields.io/badge/%F0%9F%93%96%20Resources-14b8a6?style=for-the-badge" alt="Resources"/>
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/akash-yadav-122a75288/">
