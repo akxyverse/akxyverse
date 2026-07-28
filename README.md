@@ -378,16 +378,16 @@ Analyzed 43K+ delivery records with 30+ visualizations — KPI metrics and insig
 
 <sub><b>📋 PROFILE SUMMARY & STATS</b></sub>
 <br>
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akxyverse&theme=radical" alt="Profile Summary Card">
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=akxyverse&theme=radical" alt="GitHub Stats Card">
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akxyverse&theme=tokyonight" alt="Profile Summary Card">
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=akxyverse&theme=tokyonight" alt="GitHub Stats Card">
 
 <br>
 
 <sub><b>🧠 LANGUAGES & ACTIVITY</b></sub>
 <br>
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=akxyverse&theme=radical" alt="Languages by Repo">
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=akxyverse&theme=radical" alt="Languages by Commit">
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=akxyverse&theme=radical&utcOffset=5.5" alt="Productive Time (IST, UTC+5:30)">
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=akxyverse&theme=tokyonight" alt="Languages by Repo">
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=akxyverse&theme=tokyonight" alt="Languages by Commit">
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=akxyverse&theme=tokyonight&utcOffset=5.5" alt="Productive Time (IST, UTC+5:30)">
 
 </div>
 
@@ -402,7 +402,7 @@ Analyzed 43K+ delivery records with 30+ visualizations — KPI metrics and insig
 ## 📈 Contribution Graph 📈
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=akxyverse&theme=radical&hide_border=false&area=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=akxyverse&theme=tokyo-night&hide_border=false&area=true" width="100%"/>
 </div>
 
 <div align="center">
