@@ -315,48 +315,23 @@ Analyzed 43K+ delivery records with 30+ visualizations — KPI metrics and insig
 <img src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif" width="260">
 
 ![Followers](https://img.shields.io/github/followers/akxyverse?style=for-the-badge&color=38bdf8&label=Followers)
-![Public Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/akxyverse&label=Public%20Repos&query=%24.public_repos&style=for-the-badge&color=22d3ee)
 
 </div>
 
-<table width="100%">
-<tr>
-<td width="50%">
+<div align="center">
 
-<h3 align="center">GitHub Stats</h3>
-<p align="center">
-<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akxyverse&theme=radical" alt="akxyverse's GitHub stats" width="100%">
-</p>
+<img align="left" width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akxyverse&theme=radical" alt="akxyverse's GitHub stats">
+<img align="right" width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=akxyverse&theme=radical" alt="akxyverse's streak stats">
 
-</td>
-<td width="50%">
+<br clear="both">
+<br>
 
-<h3 align="center">Streak Stats</h3>
-<p align="center">
-<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=akxyverse&theme=radical" alt="akxyverse's streak stats" width="100%">
-</p>
+<img align="left" width="49%" src="https://socialify.git.ci/akxyverse/data-analytics-projects/image?theme=Dark&pattern=Circuit%20Board&language=1&owner=1&name=1&description=1&font=Inter" alt="Featured repo — data-analytics-projects">
+<img align="right" width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=akxyverse&theme=radical" alt="akxyverse's top languages">
 
-</td>
-</tr>
-<tr>
-<td width="50%">
+<br clear="both">
 
-<h3 align="center">Featured Project</h3>
-<p align="center">
-<img align="center" width="100%" src="https://socialify.git.ci/akxyverse/data-analytics-projects/image?theme=Dark&pattern=Circuit%20Board&language=1&owner=1&name=1&description=1&font=Inter" alt="Featured repo — data-analytics-projects">
-</p>
-
-</td>
-<td width="50%">
-
-<h3 align="center">Top Languages</h3>
-<p align="center">
-<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=akxyverse&theme=radical" alt="akxyverse's top languages" width="100%">
-</p>
-
-</td>
-</tr>
-</table>
+</div>
 
 <sub>Widgets served by the official <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">github-profile-summary-cards</a> and <a href="https://github.com/anuraghazra/github-readme-stats">github-readme-stats</a> public instances — occasionally slow or unavailable under shared load; they self-recover without any change needed here.</sub>
 
