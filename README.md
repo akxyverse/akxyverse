@@ -455,6 +455,30 @@ Live insight into the Akxyverse ecosystem — development activity, languages, a
 
 <sub>Widgets served by the official <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">github-profile-summary-cards</a>, <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">github-readme-activity-graph</a>, and <a href="https://github.com/Platane/snk">Platane/snk</a> public instances — occasionally slow or unavailable under shared load; they self-recover without any change needed here.</sub>
 
+## 🏆 Hall of Achievements
+
+Milestones that reflect continuous learning, shipped work, open knowledge, and credentials worth verifying — not badges collected for their own sake.
+
+<br>
+
+**🚀 Shipped Projects**
+<br>
+Four real, documented projects — from a live storm-forecasting dashboard to a 43K-record supply chain analysis, each with source code and most with a working live demo. [See Featured Project Universe →](#-featured-project-universe)
+
+<br>
+
+**📚 Open Knowledge**
+<br>
+A published, free 30-skill Excel Roadmap Guide, structured across 4 levels from basics to Data Analyst-ready. [View Guide →](https://github.com/akxyverse/data-analytics-resources/tree/main/Guidebooks/Excel%20Roadmap%20Guide)
+<br>
+A growing Knowledge Hub and Learning Resources library — the learning process kept in the open, not in private notes.
+
+<br>
+
+**🏅 Verified Certifications**
+<br>
+5 completed certifications spanning Git & Version Control, Azure Machine Learning, SQL, and professional development — each linked to the issuer's own verification page where one exists. [See Certifications →](https://github.com/akxyverse/certifications)
+
 ## 🔭 Currently Working On
 
 - 🟡 SQL (Intermediate/Advanced) — building on the [SQL Basic](https://github.com/akxyverse/certifications) certification already earned
@@ -468,13 +492,23 @@ Live insight into the Akxyverse ecosystem — development activity, languages, a
 - 🏅 Verified certifications with credential links, not just badges for show
 - 🔓 Everything documented and open — fork the structure for your own learning system
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&height=60&color=0:38bdf8,100:8b5cf6&section=header" width="100%"/>
+
+## 🌍 Connect with Akxyverse
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akash-yadav-122a75288/)
+Thanks for exploring.
+
+Whether you're here to learn, collaborate, or just see how a project comes together — you're always welcome.
+
+<br>
+
 [![GitHub](https://img.shields.io/badge/GitHub-akxyverse-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/akxyverse)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akash-yadav-122a75288/)
 [![Gmail](https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akashyadav110502@gmail.com)
+
+<br>
 
 **⭐ If any of this ecosystem is useful to you, a star goes a long way.**
 
