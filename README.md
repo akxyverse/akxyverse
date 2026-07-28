@@ -8,11 +8,13 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Turning+Raw+Data+into+Clear+Decisions+%F0%9F%93%8A;Python+%C2%B7+SQL+%C2%B7+Power+BI+%C2%B7+Tableau;EDA+%C2%B7+Dashboards+%C2%B7+Data+Storytelling;Building+in+Public%2C+One+Project+at+a+Time+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
-<br>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=60&color=0:38bdf8,100:8b5cf6&section=header" width="100%"/>
 
-**Akash Yadav** — Aspiring Data Analyst building end-to-end analytics projects, from raw data to dashboards people actually use.
+# AKASH YADAV
 
-Eight focused repositories plus this profile hub — every project documented and built in public, not just linked to.
+**Data Analytics** · AI-Assisted Workflows · Automation
+
+Building a connected ecosystem of real, working data projects — not just a list of links.
 
 <br>
 
@@ -53,6 +55,14 @@ Eight focused repositories plus this profile hub — every project documented an
 <a href="https://www.linkedin.com/in/akash-yadav-122a75288/">
   <img src="https://img.shields.io/badge/%F0%9F%94%97%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
+
+<br><br>
+
+⭐ **4 Live Projects** &nbsp;·&nbsp; 📊 **2 Interactive Dashboards** &nbsp;·&nbsp; 📚 **1 Full Guidebook** &nbsp;·&nbsp; 🤖 **AI-Assisted Workflows**
+
+<br>
+
+<sub>↓ Explore the Ecosystem ↓</sub>
 
 </div>
 
