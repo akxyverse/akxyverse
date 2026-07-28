@@ -158,6 +158,10 @@ A live, growing map of real skills — not a static resume.
 
 ## 🗺 Choose Your Path
 
+<div align="center">
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/897cd757-ea1f-492d-aaf9-6d1674177e08" width="180" alt="Find & Search">
+</div>
+
 *First time here? Pick what you're looking for.*
 
 <table>
