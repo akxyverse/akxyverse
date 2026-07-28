@@ -326,10 +326,13 @@ Analyzed 43K+ delivery records with 30+ visualizations — KPI metrics and insig
 <br clear="both">
 <br>
 
-<img align="left" width="49%" src="https://socialify.git.ci/akxyverse/data-analytics-projects/image?theme=Dark&pattern=Circuit%20Board&language=1&owner=1&name=1&description=1&font=Inter" alt="Featured repo — data-analytics-projects">
-<img align="right" width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=akxyverse&theme=radical" alt="akxyverse's top languages">
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=akxyverse&theme=radical" alt="akxyverse's top languages by repo">
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=akxyverse&theme=radical" alt="akxyverse's top languages by commit">
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=akxyverse&theme=radical&utcOffset=5" alt="akxyverse's productive time (IST, UTC+5)">
 
-<br clear="both">
+<br><br>
+
+<img width="70%" src="https://socialify.git.ci/akxyverse/data-analytics-projects/image?theme=Dark&pattern=Circuit%20Board&language=1&owner=1&name=1&description=1&font=Inter" alt="Featured repo — data-analytics-projects">
 
 </div>
 
