@@ -22,13 +22,16 @@ jobs:
 
     steps:
       # generates a snake animation from akxyverse's contribution graph
-      - name: generate github-contribution-grid-snake.svg
-        uses: Platane/snk/svg-only@v3
+      # (GIF output, not SVG-only: the SVG variant's CSS keyframe trail
+      # animation doesn't survive GitHub's render pipeline and shows up
+      # as a solid green bar instead of an animated snake)
+      - name: generate github-contribution-grid-snake.gif
+        uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.gif
+            dist/github-contribution-grid-snake-dark.gif?palette=github-dark
 
       # push the generated svg to the output branch, served via raw.githubusercontent.com
       - name: push github-contribution-grid-snake.svg to the output branch
