@@ -22,6 +22,44 @@
 
 <br>
 
+## 👨‍💻 About Me
+
+<table>
+<tr>
+<td width="70%" valign="middle">
+
+👋 Hi! I'm **Akash Yadav**, an Aspirant **Data Analyst** from **India 🇮🇳**
+
+- 🎯 **Role** — Aspirant Data Analyst passionate about turning raw data into decisions
+- 📍 **Location** — India 🇮🇳
+- 🔭 **Focus** — Data Cleaning · EDA · Visualization · Dashboards
+- 🛠️ **Core Tools** — Python · SQL · Power BI · Tableau · Excel · Pandas · Streamlit
+- 📚 **Currently Learning** — Machine Learning · Advanced SQL · DAX
+- 📊 **What I do** — Clean & transform complex datasets, build interactive dashboards, and deliver data-driven insights
+- 🤖 **Extra Edge** — I leverage AI tools to automate and optimize analytical workflows
+- 🌱 **Growth** — Went from spreadsheets to end-to-end dashboards and forecasting pipelines, one shipped project at a time
+- 💬 **Ask Me About** — Data cleaning tricks, dashboard design, or how I structured this whole ecosystem
+- ⚡ **Fun Fact** — I believe every dataset has a story — I just find it 🔍
+
+<br>
+
+![Python](https://img.shields.io/badge/-Python-242938?style=flat-square&logo=python&logoColor=3776AB)
+![SQL](https://img.shields.io/badge/-SQL-242938?style=flat-square&logo=mysql&logoColor=4479A1)
+![Power BI](https://img.shields.io/badge/-Power%20BI-242938?style=flat-square&logoColor=F2C811)
+![Tableau](https://img.shields.io/badge/-Tableau-242938?style=flat-square&logoColor=E97627)
+![Excel](https://img.shields.io/badge/-Excel-242938?style=flat-square&logoColor=217346)
+![Pandas](https://img.shields.io/badge/-Pandas-242938?style=flat-square&logo=pandas&logoColor=E70488)
+![Streamlit](https://img.shields.io/badge/-Streamlit-242938?style=flat-square&logo=streamlit&logoColor=FF4B4B)
+
+</td>
+<td width="30%" align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%">
+
+</td>
+</tr>
+</table>
+
 <table>
 <tr>
 <td width="25%" align="center" valign="top">
@@ -130,103 +168,76 @@ A live, growing map of real skills — not a static resume.
 
 ---
 
-## 👨‍💻 About Me
-
-👋 Hi! I'm **Akash Yadav**, an Aspirant **Data Analyst** from **India 🇮🇳**
-
-- 🎯 **Role** — Aspirant Data Analyst passionate about turning raw data into decisions
-- 📍 **Location** — India 🇮🇳
-- 🔭 **Focus** — Data Cleaning · EDA · Visualization · Dashboards
-- 🛠️ **Core Tools** — Python · SQL · Power BI · Tableau
-- 📚 **Currently Learning** — Machine Learning · Advanced SQL · DAX
-- 📊 **What I do** — Clean & transform complex datasets, build interactive dashboards, and deliver data-driven insights
-- 🤖 **Extra Edge** — I leverage AI tools to automate and optimize analytical workflows
-- ⚡ **Fun Fact** — I believe every dataset has a story — I just find it 🔍
-
 ## 🛠️ Tech Stack & Tools
 
-<table align="center">
-  <tr>
-    <td align="center" width="50%">
+<div align="center">
 
 **💻 Languages & Core**
+<br>
+<img src="https://img.shields.io/badge/Python-242938?style=for-the-badge&logo=python&logoColor=3776AB"/>
+<img src="https://img.shields.io/badge/Java-242938?style=for-the-badge&logo=openjdk&logoColor=ED8B00"/>
+<img src="https://img.shields.io/badge/SQL-242938?style=for-the-badge&logo=mysql&logoColor=4479A1"/>
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-
-</td>
-    <td align="center" width="50%">
+<br><br>
 
 **🗄️ Databases**
+<br>
+<img src="https://img.shields.io/badge/MySQL-242938?style=for-the-badge&logo=mysql&logoColor=4479A1"/>
+<img src="https://img.shields.io/badge/PostgreSQL-242938?style=for-the-badge&logo=postgresql&logoColor=4169E1"/>
+<img src="https://img.shields.io/badge/Supabase-242938?style=for-the-badge&logo=supabase&logoColor=3ECF8E"/>
 
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
-
-</td>
-  </tr>
-  <tr>
-    <td align="center">
+<br><br>
 
 **📦 Python Libraries**
+<br>
+<img src="https://img.shields.io/badge/Pandas-242938?style=for-the-badge&logo=pandas&logoColor=E70488"/>
+<img src="https://img.shields.io/badge/NumPy-242938?style=for-the-badge&logo=numpy&logoColor=4DABCF"/>
+<img src="https://img.shields.io/badge/Matplotlib-242938?style=for-the-badge&logo=python&logoColor=11557C"/>
+<img src="https://img.shields.io/badge/Seaborn-242938?style=for-the-badge&logo=python&logoColor=3776AB"/>
+<img src="https://img.shields.io/badge/Plotly-242938?style=for-the-badge&logo=plotly&logoColor=3F4F75"/>
+<img src="https://img.shields.io/badge/Streamlit-242938?style=for-the-badge&logo=streamlit&logoColor=FF4B4B"/>
 
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-
-</td>
-    <td align="center">
+<br><br>
 
 **📊 BI & Visualization**
+<br>
+<img src="https://img.shields.io/badge/Power%20BI-242938?style=for-the-badge&logoColor=F2C811"/>
+<img src="https://img.shields.io/badge/Tableau-242938?style=for-the-badge&logoColor=E97627"/>
+<img src="https://img.shields.io/badge/Excel-242938?style=for-the-badge&logoColor=217346"/>
 
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-
-</td>
-  </tr>
-  <tr>
-    <td align="center">
+<br><br>
 
 **🤖 AI Tools**
+<br>
+<img src="https://img.shields.io/badge/ChatGPT-242938?style=for-the-badge&logoColor=74aa9c"/>
+<img src="https://img.shields.io/badge/Claude-242938?style=for-the-badge&logo=claude&logoColor=CC785C"/>
+<img src="https://img.shields.io/badge/Gemini-242938?style=for-the-badge&logo=googlegemini&logoColor=4285F4"/>
+<img src="https://img.shields.io/badge/Julius%20AI-242938?style=for-the-badge&logoColor=7C3AED"/>
+<img src="https://img.shields.io/badge/Formula%20Bot-242938?style=for-the-badge&logoColor=00BFA5"/>
+<img src="https://img.shields.io/badge/Quadratic%20AI-242938?style=for-the-badge&logoColor=A78BFA"/>
 
-<img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/Claude-CC785C?style=for-the-badge&logo=anthropic&logoColor=white"/>
-<img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
-<img src="https://img.shields.io/badge/Julius%20AI-7C3AED?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/Formula%20Bot-00BFA5?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/Quadratic%20AI-1A1A2E?style=for-the-badge&logoColor=white"/>
-
-</td>
-    <td align="center">
+<br><br>
 
 **🔄 Automation & Version Control**
+<br>
+<img src="https://img.shields.io/badge/Zapier-242938?style=for-the-badge&logo=zapier&logoColor=FF4A00"/>
+<img src="https://img.shields.io/badge/n8n-242938?style=for-the-badge&logo=n8n&logoColor=EA4B71"/>
+<img src="https://img.shields.io/badge/Git-242938?style=for-the-badge&logo=git&logoColor=F05032"/>
+<img src="https://img.shields.io/badge/GitHub-242938?style=for-the-badge&logo=github&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white"/>
-<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-
-</td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
+<br><br>
 
 **🧰 Dev Environments**
+<br>
+<img src="https://img.shields.io/badge/VS%20Code-242938?style=for-the-badge&logoColor=007ACC"/>
+<img src="https://img.shields.io/badge/PyCharm-242938?style=for-the-badge&logo=pycharm&logoColor=21D789"/>
+<img src="https://img.shields.io/badge/Jupyter-242938?style=for-the-badge&logo=jupyter&logoColor=F37626"/>
+<img src="https://img.shields.io/badge/Google%20Colab-242938?style=for-the-badge&logo=googlecolab&logoColor=F9AB00"/>
+<img src="https://img.shields.io/badge/Replit-242938?style=for-the-badge&logo=replit&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-<img src="https://img.shields.io/badge/PyCharm-21D789?style=for-the-badge&logo=pycharm&logoColor=black"/>
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-<img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black"/>
-<img src="https://img.shields.io/badge/Replit-667881?style=for-the-badge&logo=replit&logoColor=white"/>
+</div>
 
-</td>
-  </tr>
-</table>
+<sub>Icons render wherever the underlying icon library (simple-icons) actually carries that logo — a few tools shown above (Power BI, Tableau, Excel, VS Code, ChatGPT, Julius AI, Formula Bot, Quadratic AI) have no icon in that library at all (confirmed against its own source list, not a rendering bug), so those display as clean text-only tiles instead.</sub>
 
 ## 🗂️ Repository Ecosystem
 
@@ -266,6 +277,10 @@ Generative & Agentic AI, LangChain, n8n, automation
 </td>
 </tr>
 </table>
+
+<div align="center">
+<img src="./assets/data-analytics-divider.jpg" alt="Data Analytics — turning raw data into decisions" width="100%">
+</div>
 
 ## 🌟 Featured Projects
 
@@ -312,14 +327,59 @@ Analyzed 43K+ delivery records with 30+ visualizations — KPI metrics and insig
 
 <div align="center">
 
+<img src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif" width="260">
+
 ![Followers](https://img.shields.io/github/followers/akxyverse?style=for-the-badge&color=38bdf8&label=Followers)
 ![Public Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/akxyverse&label=Public%20Repos&query=%24.public_repos&style=for-the-badge&color=22d3ee)
 
 </div>
 
-## 📊 Contribution Graph
+<table width="100%">
+<tr>
+<td width="50%">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=akxyverse&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+<h3 align="center">GitHub Stats</h3>
+<p align="center">
+<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akxyverse&theme=tokyonight" alt="akxyverse's GitHub stats" width="100%">
+</p>
+
+</td>
+<td width="50%">
+
+<h3 align="center">Streak Stats</h3>
+<p align="center">
+<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=akxyverse&theme=tokyonight" alt="akxyverse's streak stats" width="100%">
+</p>
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+<h3 align="center">Featured Project</h3>
+<p align="center">
+<img align="center" width="100%" src="https://socialify.git.ci/akxyverse/data-analytics-projects/image?theme=Dark&pattern=Circuit%20Board&language=1&owner=1&name=1&description=1&font=Inter" alt="Featured repo — data-analytics-projects">
+</p>
+
+</td>
+<td width="50%">
+
+<h3 align="center">Top Languages</h3>
+<p align="center">
+<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=akxyverse&theme=tokyonight" alt="akxyverse's top languages" width="100%">
+</p>
+
+</td>
+</tr>
+</table>
+
+<sub>Widgets served by the official <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">github-profile-summary-cards</a> and <a href="https://github.com/anuraghazra/github-readme-stats">github-readme-stats</a> public instances — occasionally slow or unavailable under shared load; they self-recover without any change needed here.</sub>
+
+## 📈 Contribution Graph 📈
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=akxyverse&theme=radical&hide_border=false&area=true" width="100%"/>
+</div>
 
 ## 🔭 Currently Working On
 
