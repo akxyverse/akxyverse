@@ -353,16 +353,6 @@ Live insight into the Akxyverse ecosystem — development activity, languages, a
 <br>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=akxyverse&theme=tokyo-night&hide_border=false&area=true" width="100%" alt="akxyverse's GitHub contribution activity graph over the past year"/>
 
-<br><br>
-
-### 🐍 Contribution Snake
-<br>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/akxyverse/akxyverse/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/akxyverse/akxyverse/output/github-contribution-grid-snake.svg">
-  <img alt="akxyverse's contribution snake" src="https://raw.githubusercontent.com/akxyverse/akxyverse/output/github-contribution-grid-snake.svg" width="100%">
-</picture>
-
 </div>
 
 ## 🏆 Hall of Achievements
