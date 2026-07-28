@@ -78,6 +78,10 @@ Akxyverse is a growing ecosystem for Data Analytics, AI, Automation, real projec
 
 This isn't a single portfolio — it's a connected set of repositories covering everything from raw data to shipped dashboards, from fundamentals to AI-assisted workflows. Explore whichever part is relevant to you, or follow the whole journey.
 
+### 👨‍💻 Meet the Creator
+
+Hi, I'm **Akash Yadav** — the person behind Akxyverse. I'm based in **India 🇮🇳**, currently building toward a career as a Data Analyst, and everything here is genuinely mine: one person, learning and shipping in public, not a template filled in.
+
 ### 🎯 Mission
 
 Turn raw data into decisions people can actually act on. Build analytics products that get used, not just tutorials that get forgotten. Learn in public, and document the process as honestly as the outcome.
