@@ -68,34 +68,45 @@ Building a connected ecosystem of real, working data projects — not just a lis
 
 <br><br>
 
-## 👨‍💻 About Me
+## 🪐 About Akxyverse
 
 <img align="right" width="340" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 
-### 👋 Hi, I'm Akash Yadav
-**Aspirant Data Analyst** turning raw data into decisions — based in **India 🇮🇳**
+Akxyverse is a growing ecosystem for Data Analytics, AI, Automation, real projects, guidebooks, and learning in public — built and maintained by **Akash Yadav**.
 
-> *Every dataset has a story. I just find it.*
+### 👋 Welcome
 
-- 🎯 **Role** — Aspirant Data Analyst passionate about turning raw data into decisions
-- 📍 **Location** — India 🇮🇳
-- 🔭 **Focus** — Data Cleaning · EDA · Visualization · Dashboards
-- 🛠️ **Core Tools** — Python · SQL · Power BI · Tableau · Excel · Pandas · Streamlit
-- 📚 **Currently Learning** — Machine Learning · Advanced SQL · DAX
-- 📊 **What I do** — Clean & transform complex datasets, build interactive dashboards, and deliver data-driven insights
-- 🤖 **Extra Edge** — I leverage AI tools to automate and optimize analytical workflows
-- 🌱 **Growth** — Went from spreadsheets to end-to-end dashboards and forecasting pipelines, one shipped project at a time
-- 💬 **Ask Me About** — Data cleaning tricks, dashboard design, or how I structured this whole ecosystem
+This isn't a single portfolio — it's a connected set of repositories covering everything from raw data to shipped dashboards, from fundamentals to AI-assisted workflows. Explore whichever part is relevant to you, or follow the whole journey.
+
+### 🎯 Mission
+
+Turn raw data into decisions people can actually act on. Build analytics products that get used, not just tutorials that get forgotten. Learn in public, and document the process as honestly as the outcome.
+
+### 🌌 Ecosystem Overview
+
+- 📊 **[Data Analytics Projects](https://github.com/akxyverse/data-analytics-projects)** — hands-on, end-to-end analytics work, organized by tool and by domain
+- 🧠 **[Knowledge Hub](https://github.com/akxyverse/data-analytics-knowledge-system)** — the core learning track: fundamentals, Python, SQL, BI tools
+- 🤖 **[AI Automation](https://github.com/akxyverse/ai-automation)** — generative and agentic AI, LangChain, n8n
+- 📚 **[Learning Resources](https://github.com/akxyverse/data-analytics-resources)** — books, guidebooks, courses, cheat sheets
+- 💼 **[Career Hub](https://github.com/akxyverse/career-hub)** — resume, interview prep, applications
+- 🏅 **[Certifications](https://github.com/akxyverse/certifications)** — verified credentials, in progress and earned
+- ✍️ **[Content Studio](https://github.com/akxyverse/content-studio)** — articles, tutorials, and content assets
+- 📦 **[Datasets](https://github.com/akxyverse/datasets)** — the data behind every project, organized by source
+
+### 🧭 Philosophy
+
+Build in public, not behind closed doors.
+Ship real projects, not just tutorials.
+Document the process, not just the outcome.
+Every version should be better than the last.
+
+### 🔭 Currently Exploring
+
+Machine Learning · Advanced SQL · DAX
 
 <br>
 
-![Python](https://img.shields.io/badge/-Python-242938?style=for-the-badge&logo=python&logoColor=3776AB)
-![SQL](https://img.shields.io/badge/-SQL-242938?style=for-the-badge&logo=mysql&logoColor=4479A1)
-![Power BI](https://img.shields.io/badge/-Power%20BI-242938?style=for-the-badge&logoColor=F2C811)
-![Tableau](https://img.shields.io/badge/-Tableau-242938?style=for-the-badge&logoColor=E97627)
-![Excel](https://img.shields.io/badge/-Excel-242938?style=for-the-badge&logoColor=217346)
-![Pandas](https://img.shields.io/badge/-Pandas-242938?style=for-the-badge&logo=pandas&logoColor=E70488)
-![Streamlit](https://img.shields.io/badge/-Streamlit-242938?style=for-the-badge&logo=streamlit&logoColor=FF4B4B)
+> *A universe built one dataset, one dashboard, and one shipped project at a time.*
 
 <br clear="right">
 
