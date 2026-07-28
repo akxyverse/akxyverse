@@ -355,28 +355,6 @@ Live insight into the Akxyverse ecosystem — development activity, languages, a
 
 </div>
 
-## 🏆 Hall of Achievements
-
-Milestones that reflect continuous learning, shipped work, open knowledge, and credentials worth verifying — not badges collected for their own sake.
-
-<br>
-
-**🚀 Shipped Projects**
-<br>
-Real, documented, end-to-end analytics work — from live dashboards to interactive forecasting tools, each with source code and most with a working live demo. [See Featured Project Universe →](#-featured-project-universe)
-
-<br>
-
-**📚 Open Knowledge**
-<br>
-Free guidebooks and a growing Knowledge Hub — the learning process kept in the open, not in private notes. [View Resources →](https://github.com/akxyverse/data-analytics-resources)
-
-<br>
-
-**🏅 Verified Certifications**
-<br>
-Completed certifications across data analytics, cloud, and professional development — each linked to the issuer's own verification page where one exists. [See Certifications →](https://github.com/akxyverse/certifications)
-
 <img src="https://capsule-render.vercel.app/api?type=waving&height=60&color=0:38bdf8,100:8b5cf6&section=header" width="100%" alt=""/>
 
 ## 🌍 Connect with Akash Yadav
