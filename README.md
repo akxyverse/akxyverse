@@ -366,6 +366,14 @@ Analyzed 43K+ delivery records with 30+ visualizations — KPI metrics and insig
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=akxyverse&theme=radical&hide_border=false&area=true" width="100%"/>
 </div>
 
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/akxyverse/akxyverse/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/akxyverse/akxyverse/output/github-contribution-grid-snake.svg">
+  <img alt="akxyverse's contribution snake" src="https://raw.githubusercontent.com/akxyverse/akxyverse/output/github-contribution-grid-snake.svg" width="100%">
+</picture>
+</div>
+
 ## 🔭 Currently Working On
 
 - 🟡 SQL (Intermediate/Advanced) — building on the [SQL Basic](https://github.com/akxyverse/certifications) certification already earned
