@@ -325,7 +325,7 @@ Analyzed 43K+ delivery records with 30+ visualizations — KPI metrics and insig
 
 <h3 align="center">GitHub Stats</h3>
 <p align="center">
-<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akxyverse&theme=tokyonight" alt="akxyverse's GitHub stats" width="100%">
+<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akxyverse&theme=radical" alt="akxyverse's GitHub stats" width="100%">
 </p>
 
 </td>
@@ -333,7 +333,7 @@ Analyzed 43K+ delivery records with 30+ visualizations — KPI metrics and insig
 
 <h3 align="center">Streak Stats</h3>
 <p align="center">
-<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=akxyverse&theme=tokyonight" alt="akxyverse's streak stats" width="100%">
+<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=akxyverse&theme=radical" alt="akxyverse's streak stats" width="100%">
 </p>
 
 </td>
@@ -351,7 +351,7 @@ Analyzed 43K+ delivery records with 30+ visualizations — KPI metrics and insig
 
 <h3 align="center">Top Languages</h3>
 <p align="center">
-<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=akxyverse&theme=tokyonight" alt="akxyverse's top languages" width="100%">
+<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=akxyverse&theme=radical" alt="akxyverse's top languages" width="100%">
 </p>
 
 </td>
