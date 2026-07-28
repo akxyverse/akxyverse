@@ -427,12 +427,6 @@ Time-series forecasting with Facebook Prophet, live weather API integration, del
 
 <sub>Widgets served by the official <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">github-profile-summary-cards</a> and <a href="https://github.com/anuraghazra/github-readme-stats">github-readme-stats</a> public instances — occasionally slow or unavailable under shared load; they self-recover without any change needed here.</sub>
 
-## 🚀 Featured Project
-
-<div align="center">
-<img width="70%" src="https://socialify.git.ci/akxyverse/data-analytics-projects/image?theme=Dark&pattern=Circuit%20Board&language=1&owner=1&name=1&description=1&font=Inter" alt="Featured repo — data-analytics-projects">
-</div>
-
 ## 📈 Contribution Graph 📈
 
 <div align="center">
