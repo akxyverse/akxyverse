@@ -1,0 +1,114 @@
+<svg viewBox="0 0 1200 920" width="1200" height="920" xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <radialGradient id="bgGlow1" cx="20%" cy="15%" r="45%">
+    <stop offset="0%" stop-color="#0ea5e9" stop-opacity="0.16"/>
+    <stop offset="100%" stop-color="#0ea5e9" stop-opacity="0"/>
+  </radialGradient>
+  <radialGradient id="bgGlow2" cx="85%" cy="85%" r="45%">
+    <stop offset="0%" stop-color="#7c3aed" stop-opacity="0.16"/>
+    <stop offset="100%" stop-color="#7c3aed" stop-opacity="0"/>
+  </radialGradient>
+  <linearGradient id="titleGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+    <stop offset="0%" stop-color="#38bdf8"/>
+    <stop offset="100%" stop-color="#8b5cf6"/>
+  </linearGradient>
+  <radialGradient id="hubGrad" cx="50%" cy="42%" r="65%">
+    <stop offset="0%" stop-color="#1e293b"/>
+    <stop offset="100%" stop-color="#0b1120"/>
+  </radialGradient>
+  <filter id="hubGlow" x="-60%" y="-60%" width="220%" height="220%">
+    <feGaussianBlur stdDeviation="14" result="blur"/>
+    <feMerge>
+      <feMergeNode in="blur"/>
+      <feMergeNode in="SourceGraphic"/>
+    </feMerge>
+  </filter>
+  <filter id="cardShadow" x="-30%" y="-30%" width="160%" height="160%">
+    <feDropShadow dx="0" dy="4" stdDeviation="6" flood-color="#000000" flood-opacity="0.45"/>
+  </filter>
+</defs>
+
+<rect x="0" y="0" width="1200" height="920" fill="#040814"/>
+<rect x="0" y="0" width="1200" height="920" fill="url(#bgGlow1)"/>
+<rect x="0" y="0" width="1200" height="920" fill="url(#bgGlow2)"/>
+
+<text x="600" y="52" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="40" font-weight="800" fill="url(#titleGrad)" letter-spacing="4">AKXYVERSE</text>
+<text x="600" y="80" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="15" fill="#94a3b8" letter-spacing="1">My GitHub Ecosystem &#8212; 8 Repositories, One Hub</text>
+<rect x="18" y="78" width="176" height="184" rx="12" fill="#0b1120" fill-opacity="0.75" stroke="#1e293b" stroke-width="1"/><text x="34" y="100" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="700" fill="#e2e8f0" letter-spacing="2">LEGEND</text><line x1="34" y1="130" x2="62" y2="130" stroke="#22d3ee" stroke-width="4" stroke-linecap="round"/><text x="72" y="134" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#cbd5e1">Learn</text><line x1="34" y1="156" x2="62" y2="156" stroke="#3b82f6" stroke-width="4" stroke-linecap="round"/><text x="72" y="160" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#cbd5e1">Build</text><line x1="34" y1="182" x2="62" y2="182" stroke="#a78bfa" stroke-width="4" stroke-linecap="round"/><text x="72" y="186" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#cbd5e1">Automate</text><line x1="34" y1="208" x2="62" y2="208" stroke="#f472b6" stroke-width="4" stroke-linecap="round"/><text x="72" y="212" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#cbd5e1">Share</text><line x1="34" y1="234" x2="62" y2="234" stroke="#f59e0b" stroke-width="4" stroke-linecap="round"/><text x="72" y="238" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#cbd5e1">Career</text><path d="M 635.2 385.0 Q 665.3 312.3 695.4 239.6" fill="none" stroke="#22d3ee" stroke-width="2.5" stroke-opacity="0.9"/><circle cx="695.4" cy="239.6" r="4" fill="#22d3ee"/><path d="M 685.0 434.8 Q 757.7 404.7 830.4 374.6" fill="none" stroke="#22d3ee" stroke-width="2.5" stroke-opacity="0.9"/><circle cx="830.4" cy="374.6" r="4" fill="#22d3ee"/><path d="M 685.0 505.2 Q 757.7 535.3 830.4 565.4" fill="none" stroke="#3b82f6" stroke-width="2.5" stroke-opacity="0.9"/><circle cx="830.4" cy="565.4" r="4" fill="#3b82f6"/><path d="M 635.2 555.0 Q 665.3 627.7 695.4 700.4" fill="none" stroke="#3b82f6" stroke-width="2.5" stroke-opacity="0.9"/><circle cx="695.4" cy="700.4" r="4" fill="#3b82f6"/><path d="M 564.8 555.0 Q 534.7 627.7 504.6 700.4" fill="none" stroke="#a78bfa" stroke-width="2.5" stroke-opacity="0.9"/><circle cx="504.6" cy="700.4" r="4" fill="#a78bfa"/><path d="M 515.0 505.2 Q 442.3 535.3 369.6 565.4" fill="none" stroke="#f472b6" stroke-width="2.5" stroke-opacity="0.9"/><circle cx="369.6" cy="565.4" r="4" fill="#f472b6"/><path d="M 515.0 434.8 Q 442.3 404.7 369.6 374.6" fill="none" stroke="#f472b6" stroke-width="2.5" stroke-opacity="0.9"/><circle cx="369.6" cy="374.6" r="4" fill="#f472b6"/><path d="M 564.8 385.0 Q 534.7 312.3 504.6 239.6" fill="none" stroke="#f59e0b" stroke-width="2.5" stroke-opacity="0.9"/><circle cx="504.6" cy="239.6" r="4" fill="#f59e0b"/>
+<circle cx="600" cy="470" r="88" fill="url(#hubGrad)" stroke="url(#titleGrad)" stroke-width="2.5" filter="url(#hubGlow)"/>
+<text x="600" y="456" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="800" fill="#f8fafc" letter-spacing="1">AKXYVERSE</text>
+<text x="600" y="476" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="11" fill="#94a3b8">@akxyverse</text>
+<text x="600" y="496" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="10.5" fill="#64748b">this repo &#8226; the hub</text>
+
+<g filter="url(#cardShadow)">
+  <rect x="606.8" y="146.8" width="216" height="92" rx="14" fill="#0b1120" stroke="#1e293b" stroke-width="1.25"/>
+  <rect x="606.8" y="146.8" width="5" height="92" rx="2.5" fill="#22d3ee"/>
+</g>
+<text x="628.8" y="176.8" font-family="Segoe UI, Arial, sans-serif" font-size="18">🧠</text>
+<text x="656.8" y="174.8" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="700" fill="#f1f5f9">Knowledge Hub</text>
+<text x="628.8" y="196.8" font-family="Consolas, monospace" font-size="10.5" fill="#22d3ee">data-analytics-knowledge-system</text>
+<text x="628.8" y="216.8" font-family="Segoe UI, Arial, sans-serif" font-size="10.5" fill="#94a3b8">Fundamentals, Python, SQL, BI</text>
+
+<g filter="url(#cardShadow)">
+  <rect x="769.2" y="309.2" width="216" height="92" rx="14" fill="#0b1120" stroke="#1e293b" stroke-width="1.25"/>
+  <rect x="769.2" y="309.2" width="5" height="92" rx="2.5" fill="#22d3ee"/>
+</g>
+<text x="791.2" y="339.2" font-family="Segoe UI, Arial, sans-serif" font-size="18">📚</text>
+<text x="819.2" y="337.2" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="700" fill="#f1f5f9">Learning Resources</text>
+<text x="791.2" y="359.2" font-family="Consolas, monospace" font-size="10.5" fill="#22d3ee">data-analytics-resources</text>
+<text x="791.2" y="379.2" font-family="Segoe UI, Arial, sans-serif" font-size="10.5" fill="#94a3b8">Guidebooks, courses, cheat sheets</text>
+
+<g filter="url(#cardShadow)">
+  <rect x="769.2" y="538.8" width="216" height="92" rx="14" fill="#0b1120" stroke="#1e293b" stroke-width="1.25"/>
+  <rect x="769.2" y="538.8" width="5" height="92" rx="2.5" fill="#3b82f6"/>
+</g>
+<text x="791.2" y="568.8" font-family="Segoe UI, Arial, sans-serif" font-size="18">🚀</text>
+<text x="819.2" y="566.8" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="700" fill="#f1f5f9">Projects</text>
+<text x="791.2" y="588.8" font-family="Consolas, monospace" font-size="10.5" fill="#3b82f6">data-analytics-projects</text>
+<text x="791.2" y="608.8" font-family="Segoe UI, Arial, sans-serif" font-size="10.5" fill="#94a3b8">End-to-end analytics work</text>
+
+<g filter="url(#cardShadow)">
+  <rect x="606.8" y="701.2" width="216" height="92" rx="14" fill="#0b1120" stroke="#1e293b" stroke-width="1.25"/>
+  <rect x="606.8" y="701.2" width="5" height="92" rx="2.5" fill="#3b82f6"/>
+</g>
+<text x="628.8" y="731.2" font-family="Segoe UI, Arial, sans-serif" font-size="18">📦</text>
+<text x="656.8" y="729.2" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="700" fill="#f1f5f9">Datasets</text>
+<text x="628.8" y="751.2" font-family="Consolas, monospace" font-size="10.5" fill="#3b82f6">datasets</text>
+<text x="628.8" y="771.2" font-family="Segoe UI, Arial, sans-serif" font-size="10.5" fill="#94a3b8">Data behind every project</text>
+
+<g filter="url(#cardShadow)">
+  <rect x="377.2" y="701.2" width="216" height="92" rx="14" fill="#0b1120" stroke="#1e293b" stroke-width="1.25"/>
+  <rect x="377.2" y="701.2" width="5" height="92" rx="2.5" fill="#a78bfa"/>
+</g>
+<text x="399.2" y="731.2" font-family="Segoe UI, Arial, sans-serif" font-size="18">🤖</text>
+<text x="427.2" y="729.2" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="700" fill="#f1f5f9">AI Automation</text>
+<text x="399.2" y="751.2" font-family="Consolas, monospace" font-size="10.5" fill="#a78bfa">ai-automation</text>
+<text x="399.2" y="771.2" font-family="Segoe UI, Arial, sans-serif" font-size="10.5" fill="#94a3b8">LangChain, n8n, agentic AI</text>
+
+<g filter="url(#cardShadow)">
+  <rect x="214.8" y="538.8" width="216" height="92" rx="14" fill="#0b1120" stroke="#1e293b" stroke-width="1.25"/>
+  <rect x="214.8" y="538.8" width="5" height="92" rx="2.5" fill="#f472b6"/>
+</g>
+<text x="236.8" y="568.8" font-family="Segoe UI, Arial, sans-serif" font-size="18">✍️</text>
+<text x="264.8" y="566.8" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="700" fill="#f1f5f9">Content Studio</text>
+<text x="236.8" y="588.8" font-family="Consolas, monospace" font-size="10.5" fill="#f472b6">content-studio</text>
+<text x="236.8" y="608.8" font-family="Segoe UI, Arial, sans-serif" font-size="10.5" fill="#94a3b8">Articles &amp; tutorials</text>
+
+<g filter="url(#cardShadow)">
+  <rect x="214.8" y="309.2" width="216" height="92" rx="14" fill="#0b1120" stroke="#1e293b" stroke-width="1.25"/>
+  <rect x="214.8" y="309.2" width="5" height="92" rx="2.5" fill="#f472b6"/>
+</g>
+<text x="236.8" y="339.2" font-family="Segoe UI, Arial, sans-serif" font-size="18">🏅</text>
+<text x="264.8" y="337.2" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="700" fill="#f1f5f9">Certifications</text>
+<text x="236.8" y="359.2" font-family="Consolas, monospace" font-size="10.5" fill="#f472b6">certifications</text>
+<text x="236.8" y="379.2" font-family="Segoe UI, Arial, sans-serif" font-size="10.5" fill="#94a3b8">Verified credentials</text>
+
+<g filter="url(#cardShadow)">
+  <rect x="377.2" y="146.8" width="216" height="92" rx="14" fill="#0b1120" stroke="#1e293b" stroke-width="1.25"/>
+  <rect x="377.2" y="146.8" width="5" height="92" rx="2.5" fill="#f59e0b"/>
+</g>
+<text x="399.2" y="176.8" font-family="Segoe UI, Arial, sans-serif" font-size="18">💼</text>
+<text x="427.2" y="174.8" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="700" fill="#f1f5f9">Career Hub</text>
+<text x="399.2" y="196.8" font-family="Consolas, monospace" font-size="10.5" fill="#f59e0b">career-hub</text>
+<text x="399.2" y="216.8" font-family="Segoe UI, Arial, sans-serif" font-size="10.5" fill="#94a3b8">Resume, interview prep</text>
+<rect x="270" y="823.1638597533861" width="660" height="46" rx="23" fill="#0b1120" fill-opacity="0.75" stroke="#1e293b" stroke-width="1"/><text x="600" y="852.1638597533861" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="13.5" fill="#cbd5e1">🧠 Learn   →   🚀 Build   →   🤖 Automate   →   ✍️ Share   →   💼 Career</text></svg>

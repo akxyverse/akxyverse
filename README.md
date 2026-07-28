@@ -287,41 +287,11 @@ Real, working analytics products, not a static list — new ones ship regularly,
 
 Akxyverse isn't one repository — it's several, each with a single job, designed to work together rather than duplicate each other.
 
-<br>
+<div align="center">
 
-**🧠 Learn**
-<br>
-**[Knowledge Hub](https://github.com/akxyverse/data-analytics-knowledge-system)** — the starting point: fundamentals before tools.
-<br>
-**[Learning Resources](https://github.com/akxyverse/data-analytics-resources)** — the reference shelf everything else draws from.
+<img src="./assets/ecosystem-map.svg" width="100%" alt="Akxyverse ecosystem map: 8 repositories grouped by Learn, Build, Automate, Share, and Career, connected to the central akxyverse hub">
 
-<br><br>
-
-**🚀 Build**
-<br>
-**[Data Analytics Projects](https://github.com/akxyverse/data-analytics-projects)** — where fundamentals become real, shipped work.
-<br>
-**[Datasets](https://github.com/akxyverse/datasets)** — the raw material every project is built on.
-
-<br><br>
-
-**🤖 Automate**
-<br>
-**[AI Automation](https://github.com/akxyverse/ai-automation)** — where analytics work extends into AI and agentic workflows.
-
-<br><br>
-
-**💼 Career**
-<br>
-**[Career Hub](https://github.com/akxyverse/career-hub)** — where the work turns into opportunities.
-
-<br><br>
-
-**📚 Share**
-<br>
-**[Content Studio](https://github.com/akxyverse/content-studio)** — where the process gets written up and shared.
-<br>
-**[Certifications](https://github.com/akxyverse/certifications)** — where the learning gets externally verified.
+</div>
 
 ## 📈 Live Activity
 
