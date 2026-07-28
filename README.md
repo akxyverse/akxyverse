@@ -56,7 +56,7 @@ Building a connected ecosystem of real, working data projects — not just a lis
 
 ## 👨‍💻 About Me
 
-<img align="right" width="340" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="">
+<img align="right" width="340" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/f5384ba2-bf78-4be4-94be-4559c1827245" alt="Consuming Data & File">
 
 ### 👨‍💻 Meet the Creator
 
@@ -270,6 +270,8 @@ A live, growing map of real skills — not a static resume.
 Real, working analytics products, not a static list — new ones ship regularly, so this points straight to the live source instead of going stale.
 
 <div align="center">
+
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0b335028-1d3d-4ee5-b5b3-a373d499be7e" width="260" alt="Cool Stats on Laptop">
 
 **🚀 [Browse All Projects →](https://github.com/akxyverse/data-analytics-projects)**
 
