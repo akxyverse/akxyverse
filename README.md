@@ -56,7 +56,7 @@ Building a connected ecosystem of real, working data projects — not just a lis
 
 ## 👨‍💻 About Me
 
-<img align="right" width="340" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/f5384ba2-bf78-4be4-94be-4559c1827245" alt="Consuming Data & File">
+<img align="right" width="340" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="">
 
 ### 👨‍💻 Meet the Creator
 
