@@ -706,15 +706,13 @@ Everything I build, learn, and share is organized into dedicated repositories. E
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=60&color=0:38bdf8,100:8b5cf6&section=header" width="100%" alt=""/>
 
-## 🌍 Connect with Akash Yadav
+## 🚀 Continue Exploring
+
+➜ **Thanks for exploring the Akxyverse.** If you enjoyed this ecosystem, feel free to connect, explore more repositories, or follow my journey as I continue building in public.
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:38bdf8,100:8b5cf6&section=header&text=Let's%20Build%20Something%20Data-Driven&fontSize=28&fontColor=ffffff&animation=fadeIn" width="100%" alt="Let's Connect"/>
-
-Always up for a conversation about data, dashboards, or what to build next.
-
-<br><br>
+<br>
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/akxyverse)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akash-yadav-122a75288/)
@@ -722,9 +720,9 @@ Always up for a conversation about data, dashboards, or what to build next.
 
 <br><br>
 
-**⭐ If any of this ecosystem is useful to you, a star goes a long way.**
+⭐ **Found something useful?** Consider starring the repositories that helped you.
 
-<sub>Akash Yadav — learning in public, one repository at a time.</sub>
+<sub>Building. Learning. Sharing. One repository at a time.</sub>
 
 <br><br>
 
