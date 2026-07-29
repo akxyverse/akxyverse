@@ -12,11 +12,11 @@
 
 # <img src="./assets/name-wordmark.svg" width="560" alt="Akash Yadav — Data Analytics, AI-Assisted Workflows, Automation">
 
-Building a connected ecosystem of real, working data projects — not just a list of links.
+**Turning raw data into meaningful insights through analytics, dashboards, automation, and AI-powered workflows.**
 
 <br>
 
-**📊 Profile at a Glance**
+**📊 Quick Stats**
 <br>
 <img src="https://komarev.com/ghpvc/?username=akxyverse&label=Profile%20Views&color=38bdf8&style=for-the-badge" alt="profile views"/>
 &nbsp;•&nbsp;
@@ -26,19 +26,39 @@ Building a connected ecosystem of real, working data projects — not just a lis
 &nbsp;•&nbsp;
 <img src="https://img.shields.io/badge/8--Repo%20Ecosystem-8b5cf6?style=for-the-badge" alt="8-repo curated ecosystem"/>
 
-<br>
+<br><br>
 
+**🚀 Quick Navigation**
+<br>
 <a href="https://github.com/akxyverse/data-analytics-projects">
   <img src="https://img.shields.io/badge/%F0%9F%9A%80%20Projects-38bdf8?style=for-the-badge" alt="Projects"/>
 </a>
 &nbsp;
 <a href="https://github.com/akxyverse/data-analytics-knowledge-system">
-  <img src="https://img.shields.io/badge/%F0%9F%93%9A%20Knowledge%20Hub-22d3ee?style=for-the-badge" alt="Knowledge Hub"/>
+  <img src="https://img.shields.io/badge/%F0%9F%A7%A0%20Knowledge%20Hub-22d3ee?style=for-the-badge" alt="Knowledge Hub"/>
+</a>
+&nbsp;
+<a href="https://github.com/akxyverse/ai-automation">
+  <img src="https://img.shields.io/badge/%F0%9F%A4%96%20AI%20Automation-8b5cf6?style=for-the-badge" alt="AI Automation"/>
 </a>
 
 <br>
 
-<sub>↓ Explore the Ecosystem ↓</sub>
+<a href="https://github.com/akxyverse/data-analytics-resources">
+  <img src="https://img.shields.io/badge/%F0%9F%93%9A%20Learning%20Resources-22d3ee?style=for-the-badge" alt="Learning Resources"/>
+</a>
+&nbsp;
+<a href="https://github.com/akxyverse/career-hub">
+  <img src="https://img.shields.io/badge/%F0%9F%92%BC%20Career%20Hub-f59e0b?style=for-the-badge" alt="Career Hub"/>
+</a>
+&nbsp;
+<a href="https://github.com/akxyverse/certifications">
+  <img src="https://img.shields.io/badge/%F0%9F%8F%86%20Certifications-f472b6?style=for-the-badge" alt="Certifications"/>
+</a>
+
+<br>
+
+<sub>⬇ Discover the Akxyverse Ecosystem ⬇</sub>
 
 </div>
 
