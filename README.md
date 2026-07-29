@@ -48,38 +48,53 @@ Building a connected ecosystem of real, working data projects — not just a lis
 
 <img align="right" width="340" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="">
 
-### 👋 Meet the Creator
+### 👋 Hi, I'm Akash.
 
-**Hi, I'm Akash Yadav.**
-An aspiring **Data Analyst** based in **India 🇮🇳**, passionate about turning messy, unstructured data into decisions people can actually act on.
+> **Turning data into decisions.**
+> *One dashboard. One project. One improvement at a time.*
 
-→ I enjoy building **real projects**, **interactive dashboards**, and **AI-assisted workflows** that solve practical problems — one real project at a time.
-
----
-
-### 🚀 Why Akxyverse?
-
-My learning used to live scattered across notes, bookmarks, and half-finished folders. Akxyverse is the fix — one structured, public home for the projects, the fundamentals, and the proof of work, instead of it disappearing into private files.
-
-It's a workspace that keeps growing, not a portfolio that sits still.
-
----
-
-### 🎯 What Drives Me
-
-> **Build. Learn. Document. Repeat.**
-
-Every project should teach something. Every write-up should be as honest about the process as it is about the outcome.
-
----
-
-### 💡 Current Focus
-
-**Python** • **SQL** • **Power BI** • **Tableau** • **AI Automation**
-
-<sub>Currently exploring: Machine Learning · Advanced SQL · DAX</sub>
+```text
+📍 India
+🎯 Aspiring Data Analyst
+⚡ Python • SQL • Power BI • AI
+```
 
 <br clear="right">
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+**01 — WHY I BUILD**
+
+Not another portfolio.
+A growing workspace where projects, learning, datasets, and experiments come together.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+**02 — WHAT DRIVES ME**
+
+> Build. Analyze. Improve. Repeat.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+**03 — CURRENTLY SHIPPING**
+
+```text
+▸ End-to-End Analytics Projects
+▸ AI-Assisted Workflows
+▸ Interactive Dashboards
+```
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+**04 — WHAT'S NEXT**
+
+```text
+▸ Machine Learning
+▸ Advanced SQL
+▸ DAX
+```
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ---
 
