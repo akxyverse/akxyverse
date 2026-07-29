@@ -278,133 +278,177 @@ Real, working analytics products, not a static list — new ones ship regularly,
 Akxyverse isn't one repository — it's several, each with a single job, designed to work together rather than duplicate each other. Click a repository below to expand into its real folders.
 
 <details>
-<summary><b>🧠 Knowledge Hub</b> — <a href="https://github.com/akxyverse/data-analytics-knowledge-system">data-analytics-knowledge-system</a></summary>
+<summary><b>🧠 Knowledge Hub</b> ────────▶ <a href="https://github.com/akxyverse/data-analytics-knowledge-system">data-analytics-knowledge-system</a></summary>
 <br>
 
-⇢ [Fundamentals of Data Analytics](https://github.com/akxyverse/data-analytics-knowledge-system/tree/main/Fundamentals%20of%20Data%20Analytics)<br>
-⇢ [Data Analytics Technologies](https://github.com/akxyverse/data-analytics-knowledge-system/tree/main/Data%20Analytics%20Technologies)<br>
+┈┈┈▶ [Fundamentals of Data Analytics](https://github.com/akxyverse/data-analytics-knowledge-system/tree/main/Fundamentals%20of%20Data%20Analytics)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;┈┈┈▶ [Mathematics](https://github.com/akxyverse/data-analytics-knowledge-system/tree/main/Fundamentals%20of%20Data%20Analytics/Mathematics)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;┈┈┈▶ [Probability](https://github.com/akxyverse/data-analytics-knowledge-system/tree/main/Fundamentals%20of%20Data%20Analytics/Probability)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;┈┈┈▶ [Statistics](https://github.com/akxyverse/data-analytics-knowledge-system/tree/main/Fundamentals%20of%20Data%20Analytics/Statistics)<br>
+┈┈┈▶ [Data Analytics Technologies](https://github.com/akxyverse/data-analytics-knowledge-system/tree/main/Data%20Analytics%20Technologies)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;┈┈┈▶ [APIs](https://github.com/akxyverse/data-analytics-knowledge-system/tree/main/Data%20Analytics%20Technologies/APIs)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;┈┈┈▶ [Analytics Concepts](https://github.com/akxyverse/data-analytics-knowledge-system/tree/main/Data%20Analytics%20Technologies/Analytics%20Concepts)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;┈┈┈▶ [Data Visualization](https://github.com/akxyverse/data-analytics-knowledge-system/tree/main/Data%20Analytics%20Technologies/Data%20Visualization)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;┈┈┈▶ [Databases](https://github.com/akxyverse/data-analytics-knowledge-system/tree/main/Data%20Analytics%20Technologies/Databases)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;┈┈┈▶ [Other Tools](https://github.com/akxyverse/data-analytics-knowledge-system/tree/main/Data%20Analytics%20Technologies/Other%20Tools)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;┈┈┈▶ [Programming](https://github.com/akxyverse/data-analytics-knowledge-system/tree/main/Data%20Analytics%20Technologies/Programming)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;┈┈┈▶ [Spreadsheets](https://github.com/akxyverse/data-analytics-knowledge-system/tree/main/Data%20Analytics%20Technologies/Spreadsheets)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;┈┈┈▶ [Version Control](https://github.com/akxyverse/data-analytics-knowledge-system/tree/main/Data%20Analytics%20Technologies/Version%20Control)<br>
 
 </details>
 
 <details>
-<summary><b>📚 Learning Resources</b> — <a href="https://github.com/akxyverse/data-analytics-resources">data-analytics-resources</a></summary>
+<summary><b>📚 Learning Resources</b> ────────▶ <a href="https://github.com/akxyverse/data-analytics-resources">data-analytics-resources</a></summary>
 <br>
 
-⇢ [Guidebooks](https://github.com/akxyverse/data-analytics-resources/tree/main/Guidebooks)<br>
-⇢ [Courses](https://github.com/akxyverse/data-analytics-resources/tree/main/Courses)<br>
-⇢ [Cheat Sheets](https://github.com/akxyverse/data-analytics-resources/tree/main/Cheat%20Sheets)<br>
-⇢ [Books](https://github.com/akxyverse/data-analytics-resources/tree/main/Books)<br>
-⇢ [Blogs](https://github.com/akxyverse/data-analytics-resources/tree/main/Blogs)<br>
-⇢ [External Study Resources](https://github.com/akxyverse/data-analytics-resources/tree/main/External%20Study%20Resources)<br>
-⇢ [Newsletters](https://github.com/akxyverse/data-analytics-resources/tree/main/Newsletters)<br>
-⇢ [Official Documentation](https://github.com/akxyverse/data-analytics-resources/tree/main/Official%20Documentation)<br>
-⇢ [PDFs](https://github.com/akxyverse/data-analytics-resources/tree/main/PDFs)<br>
-⇢ [References](https://github.com/akxyverse/data-analytics-resources/tree/main/References)<br>
-⇢ [Research Papers](https://github.com/akxyverse/data-analytics-resources/tree/main/Research%20Papers)<br>
-⇢ [Templates](https://github.com/akxyverse/data-analytics-resources/tree/main/Templates)<br>
-⇢ [Videos](https://github.com/akxyverse/data-analytics-resources/tree/main/Videos)<br>
-⇢ [Websites](https://github.com/akxyverse/data-analytics-resources/tree/main/Websites)<br>
-⇢ [White Papers](https://github.com/akxyverse/data-analytics-resources/tree/main/White%20Papers)<br>
+┈┈┈▶ [Guidebooks](https://github.com/akxyverse/data-analytics-resources/tree/main/Guidebooks)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;┈┈┈▶ [Excel Roadmap Guide](https://github.com/akxyverse/data-analytics-resources/tree/main/Guidebooks/Excel%20Roadmap%20Guide)<br>
+┈┈┈▶ [Courses](https://github.com/akxyverse/data-analytics-resources/tree/main/Courses)<br>
+┈┈┈▶ [Cheat Sheets](https://github.com/akxyverse/data-analytics-resources/tree/main/Cheat%20Sheets)<br>
+┈┈┈▶ [Books](https://github.com/akxyverse/data-analytics-resources/tree/main/Books)<br>
+┈┈┈▶ [Blogs](https://github.com/akxyverse/data-analytics-resources/tree/main/Blogs)<br>
+┈┈┈▶ [External Study Resources](https://github.com/akxyverse/data-analytics-resources/tree/main/External%20Study%20Resources)<br>
+┈┈┈▶ [Newsletters](https://github.com/akxyverse/data-analytics-resources/tree/main/Newsletters)<br>
+┈┈┈▶ [Official Documentation](https://github.com/akxyverse/data-analytics-resources/tree/main/Official%20Documentation)<br>
+┈┈┈▶ [PDFs](https://github.com/akxyverse/data-analytics-resources/tree/main/PDFs)<br>
+┈┈┈▶ [References](https://github.com/akxyverse/data-analytics-resources/tree/main/References)<br>
+┈┈┈▶ [Research Papers](https://github.com/akxyverse/data-analytics-resources/tree/main/Research%20Papers)<br>
+┈┈┈▶ [Templates](https://github.com/akxyverse/data-analytics-resources/tree/main/Templates)<br>
+┈┈┈▶ [Videos](https://github.com/akxyverse/data-analytics-resources/tree/main/Videos)<br>
+┈┈┈▶ [Websites](https://github.com/akxyverse/data-analytics-resources/tree/main/Websites)<br>
+┈┈┈▶ [White Papers](https://github.com/akxyverse/data-analytics-resources/tree/main/White%20Papers)<br>
 
 </details>
 
 <details>
-<summary><b>🚀 Projects</b> — <a href="https://github.com/akxyverse/data-analytics-projects">data-analytics-projects</a></summary>
+<summary><b>🚀 Projects</b> ────────▶ <a href="https://github.com/akxyverse/data-analytics-projects">data-analytics-projects</a></summary>
 <br>
 
-⇢ [End-to-End Projects](https://github.com/akxyverse/data-analytics-projects/tree/main/End-to-End%20Projects)<br>
-⇢ [Domain-wise Projects](https://github.com/akxyverse/data-analytics-projects/tree/main/Domain-wise%20Projects)<br>
-⇢ [AI Projects](https://github.com/akxyverse/data-analytics-projects/tree/main/AI%20Projects)<br>
-⇢ [Showcase Projects](https://github.com/akxyverse/data-analytics-projects/tree/main/Showcase%20Projects)<br>
-⇢ [Business Problems](https://github.com/akxyverse/data-analytics-projects/tree/main/Business%20Problems)<br>
-⇢ [Project Templates](https://github.com/akxyverse/data-analytics-projects/tree/main/Project%20Templates)<br>
-⇢ [Tool-wise Projects](https://github.com/akxyverse/data-analytics-projects/tree/main/Tool-wise%20Projects)<br>
+┈┈┈▶ [End-to-End Projects](https://github.com/akxyverse/data-analytics-projects/tree/main/End-to-End%20Projects)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;┈┈┈▶ [ThunderCast](https://github.com/akxyverse/data-analytics-projects/tree/main/End-to-End%20Projects/ThunderCast)<br>
+┈┈┈▶ [Domain-wise Projects](https://github.com/akxyverse/data-analytics-projects/tree/main/Domain-wise%20Projects)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;┈┈┈▶ [Banking](https://github.com/akxyverse/data-analytics-projects/tree/main/Domain-wise%20Projects/Banking)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;┈┈┈▶ [Ecommerce](https://github.com/akxyverse/data-analytics-projects/tree/main/Domain-wise%20Projects/Ecommerce)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;┈┈┈▶ [Education](https://github.com/akxyverse/data-analytics-projects/tree/main/Domain-wise%20Projects/Education)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;┈┈┈▶ [Finance](https://github.com/akxyverse/data-analytics-projects/tree/main/Domain-wise%20Projects/Finance)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;┈┈┈▶ [HR](https://github.com/akxyverse/data-analytics-projects/tree/main/Domain-wise%20Projects/HR)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;┈┈┈▶ [Healthcare](https://github.com/akxyverse/data-analytics-projects/tree/main/Domain-wise%20Projects/Healthcare)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;┈┈┈▶ [Insurance](https://github.com/akxyverse/data-analytics-projects/tree/main/Domain-wise%20Projects/Insurance)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;┈┈┈▶ [Logistics](https://github.com/akxyverse/data-analytics-projects/tree/main/Domain-wise%20Projects/Logistics)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;┈┈┈▶ [Manufacturing](https://github.com/akxyverse/data-analytics-projects/tree/main/Domain-wise%20Projects/Manufacturing)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;┈┈┈▶ [Marketing](https://github.com/akxyverse/data-analytics-projects/tree/main/Domain-wise%20Projects/Marketing)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;┈┈┈▶ [Others](https://github.com/akxyverse/data-analytics-projects/tree/main/Domain-wise%20Projects/Others)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;┈┈┈▶ [Real Estate](https://github.com/akxyverse/data-analytics-projects/tree/main/Domain-wise%20Projects/Real%20Estate)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;┈┈┈▶ [Retail](https://github.com/akxyverse/data-analytics-projects/tree/main/Domain-wise%20Projects/Retail)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;┈┈┈▶ [Sales](https://github.com/akxyverse/data-analytics-projects/tree/main/Domain-wise%20Projects/Sales)<br>
+┈┈┈▶ [Tool-wise Projects](https://github.com/akxyverse/data-analytics-projects/tree/main/Tool-wise%20Projects)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;┈┈┈▶ [Agentic AI](https://github.com/akxyverse/data-analytics-projects/tree/main/Tool-wise%20Projects/Agentic%20AI)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;┈┈┈▶ [Cloud](https://github.com/akxyverse/data-analytics-projects/tree/main/Tool-wise%20Projects/Cloud)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;┈┈┈▶ [Data Engineering](https://github.com/akxyverse/data-analytics-projects/tree/main/Tool-wise%20Projects/Data%20Engineering)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;┈┈┈▶ [Deep Learning](https://github.com/akxyverse/data-analytics-projects/tree/main/Tool-wise%20Projects/Deep%20Learning)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;┈┈┈▶ [Excel](https://github.com/akxyverse/data-analytics-projects/tree/main/Tool-wise%20Projects/Excel)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;┈┈┈▶ [Generative AI](https://github.com/akxyverse/data-analytics-projects/tree/main/Tool-wise%20Projects/Generative%20AI)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;┈┈┈▶ [Machine Learning](https://github.com/akxyverse/data-analytics-projects/tree/main/Tool-wise%20Projects/Machine%20Learning)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;┈┈┈▶ [Power BI](https://github.com/akxyverse/data-analytics-projects/tree/main/Tool-wise%20Projects/Power%20BI)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;┈┈┈▶ [Python](https://github.com/akxyverse/data-analytics-projects/tree/main/Tool-wise%20Projects/Python)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;┈┈┈▶ [SQL](https://github.com/akxyverse/data-analytics-projects/tree/main/Tool-wise%20Projects/SQL)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;┈┈┈▶ [Tableau](https://github.com/akxyverse/data-analytics-projects/tree/main/Tool-wise%20Projects/Tableau)<br>
+┈┈┈▶ [AI Projects](https://github.com/akxyverse/data-analytics-projects/tree/main/AI%20Projects)<br>
+┈┈┈▶ [Showcase Projects](https://github.com/akxyverse/data-analytics-projects/tree/main/Showcase%20Projects)<br>
+┈┈┈▶ [Business Problems](https://github.com/akxyverse/data-analytics-projects/tree/main/Business%20Problems)<br>
+┈┈┈▶ [Project Templates](https://github.com/akxyverse/data-analytics-projects/tree/main/Project%20Templates)<br>
 
 </details>
 
 <details>
-<summary><b>📦 Datasets</b> — <a href="https://github.com/akxyverse/datasets">datasets</a></summary>
+<summary><b>📦 Datasets</b> ────────▶ <a href="https://github.com/akxyverse/datasets">datasets</a></summary>
 <br>
 
-⇢ [Kaggle](https://github.com/akxyverse/datasets/tree/main/Kaggle)<br>
-⇢ [Government](https://github.com/akxyverse/datasets/tree/main/Government)<br>
-⇢ [Company](https://github.com/akxyverse/datasets/tree/main/Company)<br>
-⇢ [Public](https://github.com/akxyverse/datasets/tree/main/Public)<br>
-⇢ [Archive](https://github.com/akxyverse/datasets/tree/main/Archive)<br>
-⇢ [Competition](https://github.com/akxyverse/datasets/tree/main/Competition)<br>
-⇢ [Personal](https://github.com/akxyverse/datasets/tree/main/Personal)<br>
-⇢ [Practice](https://github.com/akxyverse/datasets/tree/main/Practice)<br>
-⇢ [Synthetic](https://github.com/akxyverse/datasets/tree/main/Synthetic)<br>
+┈┈┈▶ [Kaggle](https://github.com/akxyverse/datasets/tree/main/Kaggle)<br>
+┈┈┈▶ [Government](https://github.com/akxyverse/datasets/tree/main/Government)<br>
+┈┈┈▶ [Company](https://github.com/akxyverse/datasets/tree/main/Company)<br>
+┈┈┈▶ [Public](https://github.com/akxyverse/datasets/tree/main/Public)<br>
+┈┈┈▶ [Archive](https://github.com/akxyverse/datasets/tree/main/Archive)<br>
+┈┈┈▶ [Competition](https://github.com/akxyverse/datasets/tree/main/Competition)<br>
+┈┈┈▶ [Personal](https://github.com/akxyverse/datasets/tree/main/Personal)<br>
+┈┈┈▶ [Practice](https://github.com/akxyverse/datasets/tree/main/Practice)<br>
+┈┈┈▶ [Synthetic](https://github.com/akxyverse/datasets/tree/main/Synthetic)<br>
 
 </details>
 
 <details>
-<summary><b>🤖 AI Automation</b> — <a href="https://github.com/akxyverse/ai-automation">ai-automation</a></summary>
+<summary><b>🤖 AI Automation</b> ────────▶ <a href="https://github.com/akxyverse/ai-automation">ai-automation</a></summary>
 <br>
 
-⇢ [LangChain](https://github.com/akxyverse/ai-automation/tree/main/LangChain)<br>
-⇢ [Agentic AI](https://github.com/akxyverse/ai-automation/tree/main/Agentic%20AI)<br>
-⇢ [RAG](https://github.com/akxyverse/ai-automation/tree/main/RAG)<br>
-⇢ [n8n](https://github.com/akxyverse/ai-automation/tree/main/n8n)<br>
-⇢ [AI APIs](https://github.com/akxyverse/ai-automation/tree/main/AI%20APIs)<br>
-⇢ [AI Tools](https://github.com/akxyverse/ai-automation/tree/main/AI%20Tools)<br>
-⇢ [AI Workflows](https://github.com/akxyverse/ai-automation/tree/main/AI%20Workflows)<br>
-⇢ [FastAPI](https://github.com/akxyverse/ai-automation/tree/main/FastAPI)<br>
-⇢ [Flask](https://github.com/akxyverse/ai-automation/tree/main/Flask)<br>
-⇢ [Flowise](https://github.com/akxyverse/ai-automation/tree/main/Flowise)<br>
-⇢ [Generative AI](https://github.com/akxyverse/ai-automation/tree/main/Generative%20AI)<br>
-⇢ [Hugging Face](https://github.com/akxyverse/ai-automation/tree/main/Hugging%20Face)<br>
-⇢ [LangGraph](https://github.com/akxyverse/ai-automation/tree/main/LangGraph)<br>
-⇢ [MCP](https://github.com/akxyverse/ai-automation/tree/main/MCP)<br>
-⇢ [Prompt Engineering](https://github.com/akxyverse/ai-automation/tree/main/Prompt%20Engineering)<br>
-⇢ [Vector Databases](https://github.com/akxyverse/ai-automation/tree/main/Vector%20Databases)<br>
+┈┈┈▶ [LangChain](https://github.com/akxyverse/ai-automation/tree/main/LangChain)<br>
+┈┈┈▶ [Agentic AI](https://github.com/akxyverse/ai-automation/tree/main/Agentic%20AI)<br>
+┈┈┈▶ [RAG](https://github.com/akxyverse/ai-automation/tree/main/RAG)<br>
+┈┈┈▶ [n8n](https://github.com/akxyverse/ai-automation/tree/main/n8n)<br>
+┈┈┈▶ [AI APIs](https://github.com/akxyverse/ai-automation/tree/main/AI%20APIs)<br>
+┈┈┈▶ [AI Tools](https://github.com/akxyverse/ai-automation/tree/main/AI%20Tools)<br>
+┈┈┈▶ [AI Workflows](https://github.com/akxyverse/ai-automation/tree/main/AI%20Workflows)<br>
+┈┈┈▶ [FastAPI](https://github.com/akxyverse/ai-automation/tree/main/FastAPI)<br>
+┈┈┈▶ [Flask](https://github.com/akxyverse/ai-automation/tree/main/Flask)<br>
+┈┈┈▶ [Flowise](https://github.com/akxyverse/ai-automation/tree/main/Flowise)<br>
+┈┈┈▶ [Generative AI](https://github.com/akxyverse/ai-automation/tree/main/Generative%20AI)<br>
+┈┈┈▶ [Hugging Face](https://github.com/akxyverse/ai-automation/tree/main/Hugging%20Face)<br>
+┈┈┈▶ [LangGraph](https://github.com/akxyverse/ai-automation/tree/main/LangGraph)<br>
+┈┈┈▶ [MCP](https://github.com/akxyverse/ai-automation/tree/main/MCP)<br>
+┈┈┈▶ [Prompt Engineering](https://github.com/akxyverse/ai-automation/tree/main/Prompt%20Engineering)<br>
+┈┈┈▶ [Vector Databases](https://github.com/akxyverse/ai-automation/tree/main/Vector%20Databases)<br>
 
 </details>
 
 <details>
-<summary><b>✍️ Content Studio</b> — <a href="https://github.com/akxyverse/content-studio">content-studio</a></summary>
+<summary><b>✍️ Content Studio</b> ────────▶ <a href="https://github.com/akxyverse/content-studio">content-studio</a></summary>
 <br>
 
-⇢ [Articles](https://github.com/akxyverse/content-studio/tree/main/Articles)<br>
-⇢ [Blogs](https://github.com/akxyverse/content-studio/tree/main/Blogs)<br>
-⇢ [LinkedIn Posts](https://github.com/akxyverse/content-studio/tree/main/LinkedIn%20Posts)<br>
-⇢ [Tutorials](https://github.com/akxyverse/content-studio/tree/main/Tutorials)<br>
-⇢ [Banners](https://github.com/akxyverse/content-studio/tree/main/Banners)<br>
-⇢ [Content Ideas](https://github.com/akxyverse/content-studio/tree/main/Content%20Ideas)<br>
-⇢ [Content Templates](https://github.com/akxyverse/content-studio/tree/main/Content%20Templates)<br>
-⇢ [GitHub Content](https://github.com/akxyverse/content-studio/tree/main/GitHub%20Content)<br>
-⇢ [Images](https://github.com/akxyverse/content-studio/tree/main/Images)<br>
-⇢ [Thumbnails](https://github.com/akxyverse/content-studio/tree/main/Thumbnails)<br>
+┈┈┈▶ [Articles](https://github.com/akxyverse/content-studio/tree/main/Articles)<br>
+┈┈┈▶ [Blogs](https://github.com/akxyverse/content-studio/tree/main/Blogs)<br>
+┈┈┈▶ [LinkedIn Posts](https://github.com/akxyverse/content-studio/tree/main/LinkedIn%20Posts)<br>
+┈┈┈▶ [Tutorials](https://github.com/akxyverse/content-studio/tree/main/Tutorials)<br>
+┈┈┈▶ [Banners](https://github.com/akxyverse/content-studio/tree/main/Banners)<br>
+┈┈┈▶ [Content Ideas](https://github.com/akxyverse/content-studio/tree/main/Content%20Ideas)<br>
+┈┈┈▶ [Content Templates](https://github.com/akxyverse/content-studio/tree/main/Content%20Templates)<br>
+┈┈┈▶ [GitHub Content](https://github.com/akxyverse/content-studio/tree/main/GitHub%20Content)<br>
+┈┈┈▶ [Images](https://github.com/akxyverse/content-studio/tree/main/Images)<br>
+┈┈┈▶ [Thumbnails](https://github.com/akxyverse/content-studio/tree/main/Thumbnails)<br>
 
 </details>
 
 <details>
-<summary><b>🏅 Certifications</b> — <a href="https://github.com/akxyverse/certifications">certifications</a></summary>
+<summary><b>🏅 Certifications</b> ────────▶ <a href="https://github.com/akxyverse/certifications">certifications</a></summary>
 <br>
 
-⇢ [Certificates](https://github.com/akxyverse/certifications/tree/main/Certificates)<br>
-⇢ [Completed](https://github.com/akxyverse/certifications/tree/main/Completed)<br>
-⇢ [In Progress](https://github.com/akxyverse/certifications/tree/main/In%20Progress)<br>
-⇢ [Practice Exams](https://github.com/akxyverse/certifications/tree/main/Practice%20Exams)<br>
+┈┈┈▶ [Certificates](https://github.com/akxyverse/certifications/tree/main/Certificates)<br>
+┈┈┈▶ [Completed](https://github.com/akxyverse/certifications/tree/main/Completed)<br>
+┈┈┈▶ [In Progress](https://github.com/akxyverse/certifications/tree/main/In%20Progress)<br>
+┈┈┈▶ [Practice Exams](https://github.com/akxyverse/certifications/tree/main/Practice%20Exams)<br>
 
 </details>
 
 <details>
-<summary><b>💼 Career Hub</b> — <a href="https://github.com/akxyverse/career-hub">career-hub</a></summary>
+<summary><b>💼 Career Hub</b> ────────▶ <a href="https://github.com/akxyverse/career-hub">career-hub</a></summary>
 <br>
 
-⇢ [Resume](https://github.com/akxyverse/career-hub/tree/main/Resume)<br>
-⇢ [Interview Preparation](https://github.com/akxyverse/career-hub/tree/main/Interview%20Preparation)<br>
-⇢ [Job Applications](https://github.com/akxyverse/career-hub/tree/main/Job%20Applications)<br>
-⇢ [LinkedIn](https://github.com/akxyverse/career-hub/tree/main/LinkedIn)<br>
-⇢ [Career Planning](https://github.com/akxyverse/career-hub/tree/main/Career%20Planning)<br>
-⇢ [Company Research](https://github.com/akxyverse/career-hub/tree/main/Company%20Research)<br>
-⇢ [Freelancing](https://github.com/akxyverse/career-hub/tree/main/Freelancing)<br>
-⇢ [GitHub Profile](https://github.com/akxyverse/career-hub/tree/main/GitHub%20Profile)<br>
-⇢ [Internships](https://github.com/akxyverse/career-hub/tree/main/Internships)<br>
-⇢ [Job Preparation](https://github.com/akxyverse/career-hub/tree/main/Job%20Preparation)<br>
-⇢ [Networking](https://github.com/akxyverse/career-hub/tree/main/Networking)<br>
-⇢ [Salary Research](https://github.com/akxyverse/career-hub/tree/main/Salary%20Research)<br>
+┈┈┈▶ [Resume](https://github.com/akxyverse/career-hub/tree/main/Resume)<br>
+┈┈┈▶ [Interview Preparation](https://github.com/akxyverse/career-hub/tree/main/Interview%20Preparation)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;┈┈┈▶ [Coding Interviews](https://github.com/akxyverse/career-hub/tree/main/Interview%20Preparation/Coding%20Interviews)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;┈┈┈▶ [HR Interviews](https://github.com/akxyverse/career-hub/tree/main/Interview%20Preparation/HR%20Interviews)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;┈┈┈▶ [Technical Interviews](https://github.com/akxyverse/career-hub/tree/main/Interview%20Preparation/Technical%20Interviews)<br>
+┈┈┈▶ [Job Applications](https://github.com/akxyverse/career-hub/tree/main/Job%20Applications)<br>
+┈┈┈▶ [LinkedIn](https://github.com/akxyverse/career-hub/tree/main/LinkedIn)<br>
+┈┈┈▶ [Career Planning](https://github.com/akxyverse/career-hub/tree/main/Career%20Planning)<br>
+┈┈┈▶ [Company Research](https://github.com/akxyverse/career-hub/tree/main/Company%20Research)<br>
+┈┈┈▶ [Freelancing](https://github.com/akxyverse/career-hub/tree/main/Freelancing)<br>
+┈┈┈▶ [GitHub Profile](https://github.com/akxyverse/career-hub/tree/main/GitHub%20Profile)<br>
+┈┈┈▶ [Internships](https://github.com/akxyverse/career-hub/tree/main/Internships)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;┈┈┈▶ [Bharat Intern](https://github.com/akxyverse/career-hub/tree/main/Internships/Bharat%20Intern)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;┈┈┈▶ [CodeClause](https://github.com/akxyverse/career-hub/tree/main/Internships/CodeClause)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;┈┈┈▶ [V-Ramp Automation](https://github.com/akxyverse/career-hub/tree/main/Internships/V-Ramp%20Automation)<br>
+┈┈┈▶ [Job Preparation](https://github.com/akxyverse/career-hub/tree/main/Job%20Preparation)<br>
+┈┈┈▶ [Networking](https://github.com/akxyverse/career-hub/tree/main/Networking)<br>
+┈┈┈▶ [Salary Research](https://github.com/akxyverse/career-hub/tree/main/Salary%20Research)<br>
 
 </details>
 
