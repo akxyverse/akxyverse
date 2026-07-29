@@ -159,8 +159,6 @@ Not tutorials that get abandoned halfway — end-to-end work that actually ships
 
 </div>
 
-<sub>Every icon is real official brand artwork, embedded inline and verified before shipping — sourced from simple-icons, Devicon, each project's own repo (Seaborn, Flowise), or Wikimedia Commons (Power BI, Excel, OpenAI), all confirmed as legitimately reusable, not fan-made recreations. Two exceptions: Tableau's only available logo file is marked non-free/fair-use-only by its source, so it stays text-only rather than use it improperly; RAG is a technique, not a product, so no official logo exists for it at all.</sub>
-
 ## 🚀 Featured Project Universe
 
 Real, working analytics products, not a static list — new ones ship regularly, so this points straight to the live source instead of going stale.
