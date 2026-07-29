@@ -50,48 +50,53 @@ Building a connected ecosystem of real, working data projects — not just a lis
 
 ### 👋 Meet the Creator
 
-→ **Name:** Akash Yadav
+→ **Hi, I'm Akash Yadav.**
 
-→ **Based in:** India 🇮🇳
+I turn messy, real-world data into insights people can actually act on — through dashboards, automation, and AI-assisted workflows. Most of what I build lives here, in the open, as I learn.
+
+→ **Based In:** India 🇮🇳
 
 → **Role:** Aspiring Data Analyst
 
-→ **Focus:** Data Analytics • Business Intelligence • Python • SQL • AI Automation
+→ **Focus:** Data Analytics, Business Intelligence, Python, SQL & AI Automation
 
-→ **Currently Building:** Akxyverse — a connected learning ecosystem
+→ **Currently Building:** Akxyverse
 
-→ **Goal:** Turn raw data into meaningful insights and build projects that solve real problems.
+→ **Goal:** Build practical analytics solutions that help people make better decisions.
 
 <br clear="right">
 
-### 🚀 What You'll Find Here
+### 🚀 Explore My Work
 
-✓ End-to-End Projects
-✓ Interactive Dashboards
-✓ Guidebooks
-✓ AI Workflows
-✓ Datasets
-✓ Learning Resources
-✓ Career Resources
+→ **Projects**
+Hands-on analytics solutions solving real business problems.
+
+→ **Dashboards**
+Interactive Power BI and Tableau reports.
+
+→ **Guidebooks**
+Curated roadmaps, notes and learning resources.
+
+→ **AI Workflows**
+Automation using modern AI tools.
+
+→ **Datasets**
+Real and practice datasets used throughout projects.
+
+→ **Career Resources**
+Resume, interview preparation and job search materials.
 
 ### 🎯 Mission
 
-✔ Build real projects
-✔ Learn in public
-✔ Document everything
-✔ Help others learn faster
+> **Build projects that solve real problems.**
+
+Not tutorials that get abandoned halfway — end-to-end work that actually ships, gets documented honestly, and hopefully helps someone else learn a little faster too.
 
 ### 🧠 Currently Learning
 
-**Machine Learning** • **Advanced SQL** • **DAX**
-
-### 💡 Philosophy
-
-→ Learn continuously
-→ Build consistently
-→ Share openly
-→ Improve every project
-→ Quality over quantity
+<img src="https://img.shields.io/badge/Machine%20Learning-242938?style=for-the-badge&logoColor=8b5cf6" alt="Machine Learning"/>
+<img src="https://img.shields.io/badge/Advanced%20SQL-242938?style=for-the-badge&logoColor=38bdf8" alt="Advanced SQL"/>
+<img src="https://img.shields.io/badge/DAX-242938?style=for-the-badge&logoColor=22d3ee" alt="DAX"/>
 
 ---
 
