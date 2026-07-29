@@ -283,87 +283,87 @@ Akxyverse isn't one repository — it's several, each with a single job, designe
 <pre>
 <a href="https://github.com/akxyverse/data-analytics-knowledge-system">data-analytics-knowledge-system</a>
 │
-├-------------▶ <b>Fundamentals of Data Analytics</b>
-│               │
-│               ├-------------▶ Mathematics
-│               │               │
-│               │               ├- - - - -▶ Calculus
-│               │               │
-│               │               ├- - - - -▶ Discrete Mathematics
-│               │               │
-│               │               └- - - - -▶ Linear Algebra
-│               │
-│               ├-------------▶ Probability
-│               │
-│               └-------------▶ Statistics
-│                               │
-│                               ├- - - - -▶ Descriptive Statistics
-│                               │
-│                               └- - - - -▶ Inferential Statistics
+├-------------▶  <b>Fundamentals of Data Analytics</b>
+│                │
+│                ├-------------▶  Mathematics
+│                │                │
+│                │                ├- - - - -▶  Calculus
+│                │                │
+│                │                ├- - - - -▶  Discrete Mathematics
+│                │                │
+│                │                └- - - - -▶  Linear Algebra
+│                │
+│                ├-------------▶  Probability
+│                │
+│                └-------------▶  Statistics
+│                                 │
+│                                 ├- - - - -▶  Descriptive Statistics
+│                                 │
+│                                 └- - - - -▶  Inferential Statistics
 │
-└-------------▶ <b>Data Analytics Technologies</b>
-                │
-                ├-------------▶ APIs
-                │               │
-                │               ├- - - - -▶ Authentication
-                │               │
-                │               ├- - - - -▶ GraphQL
-                │               │
-                │               ├- - - - -▶ REST APIs
-                │               │
-                │               └- - - - -▶ Webhooks
-                │
-                ├-------------▶ Analytics Concepts
-                │               │
-                │               ├- - - - -▶ Business Analytics
-                │               │
-                │               ├- - - - -▶ Data Analytics Concepts
-                │               │
-                │               └- - - - -▶ Data Storytelling
-                │
-                ├-------------▶ Data Visualization
-                │               │
-                │               ├- - - - -▶ Excel Dashboards
-                │               │
-                │               ├- - - - -▶ Looker Studio
-                │               │
-                │               ├- - - - -▶ Power BI
-                │               │
-                │               └- - - - -▶ Tableau
-                │
-                ├-------------▶ Databases
-                │               │
-                │               ├- - - - -▶ MongoDB
-                │               │
-                │               ├- - - - -▶ MySQL
-                │               │
-                │               ├- - - - -▶ PostgreSQL
-                │               │
-                │               ├- - - - -▶ Redis
-                │               │
-                │               ├- - - - -▶ SQL
-                │               │
-                │               ├- - - - -▶ SQL Server
-                │               │
-                │               └- - - - -▶ SQLite
-                │
-                ├-------------▶ Other Tools
-                │
-                ├-------------▶ Programming
-                │               │
-                │               ├- - - - -▶ Python
-                │               │
-                │               └- - - - -▶ Web Development
-                │
-                ├-------------▶ Spreadsheets
-                │               │
-                │               └- - - - -▶ Excel
-                │
-                └-------------▶ Version Control
-                                │
-                                ├- - - - -▶ Git
-                                │
-                                └- - - - -▶ GitHub
+└-------------▶  <b>Data Analytics Technologies</b>
+                 │
+                 ├-------------▶  APIs
+                 │                │
+                 │                ├- - - - -▶  Authentication
+                 │                │
+                 │                ├- - - - -▶  GraphQL
+                 │                │
+                 │                ├- - - - -▶  REST APIs
+                 │                │
+                 │                └- - - - -▶  Webhooks
+                 │
+                 ├-------------▶  Analytics Concepts
+                 │                │
+                 │                ├- - - - -▶  Business Analytics
+                 │                │
+                 │                ├- - - - -▶  Data Analytics Concepts
+                 │                │
+                 │                └- - - - -▶  Data Storytelling
+                 │
+                 ├-------------▶  Data Visualization
+                 │                │
+                 │                ├- - - - -▶  Excel Dashboards
+                 │                │
+                 │                ├- - - - -▶  Looker Studio
+                 │                │
+                 │                ├- - - - -▶  Power BI
+                 │                │
+                 │                └- - - - -▶  Tableau
+                 │
+                 ├-------------▶  Databases
+                 │                │
+                 │                ├- - - - -▶  MongoDB
+                 │                │
+                 │                ├- - - - -▶  MySQL
+                 │                │
+                 │                ├- - - - -▶  PostgreSQL
+                 │                │
+                 │                ├- - - - -▶  Redis
+                 │                │
+                 │                ├- - - - -▶  SQL
+                 │                │
+                 │                ├- - - - -▶  SQL Server
+                 │                │
+                 │                └- - - - -▶  SQLite
+                 │
+                 ├-------------▶  Other Tools
+                 │
+                 ├-------------▶  Programming
+                 │                │
+                 │                ├- - - - -▶  Python
+                 │                │
+                 │                └- - - - -▶  Web Development
+                 │
+                 ├-------------▶  Spreadsheets
+                 │                │
+                 │                └- - - - -▶  Excel
+                 │
+                 └-------------▶  Version Control
+                                  │
+                                  ├- - - - -▶  Git
+                                  │
+                                  └- - - - -▶  GitHub
 </pre>
 
 </details>
@@ -374,37 +374,37 @@ Akxyverse isn't one repository — it's several, each with a single job, designe
 <pre>
 <a href="https://github.com/akxyverse/data-analytics-resources">data-analytics-resources</a>
 │
-├-------------▶ <b>Guidebooks</b>
-│               │
-│               └-------------▶ Excel Roadmap Guide
+├-------------▶  <b>Guidebooks</b>
+│                │
+│                └-------------▶  Excel Roadmap Guide
 │
-├-------------▶ <b>Courses</b>
+├-------------▶  <b>Courses</b>
 │
-├-------------▶ <b>Cheat Sheets</b>
+├-------------▶  <b>Cheat Sheets</b>
 │
-├-------------▶ <b>Books</b>
+├-------------▶  <b>Books</b>
 │
-├-------------▶ <b>Blogs</b>
+├-------------▶  <b>Blogs</b>
 │
-├-------------▶ <b>External Study Resources</b>
+├-------------▶  <b>External Study Resources</b>
 │
-├-------------▶ <b>Newsletters</b>
+├-------------▶  <b>Newsletters</b>
 │
-├-------------▶ <b>Official Documentation</b>
+├-------------▶  <b>Official Documentation</b>
 │
-├-------------▶ <b>PDFs</b>
+├-------------▶  <b>PDFs</b>
 │
-├-------------▶ <b>References</b>
+├-------------▶  <b>References</b>
 │
-├-------------▶ <b>Research Papers</b>
+├-------------▶  <b>Research Papers</b>
 │
-├-------------▶ <b>Templates</b>
+├-------------▶  <b>Templates</b>
 │
-├-------------▶ <b>Videos</b>
+├-------------▶  <b>Videos</b>
 │
-├-------------▶ <b>Websites</b>
+├-------------▶  <b>Websites</b>
 │
-└-------------▶ <b>White Papers</b>
+└-------------▶  <b>White Papers</b>
 </pre>
 
 </details>
@@ -415,81 +415,81 @@ Akxyverse isn't one repository — it's several, each with a single job, designe
 <pre>
 <a href="https://github.com/akxyverse/data-analytics-projects">data-analytics-projects</a>
 │
-├-------------▶ <b>End-to-End Projects</b>
-│               │
-│               └-------------▶ ThunderCast
-│                               │
-│                               ├- - - - -▶ dashboard
-│                               │
-│                               ├- - - - -▶ data
-│                               │
-│                               └- - - - -▶ src
+├-------------▶  <b>End-to-End Projects</b>
+│                │
+│                └-------------▶  ThunderCast
+│                                 │
+│                                 ├- - - - -▶  dashboard
+│                                 │
+│                                 ├- - - - -▶  data
+│                                 │
+│                                 └- - - - -▶  src
 │
-├-------------▶ <b>Domain-wise Projects</b>
-│               │
-│               ├-------------▶ Banking
-│               │
-│               ├-------------▶ Ecommerce
-│               │
-│               ├-------------▶ Education
-│               │
-│               ├-------------▶ Finance
-│               │
-│               ├-------------▶ HR
-│               │
-│               ├-------------▶ Healthcare
-│               │
-│               ├-------------▶ Insurance
-│               │
-│               ├-------------▶ Logistics
-│               │               │
-│               │               └- - - - -▶ Supply Chain Analytics Dashboard
-│               │
-│               ├-------------▶ Manufacturing
-│               │
-│               ├-------------▶ Marketing
-│               │
-│               ├-------------▶ Others
-│               │               │
-│               │               └- - - - -▶ Esports Gaming Revenue Analytics
-│               │
-│               ├-------------▶ Real Estate
-│               │
-│               ├-------------▶ Retail
-│               │
-│               └-------------▶ Sales
+├-------------▶  <b>Domain-wise Projects</b>
+│                │
+│                ├-------------▶  Banking
+│                │
+│                ├-------------▶  Ecommerce
+│                │
+│                ├-------------▶  Education
+│                │
+│                ├-------------▶  Finance
+│                │
+│                ├-------------▶  HR
+│                │
+│                ├-------------▶  Healthcare
+│                │
+│                ├-------------▶  Insurance
+│                │
+│                ├-------------▶  Logistics
+│                │                │
+│                │                └- - - - -▶  Supply Chain Analytics Dashboard
+│                │
+│                ├-------------▶  Manufacturing
+│                │
+│                ├-------------▶  Marketing
+│                │
+│                ├-------------▶  Others
+│                │                │
+│                │                └- - - - -▶  Esports Gaming Revenue Analytics
+│                │
+│                ├-------------▶  Real Estate
+│                │
+│                ├-------------▶  Retail
+│                │
+│                └-------------▶  Sales
 │
-├-------------▶ <b>Tool-wise Projects</b>
-│               │
-│               ├-------------▶ Agentic AI
-│               │
-│               ├-------------▶ Cloud
-│               │
-│               ├-------------▶ Data Engineering
-│               │
-│               ├-------------▶ Deep Learning
-│               │
-│               ├-------------▶ Excel
-│               │
-│               ├-------------▶ Generative AI
-│               │
-│               ├-------------▶ Machine Learning
-│               │
-│               ├-------------▶ Power BI
-│               │
-│               ├-------------▶ Python
-│               │
-│               ├-------------▶ SQL
-│               │
-│               └-------------▶ Tableau
+├-------------▶  <b>Tool-wise Projects</b>
+│                │
+│                ├-------------▶  Agentic AI
+│                │
+│                ├-------------▶  Cloud
+│                │
+│                ├-------------▶  Data Engineering
+│                │
+│                ├-------------▶  Deep Learning
+│                │
+│                ├-------------▶  Excel
+│                │
+│                ├-------------▶  Generative AI
+│                │
+│                ├-------------▶  Machine Learning
+│                │
+│                ├-------------▶  Power BI
+│                │
+│                ├-------------▶  Python
+│                │
+│                ├-------------▶  SQL
+│                │
+│                └-------------▶  Tableau
 │
-├-------------▶ <b>AI Projects</b>
+├-------------▶  <b>AI Projects</b>
 │
-├-------------▶ <b>Showcase Projects</b>
+├-------------▶  <b>Showcase Projects</b>
 │
-├-------------▶ <b>Business Problems</b>
+├-------------▶  <b>Business Problems</b>
 │
-└-------------▶ <b>Project Templates</b>
+└-------------▶  <b>Project Templates</b>
 </pre>
 
 </details>
@@ -500,23 +500,23 @@ Akxyverse isn't one repository — it's several, each with a single job, designe
 <pre>
 <a href="https://github.com/akxyverse/datasets">datasets</a>
 │
-├-------------▶ <b>Kaggle</b>
+├-------------▶  <b>Kaggle</b>
 │
-├-------------▶ <b>Government</b>
+├-------------▶  <b>Government</b>
 │
-├-------------▶ <b>Company</b>
+├-------------▶  <b>Company</b>
 │
-├-------------▶ <b>Public</b>
+├-------------▶  <b>Public</b>
 │
-├-------------▶ <b>Archive</b>
+├-------------▶  <b>Archive</b>
 │
-├-------------▶ <b>Competition</b>
+├-------------▶  <b>Competition</b>
 │
-├-------------▶ <b>Personal</b>
+├-------------▶  <b>Personal</b>
 │
-├-------------▶ <b>Practice</b>
+├-------------▶  <b>Practice</b>
 │
-└-------------▶ <b>Synthetic</b>
+└-------------▶  <b>Synthetic</b>
 </pre>
 
 </details>
@@ -527,37 +527,37 @@ Akxyverse isn't one repository — it's several, each with a single job, designe
 <pre>
 <a href="https://github.com/akxyverse/ai-automation">ai-automation</a>
 │
-├-------------▶ <b>LangChain</b>
+├-------------▶  <b>LangChain</b>
 │
-├-------------▶ <b>Agentic AI</b>
+├-------------▶  <b>Agentic AI</b>
 │
-├-------------▶ <b>RAG</b>
+├-------------▶  <b>RAG</b>
 │
-├-------------▶ <b>n8n</b>
+├-------------▶  <b>n8n</b>
 │
-├-------------▶ <b>AI APIs</b>
+├-------------▶  <b>AI APIs</b>
 │
-├-------------▶ <b>AI Tools</b>
+├-------------▶  <b>AI Tools</b>
 │
-├-------------▶ <b>AI Workflows</b>
+├-------------▶  <b>AI Workflows</b>
 │
-├-------------▶ <b>FastAPI</b>
+├-------------▶  <b>FastAPI</b>
 │
-├-------------▶ <b>Flask</b>
+├-------------▶  <b>Flask</b>
 │
-├-------------▶ <b>Flowise</b>
+├-------------▶  <b>Flowise</b>
 │
-├-------------▶ <b>Generative AI</b>
+├-------------▶  <b>Generative AI</b>
 │
-├-------------▶ <b>Hugging Face</b>
+├-------------▶  <b>Hugging Face</b>
 │
-├-------------▶ <b>LangGraph</b>
+├-------------▶  <b>LangGraph</b>
 │
-├-------------▶ <b>MCP</b>
+├-------------▶  <b>MCP</b>
 │
-├-------------▶ <b>Prompt Engineering</b>
+├-------------▶  <b>Prompt Engineering</b>
 │
-└-------------▶ <b>Vector Databases</b>
+└-------------▶  <b>Vector Databases</b>
 </pre>
 
 </details>
@@ -568,25 +568,25 @@ Akxyverse isn't one repository — it's several, each with a single job, designe
 <pre>
 <a href="https://github.com/akxyverse/content-studio">content-studio</a>
 │
-├-------------▶ <b>Articles</b>
+├-------------▶  <b>Articles</b>
 │
-├-------------▶ <b>Blogs</b>
+├-------------▶  <b>Blogs</b>
 │
-├-------------▶ <b>LinkedIn Posts</b>
+├-------------▶  <b>LinkedIn Posts</b>
 │
-├-------------▶ <b>Tutorials</b>
+├-------------▶  <b>Tutorials</b>
 │
-├-------------▶ <b>Banners</b>
+├-------------▶  <b>Banners</b>
 │
-├-------------▶ <b>Content Ideas</b>
+├-------------▶  <b>Content Ideas</b>
 │
-├-------------▶ <b>Content Templates</b>
+├-------------▶  <b>Content Templates</b>
 │
-├-------------▶ <b>GitHub Content</b>
+├-------------▶  <b>GitHub Content</b>
 │
-├-------------▶ <b>Images</b>
+├-------------▶  <b>Images</b>
 │
-└-------------▶ <b>Thumbnails</b>
+└-------------▶  <b>Thumbnails</b>
 </pre>
 
 </details>
@@ -597,13 +597,13 @@ Akxyverse isn't one repository — it's several, each with a single job, designe
 <pre>
 <a href="https://github.com/akxyverse/certifications">certifications</a>
 │
-├-------------▶ <b>Certificates</b>
+├-------------▶  <b>Certificates</b>
 │
-├-------------▶ <b>Completed</b>
+├-------------▶  <b>Completed</b>
 │
-├-------------▶ <b>In Progress</b>
+├-------------▶  <b>In Progress</b>
 │
-└-------------▶ <b>Practice Exams</b>
+└-------------▶  <b>Practice Exams</b>
 </pre>
 
 </details>
@@ -614,41 +614,41 @@ Akxyverse isn't one repository — it's several, each with a single job, designe
 <pre>
 <a href="https://github.com/akxyverse/career-hub">career-hub</a>
 │
-├-------------▶ <b>Resume</b>
+├-------------▶  <b>Resume</b>
 │
-├-------------▶ <b>Interview Preparation</b>
-│               │
-│               ├-------------▶ Coding Interviews
-│               │
-│               ├-------------▶ HR Interviews
-│               │
-│               └-------------▶ Technical Interviews
+├-------------▶  <b>Interview Preparation</b>
+│                │
+│                ├-------------▶  Coding Interviews
+│                │
+│                ├-------------▶  HR Interviews
+│                │
+│                └-------------▶  Technical Interviews
 │
-├-------------▶ <b>Job Applications</b>
+├-------------▶  <b>Job Applications</b>
 │
-├-------------▶ <b>LinkedIn</b>
+├-------------▶  <b>LinkedIn</b>
 │
-├-------------▶ <b>Career Planning</b>
+├-------------▶  <b>Career Planning</b>
 │
-├-------------▶ <b>Company Research</b>
+├-------------▶  <b>Company Research</b>
 │
-├-------------▶ <b>Freelancing</b>
+├-------------▶  <b>Freelancing</b>
 │
-├-------------▶ <b>GitHub Profile</b>
+├-------------▶  <b>GitHub Profile</b>
 │
-├-------------▶ <b>Internships</b>
-│               │
-│               ├-------------▶ Bharat Intern
-│               │
-│               ├-------------▶ CodeClause
-│               │
-│               └-------------▶ V-Ramp Automation
+├-------------▶  <b>Internships</b>
+│                │
+│                ├-------------▶  Bharat Intern
+│                │
+│                ├-------------▶  CodeClause
+│                │
+│                └-------------▶  V-Ramp Automation
 │
-├-------------▶ <b>Job Preparation</b>
+├-------------▶  <b>Job Preparation</b>
 │
-├-------------▶ <b>Networking</b>
+├-------------▶  <b>Networking</b>
 │
-└-------------▶ <b>Salary Research</b>
+└-------------▶  <b>Salary Research</b>
 </pre>
 
 </details>
