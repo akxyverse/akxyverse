@@ -655,15 +655,11 @@ Everything I build, learn, and share is organized into dedicated repositories. E
 
 </details>
 
-## 📈 Live Activity
+## 📊 GitHub Analytics
 
-Live insight into the Akxyverse ecosystem — development activity, languages, and contribution patterns, pulled straight from GitHub.
+➜ **Welcome to My GitHub Analytics Dashboard** — Explore real-time insights into my repositories, development activity, programming languages, and contribution history, powered directly by GitHub.
 
 <div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif" width="260" alt="">
-
-<br><br>
 
 ### 📊 Account Overview
 <br>
@@ -676,26 +672,26 @@ Live insight into the Akxyverse ecosystem — development activity, languages, a
 
 <br><br>
 
-### 💻 Languages by Repo & by Commit
+### 💻 GitHub Stats & Top Languages
 <br>
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=akxyverse&theme=tokyonight" alt="Languages by Repo">
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=akxyverse&theme=tokyonight" alt="Languages by Commit">
 
 <br><br>
 
-### ⏰ Productive Hours (IST)
+### ⏰ Activity Patterns
 <br>
 <img width="60%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=akxyverse&theme=tokyonight&utcOffset=5.5" alt="Productive Time (IST, UTC+5:30)">
 
 <br><br>
 
-### 🌱 Contribution Graph (Past Year)
+### 🌱 Contribution Activity
 <br>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=akxyverse&theme=tokyo-night&hide_border=false&area=true" width="100%" alt="akxyverse's GitHub contribution activity graph over the past year"/>
 
 <br><br>
 
-### 🐍 Contribution Snake
+### 🐍 Contribution Journey
 <br>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/akxyverse/akxyverse/output/github-contribution-grid-snake-dark.gif">
