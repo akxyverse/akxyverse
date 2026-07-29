@@ -26,7 +26,7 @@
   <img src="https://img.shields.io/github/followers/akxyverse?label=Followers&style=for-the-badge&color=22d3ee" alt="followers"/>
 </a>
 &nbsp;•&nbsp;
-<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fakxyverse&label=Repositories&query=public_repos&style=for-the-badge&color=8b5cf6" alt="public repositories"/>
+<img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fakxyverse%2Fakxyverse%2Fmain%2F.github%2Fbadges%2Frepo-count.json&style=for-the-badge" alt="public repositories"/>
 
 <br><br><br>
 

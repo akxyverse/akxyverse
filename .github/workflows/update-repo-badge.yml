@@ -1,0 +1,39 @@
+name: Update Repo Count Badge
+
+on:
+  # run automatically every 24 hours
+  schedule:
+    - cron: "0 0 * * *"
+
+  # allow manually triggering the workflow
+  workflow_dispatch:
+
+jobs:
+  update-badge:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Fetch live public repo count
+        run: |
+          COUNT=$(curl -s -H "Authorization: Bearer ${{ secrets.GITHUB_TOKEN }}" \
+            https://api.github.com/users/akxyverse | jq -r '.public_repos')
+          mkdir -p .github/badges
+          cat > .github/badges/repo-count.json <<JSON
+          {
+            "schemaVersion": 1,
+            "label": "Repositories",
+            "message": "$COUNT",
+            "color": "8b5cf6"
+          }
+          JSON
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add .github/badges/repo-count.json
+          git diff --cached --quiet || git commit -m "chore: update repo count badge"
+          git push
