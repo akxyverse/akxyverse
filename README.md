@@ -273,9 +273,11 @@ Real, working analytics products, not a static list — new ones ship regularly,
 
 </div>
 
-## 🌌 Ecosystem Map
+## 🧭 Repository Explorer
 
-Akxyverse isn't one repository — it's several, each with a single job, designed to work together rather than duplicate each other. Click a repository below to expand into its real folders.
+➜ **Welcome to the Akxyverse Ecosystem.**
+
+Everything I build, learn, and share is organized into dedicated repositories. Expand any repository below to explore its complete folder hierarchy and discover what's inside.
 
 <details>
 <summary><b>🧠 Knowledge Hub</b> — <a href="https://github.com/akxyverse/data-analytics-knowledge-system">data-analytics-knowledge-system</a></summary>
