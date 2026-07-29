@@ -51,10 +51,15 @@ Building a connected ecosystem of real, working data projects — not just a lis
 ### 👋 Meet the Creator
 
 → **Name:** Akash Yadav
+
 → **Based in:** India 🇮🇳
+
 → **Role:** Aspiring Data Analyst
+
 → **Focus:** Data Analytics • Business Intelligence • Python • SQL • AI Automation
+
 → **Currently Building:** Akxyverse — a connected learning ecosystem
+
 → **Goal:** Turn raw data into meaningful insights and build projects that solve real problems.
 
 <br clear="right">
