@@ -281,26 +281,89 @@ Akxyverse isn't one repository — it's several, each with a single job, designe
 <summary><b>🧠 Knowledge Hub</b> — <a href="https://github.com/akxyverse/data-analytics-knowledge-system">data-analytics-knowledge-system</a></summary>
 
 <pre>
-<b>🧠 Knowledge Hub</b>
-        |
-        +-------------> <a href="https://github.com/akxyverse/data-analytics-knowledge-system">data-analytics-knowledge-system</a>
-                        |
-                        +-------------> <a href="https://github.com/akxyverse/data-analytics-knowledge-system/tree/main/Fundamentals%20of%20Data%20Analytics">Fundamentals of Data Analytics</a>
-                                        |
-                                        + - - - - -> <a href="https://github.com/akxyverse/data-analytics-knowledge-system/tree/main/Fundamentals%20of%20Data%20Analytics/Mathematics">Mathematics</a>
-                                        + - - - - -> <a href="https://github.com/akxyverse/data-analytics-knowledge-system/tree/main/Fundamentals%20of%20Data%20Analytics/Probability">Probability</a>
-                                        + - - - - -> <a href="https://github.com/akxyverse/data-analytics-knowledge-system/tree/main/Fundamentals%20of%20Data%20Analytics/Statistics">Statistics</a>
-                        |
-                        +-------------> <a href="https://github.com/akxyverse/data-analytics-knowledge-system/tree/main/Data%20Analytics%20Technologies">Data Analytics Technologies</a>
-                                        |
-                                        + - - - - -> <a href="https://github.com/akxyverse/data-analytics-knowledge-system/tree/main/Data%20Analytics%20Technologies/APIs">APIs</a>
-                                        + - - - - -> <a href="https://github.com/akxyverse/data-analytics-knowledge-system/tree/main/Data%20Analytics%20Technologies/Analytics%20Concepts">Analytics Concepts</a>
-                                        + - - - - -> <a href="https://github.com/akxyverse/data-analytics-knowledge-system/tree/main/Data%20Analytics%20Technologies/Data%20Visualization">Data Visualization</a>
-                                        + - - - - -> <a href="https://github.com/akxyverse/data-analytics-knowledge-system/tree/main/Data%20Analytics%20Technologies/Databases">Databases</a>
-                                        + - - - - -> <a href="https://github.com/akxyverse/data-analytics-knowledge-system/tree/main/Data%20Analytics%20Technologies/Other%20Tools">Other Tools</a>
-                                        + - - - - -> <a href="https://github.com/akxyverse/data-analytics-knowledge-system/tree/main/Data%20Analytics%20Technologies/Programming">Programming</a>
-                                        + - - - - -> <a href="https://github.com/akxyverse/data-analytics-knowledge-system/tree/main/Data%20Analytics%20Technologies/Spreadsheets">Spreadsheets</a>
-                                        + - - - - -> <a href="https://github.com/akxyverse/data-analytics-knowledge-system/tree/main/Data%20Analytics%20Technologies/Version%20Control">Version Control</a>
+<a href="https://github.com/akxyverse/data-analytics-knowledge-system">data-analytics-knowledge-system</a>
+|
++-------------> Fundamentals of Data Analytics
+                |
+                +-------------> Mathematics
+                                |
+                                + - - - - -> Calculus
+                                |
+                                + - - - - -> Discrete Mathematics
+                                |
+                                + - - - - -> Linear Algebra
+                |
+                +-------------> Probability
+                |
+                +-------------> Statistics
+                                |
+                                + - - - - -> Descriptive Statistics
+                                |
+                                + - - - - -> Inferential Statistics
+|
++-------------> Data Analytics Technologies
+                |
+                +-------------> APIs
+                                |
+                                + - - - - -> Authentication
+                                |
+                                + - - - - -> GraphQL
+                                |
+                                + - - - - -> REST APIs
+                                |
+                                + - - - - -> Webhooks
+                |
+                +-------------> Analytics Concepts
+                                |
+                                + - - - - -> Business Analytics
+                                |
+                                + - - - - -> Data Analytics Concepts
+                                |
+                                + - - - - -> Data Storytelling
+                |
+                +-------------> Data Visualization
+                                |
+                                + - - - - -> Excel Dashboards
+                                |
+                                + - - - - -> Looker Studio
+                                |
+                                + - - - - -> Power BI
+                                |
+                                + - - - - -> Tableau
+                |
+                +-------------> Databases
+                                |
+                                + - - - - -> MongoDB
+                                |
+                                + - - - - -> MySQL
+                                |
+                                + - - - - -> PostgreSQL
+                                |
+                                + - - - - -> Redis
+                                |
+                                + - - - - -> SQL
+                                |
+                                + - - - - -> SQL Server
+                                |
+                                + - - - - -> SQLite
+                |
+                +-------------> Other Tools
+                |
+                +-------------> Programming
+                                |
+                                + - - - - -> Python
+                                |
+                                + - - - - -> Web Development
+                |
+                +-------------> Spreadsheets
+                                |
+                                + - - - - -> Excel
+                |
+                +-------------> Version Control
+                                |
+                                + - - - - -> Git
+                                |
+                                + - - - - -> GitHub
 </pre>
 
 </details>
@@ -309,41 +372,39 @@ Akxyverse isn't one repository — it's several, each with a single job, designe
 <summary><b>📚 Learning Resources</b> — <a href="https://github.com/akxyverse/data-analytics-resources">data-analytics-resources</a></summary>
 
 <pre>
-<b>📚 Learning Resources</b>
-        |
-        +-------------> <a href="https://github.com/akxyverse/data-analytics-resources">data-analytics-resources</a>
-                        |
-                        +-------------> <a href="https://github.com/akxyverse/data-analytics-resources/tree/main/Guidebooks">Guidebooks</a>
-                                        |
-                                        + - - - - -> <a href="https://github.com/akxyverse/data-analytics-resources/tree/main/Guidebooks/Excel%20Roadmap%20Guide">Excel Roadmap Guide</a>
-                        |
-                        +-------------> <a href="https://github.com/akxyverse/data-analytics-resources/tree/main/Courses">Courses</a>
-                        |
-                        +-------------> <a href="https://github.com/akxyverse/data-analytics-resources/tree/main/Cheat%20Sheets">Cheat Sheets</a>
-                        |
-                        +-------------> <a href="https://github.com/akxyverse/data-analytics-resources/tree/main/Books">Books</a>
-                        |
-                        +-------------> <a href="https://github.com/akxyverse/data-analytics-resources/tree/main/Blogs">Blogs</a>
-                        |
-                        +-------------> <a href="https://github.com/akxyverse/data-analytics-resources/tree/main/External%20Study%20Resources">External Study Resources</a>
-                        |
-                        +-------------> <a href="https://github.com/akxyverse/data-analytics-resources/tree/main/Newsletters">Newsletters</a>
-                        |
-                        +-------------> <a href="https://github.com/akxyverse/data-analytics-resources/tree/main/Official%20Documentation">Official Documentation</a>
-                        |
-                        +-------------> <a href="https://github.com/akxyverse/data-analytics-resources/tree/main/PDFs">PDFs</a>
-                        |
-                        +-------------> <a href="https://github.com/akxyverse/data-analytics-resources/tree/main/References">References</a>
-                        |
-                        +-------------> <a href="https://github.com/akxyverse/data-analytics-resources/tree/main/Research%20Papers">Research Papers</a>
-                        |
-                        +-------------> <a href="https://github.com/akxyverse/data-analytics-resources/tree/main/Templates">Templates</a>
-                        |
-                        +-------------> <a href="https://github.com/akxyverse/data-analytics-resources/tree/main/Videos">Videos</a>
-                        |
-                        +-------------> <a href="https://github.com/akxyverse/data-analytics-resources/tree/main/Websites">Websites</a>
-                        |
-                        +-------------> <a href="https://github.com/akxyverse/data-analytics-resources/tree/main/White%20Papers">White Papers</a>
+<a href="https://github.com/akxyverse/data-analytics-resources">data-analytics-resources</a>
+|
++-------------> Guidebooks
+                |
+                +-------------> Excel Roadmap Guide
+|
++-------------> Courses
+|
++-------------> Cheat Sheets
+|
++-------------> Books
+|
++-------------> Blogs
+|
++-------------> External Study Resources
+|
++-------------> Newsletters
+|
++-------------> Official Documentation
+|
++-------------> PDFs
+|
++-------------> References
+|
++-------------> Research Papers
+|
++-------------> Templates
+|
++-------------> Videos
+|
++-------------> Websites
+|
++-------------> White Papers
 </pre>
 
 </details>
@@ -352,52 +413,83 @@ Akxyverse isn't one repository — it's several, each with a single job, designe
 <summary><b>🚀 Projects</b> — <a href="https://github.com/akxyverse/data-analytics-projects">data-analytics-projects</a></summary>
 
 <pre>
-<b>🚀 Projects</b>
-        |
-        +-------------> <a href="https://github.com/akxyverse/data-analytics-projects">data-analytics-projects</a>
-                        |
-                        +-------------> <a href="https://github.com/akxyverse/data-analytics-projects/tree/main/End-to-End%20Projects">End-to-End Projects</a>
-                                        |
-                                        + - - - - -> <a href="https://github.com/akxyverse/data-analytics-projects/tree/main/End-to-End%20Projects/ThunderCast">ThunderCast</a>
-                        |
-                        +-------------> <a href="https://github.com/akxyverse/data-analytics-projects/tree/main/Domain-wise%20Projects">Domain-wise Projects</a>
-                                        |
-                                        + - - - - -> <a href="https://github.com/akxyverse/data-analytics-projects/tree/main/Domain-wise%20Projects/Banking">Banking</a>
-                                        + - - - - -> <a href="https://github.com/akxyverse/data-analytics-projects/tree/main/Domain-wise%20Projects/Ecommerce">Ecommerce</a>
-                                        + - - - - -> <a href="https://github.com/akxyverse/data-analytics-projects/tree/main/Domain-wise%20Projects/Education">Education</a>
-                                        + - - - - -> <a href="https://github.com/akxyverse/data-analytics-projects/tree/main/Domain-wise%20Projects/Finance">Finance</a>
-                                        + - - - - -> <a href="https://github.com/akxyverse/data-analytics-projects/tree/main/Domain-wise%20Projects/HR">HR</a>
-                                        + - - - - -> <a href="https://github.com/akxyverse/data-analytics-projects/tree/main/Domain-wise%20Projects/Healthcare">Healthcare</a>
-                                        + - - - - -> <a href="https://github.com/akxyverse/data-analytics-projects/tree/main/Domain-wise%20Projects/Insurance">Insurance</a>
-                                        + - - - - -> <a href="https://github.com/akxyverse/data-analytics-projects/tree/main/Domain-wise%20Projects/Logistics">Logistics</a>
-                                        + - - - - -> <a href="https://github.com/akxyverse/data-analytics-projects/tree/main/Domain-wise%20Projects/Manufacturing">Manufacturing</a>
-                                        + - - - - -> <a href="https://github.com/akxyverse/data-analytics-projects/tree/main/Domain-wise%20Projects/Marketing">Marketing</a>
-                                        + - - - - -> <a href="https://github.com/akxyverse/data-analytics-projects/tree/main/Domain-wise%20Projects/Others">Others</a>
-                                        + - - - - -> <a href="https://github.com/akxyverse/data-analytics-projects/tree/main/Domain-wise%20Projects/Real%20Estate">Real Estate</a>
-                                        + - - - - -> <a href="https://github.com/akxyverse/data-analytics-projects/tree/main/Domain-wise%20Projects/Retail">Retail</a>
-                                        + - - - - -> <a href="https://github.com/akxyverse/data-analytics-projects/tree/main/Domain-wise%20Projects/Sales">Sales</a>
-                        |
-                        +-------------> <a href="https://github.com/akxyverse/data-analytics-projects/tree/main/Tool-wise%20Projects">Tool-wise Projects</a>
-                                        |
-                                        + - - - - -> <a href="https://github.com/akxyverse/data-analytics-projects/tree/main/Tool-wise%20Projects/Agentic%20AI">Agentic AI</a>
-                                        + - - - - -> <a href="https://github.com/akxyverse/data-analytics-projects/tree/main/Tool-wise%20Projects/Cloud">Cloud</a>
-                                        + - - - - -> <a href="https://github.com/akxyverse/data-analytics-projects/tree/main/Tool-wise%20Projects/Data%20Engineering">Data Engineering</a>
-                                        + - - - - -> <a href="https://github.com/akxyverse/data-analytics-projects/tree/main/Tool-wise%20Projects/Deep%20Learning">Deep Learning</a>
-                                        + - - - - -> <a href="https://github.com/akxyverse/data-analytics-projects/tree/main/Tool-wise%20Projects/Excel">Excel</a>
-                                        + - - - - -> <a href="https://github.com/akxyverse/data-analytics-projects/tree/main/Tool-wise%20Projects/Generative%20AI">Generative AI</a>
-                                        + - - - - -> <a href="https://github.com/akxyverse/data-analytics-projects/tree/main/Tool-wise%20Projects/Machine%20Learning">Machine Learning</a>
-                                        + - - - - -> <a href="https://github.com/akxyverse/data-analytics-projects/tree/main/Tool-wise%20Projects/Power%20BI">Power BI</a>
-                                        + - - - - -> <a href="https://github.com/akxyverse/data-analytics-projects/tree/main/Tool-wise%20Projects/Python">Python</a>
-                                        + - - - - -> <a href="https://github.com/akxyverse/data-analytics-projects/tree/main/Tool-wise%20Projects/SQL">SQL</a>
-                                        + - - - - -> <a href="https://github.com/akxyverse/data-analytics-projects/tree/main/Tool-wise%20Projects/Tableau">Tableau</a>
-                        |
-                        +-------------> <a href="https://github.com/akxyverse/data-analytics-projects/tree/main/AI%20Projects">AI Projects</a>
-                        |
-                        +-------------> <a href="https://github.com/akxyverse/data-analytics-projects/tree/main/Showcase%20Projects">Showcase Projects</a>
-                        |
-                        +-------------> <a href="https://github.com/akxyverse/data-analytics-projects/tree/main/Business%20Problems">Business Problems</a>
-                        |
-                        +-------------> <a href="https://github.com/akxyverse/data-analytics-projects/tree/main/Project%20Templates">Project Templates</a>
+<a href="https://github.com/akxyverse/data-analytics-projects">data-analytics-projects</a>
+|
++-------------> End-to-End Projects
+                |
+                +-------------> ThunderCast
+                                |
+                                + - - - - -> dashboard
+                                |
+                                + - - - - -> data
+                                |
+                                + - - - - -> src
+|
++-------------> Domain-wise Projects
+                |
+                +-------------> Banking
+                |
+                +-------------> Ecommerce
+                |
+                +-------------> Education
+                |
+                +-------------> Finance
+                |
+                +-------------> HR
+                |
+                +-------------> Healthcare
+                |
+                +-------------> Insurance
+                |
+                +-------------> Logistics
+                                |
+                                + - - - - -> Supply Chain Analytics Dashboard
+                |
+                +-------------> Manufacturing
+                |
+                +-------------> Marketing
+                |
+                +-------------> Others
+                                |
+                                + - - - - -> Esports Gaming Revenue Analytics
+                |
+                +-------------> Real Estate
+                |
+                +-------------> Retail
+                |
+                +-------------> Sales
+|
++-------------> Tool-wise Projects
+                |
+                +-------------> Agentic AI
+                |
+                +-------------> Cloud
+                |
+                +-------------> Data Engineering
+                |
+                +-------------> Deep Learning
+                |
+                +-------------> Excel
+                |
+                +-------------> Generative AI
+                |
+                +-------------> Machine Learning
+                |
+                +-------------> Power BI
+                |
+                +-------------> Python
+                |
+                +-------------> SQL
+                |
+                +-------------> Tableau
+|
++-------------> AI Projects
+|
++-------------> Showcase Projects
+|
++-------------> Business Problems
+|
++-------------> Project Templates
 </pre>
 
 </details>
@@ -406,27 +498,25 @@ Akxyverse isn't one repository — it's several, each with a single job, designe
 <summary><b>📦 Datasets</b> — <a href="https://github.com/akxyverse/datasets">datasets</a></summary>
 
 <pre>
-<b>📦 Datasets</b>
-        |
-        +-------------> <a href="https://github.com/akxyverse/datasets">datasets</a>
-                        |
-                        +-------------> <a href="https://github.com/akxyverse/datasets/tree/main/Kaggle">Kaggle</a>
-                        |
-                        +-------------> <a href="https://github.com/akxyverse/datasets/tree/main/Government">Government</a>
-                        |
-                        +-------------> <a href="https://github.com/akxyverse/datasets/tree/main/Company">Company</a>
-                        |
-                        +-------------> <a href="https://github.com/akxyverse/datasets/tree/main/Public">Public</a>
-                        |
-                        +-------------> <a href="https://github.com/akxyverse/datasets/tree/main/Archive">Archive</a>
-                        |
-                        +-------------> <a href="https://github.com/akxyverse/datasets/tree/main/Competition">Competition</a>
-                        |
-                        +-------------> <a href="https://github.com/akxyverse/datasets/tree/main/Personal">Personal</a>
-                        |
-                        +-------------> <a href="https://github.com/akxyverse/datasets/tree/main/Practice">Practice</a>
-                        |
-                        +-------------> <a href="https://github.com/akxyverse/datasets/tree/main/Synthetic">Synthetic</a>
+<a href="https://github.com/akxyverse/datasets">datasets</a>
+|
++-------------> Kaggle
+|
++-------------> Government
+|
++-------------> Company
+|
++-------------> Public
+|
++-------------> Archive
+|
++-------------> Competition
+|
++-------------> Personal
+|
++-------------> Practice
+|
++-------------> Synthetic
 </pre>
 
 </details>
@@ -435,41 +525,39 @@ Akxyverse isn't one repository — it's several, each with a single job, designe
 <summary><b>🤖 AI Automation</b> — <a href="https://github.com/akxyverse/ai-automation">ai-automation</a></summary>
 
 <pre>
-<b>🤖 AI Automation</b>
-        |
-        +-------------> <a href="https://github.com/akxyverse/ai-automation">ai-automation</a>
-                        |
-                        +-------------> <a href="https://github.com/akxyverse/ai-automation/tree/main/LangChain">LangChain</a>
-                        |
-                        +-------------> <a href="https://github.com/akxyverse/ai-automation/tree/main/Agentic%20AI">Agentic AI</a>
-                        |
-                        +-------------> <a href="https://github.com/akxyverse/ai-automation/tree/main/RAG">RAG</a>
-                        |
-                        +-------------> <a href="https://github.com/akxyverse/ai-automation/tree/main/n8n">n8n</a>
-                        |
-                        +-------------> <a href="https://github.com/akxyverse/ai-automation/tree/main/AI%20APIs">AI APIs</a>
-                        |
-                        +-------------> <a href="https://github.com/akxyverse/ai-automation/tree/main/AI%20Tools">AI Tools</a>
-                        |
-                        +-------------> <a href="https://github.com/akxyverse/ai-automation/tree/main/AI%20Workflows">AI Workflows</a>
-                        |
-                        +-------------> <a href="https://github.com/akxyverse/ai-automation/tree/main/FastAPI">FastAPI</a>
-                        |
-                        +-------------> <a href="https://github.com/akxyverse/ai-automation/tree/main/Flask">Flask</a>
-                        |
-                        +-------------> <a href="https://github.com/akxyverse/ai-automation/tree/main/Flowise">Flowise</a>
-                        |
-                        +-------------> <a href="https://github.com/akxyverse/ai-automation/tree/main/Generative%20AI">Generative AI</a>
-                        |
-                        +-------------> <a href="https://github.com/akxyverse/ai-automation/tree/main/Hugging%20Face">Hugging Face</a>
-                        |
-                        +-------------> <a href="https://github.com/akxyverse/ai-automation/tree/main/LangGraph">LangGraph</a>
-                        |
-                        +-------------> <a href="https://github.com/akxyverse/ai-automation/tree/main/MCP">MCP</a>
-                        |
-                        +-------------> <a href="https://github.com/akxyverse/ai-automation/tree/main/Prompt%20Engineering">Prompt Engineering</a>
-                        |
-                        +-------------> <a href="https://github.com/akxyverse/ai-automation/tree/main/Vector%20Databases">Vector Databases</a>
+<a href="https://github.com/akxyverse/ai-automation">ai-automation</a>
+|
++-------------> LangChain
+|
++-------------> Agentic AI
+|
++-------------> RAG
+|
++-------------> n8n
+|
++-------------> AI APIs
+|
++-------------> AI Tools
+|
++-------------> AI Workflows
+|
++-------------> FastAPI
+|
++-------------> Flask
+|
++-------------> Flowise
+|
++-------------> Generative AI
+|
++-------------> Hugging Face
+|
++-------------> LangGraph
+|
++-------------> MCP
+|
++-------------> Prompt Engineering
+|
++-------------> Vector Databases
 </pre>
 
 </details>
@@ -478,29 +566,27 @@ Akxyverse isn't one repository — it's several, each with a single job, designe
 <summary><b>✍️ Content Studio</b> — <a href="https://github.com/akxyverse/content-studio">content-studio</a></summary>
 
 <pre>
-<b>✍️ Content Studio</b>
-        |
-        +-------------> <a href="https://github.com/akxyverse/content-studio">content-studio</a>
-                        |
-                        +-------------> <a href="https://github.com/akxyverse/content-studio/tree/main/Articles">Articles</a>
-                        |
-                        +-------------> <a href="https://github.com/akxyverse/content-studio/tree/main/Blogs">Blogs</a>
-                        |
-                        +-------------> <a href="https://github.com/akxyverse/content-studio/tree/main/LinkedIn%20Posts">LinkedIn Posts</a>
-                        |
-                        +-------------> <a href="https://github.com/akxyverse/content-studio/tree/main/Tutorials">Tutorials</a>
-                        |
-                        +-------------> <a href="https://github.com/akxyverse/content-studio/tree/main/Banners">Banners</a>
-                        |
-                        +-------------> <a href="https://github.com/akxyverse/content-studio/tree/main/Content%20Ideas">Content Ideas</a>
-                        |
-                        +-------------> <a href="https://github.com/akxyverse/content-studio/tree/main/Content%20Templates">Content Templates</a>
-                        |
-                        +-------------> <a href="https://github.com/akxyverse/content-studio/tree/main/GitHub%20Content">GitHub Content</a>
-                        |
-                        +-------------> <a href="https://github.com/akxyverse/content-studio/tree/main/Images">Images</a>
-                        |
-                        +-------------> <a href="https://github.com/akxyverse/content-studio/tree/main/Thumbnails">Thumbnails</a>
+<a href="https://github.com/akxyverse/content-studio">content-studio</a>
+|
++-------------> Articles
+|
++-------------> Blogs
+|
++-------------> LinkedIn Posts
+|
++-------------> Tutorials
+|
++-------------> Banners
+|
++-------------> Content Ideas
+|
++-------------> Content Templates
+|
++-------------> GitHub Content
+|
++-------------> Images
+|
++-------------> Thumbnails
 </pre>
 
 </details>
@@ -509,17 +595,15 @@ Akxyverse isn't one repository — it's several, each with a single job, designe
 <summary><b>🏅 Certifications</b> — <a href="https://github.com/akxyverse/certifications">certifications</a></summary>
 
 <pre>
-<b>🏅 Certifications</b>
-        |
-        +-------------> <a href="https://github.com/akxyverse/certifications">certifications</a>
-                        |
-                        +-------------> <a href="https://github.com/akxyverse/certifications/tree/main/Certificates">Certificates</a>
-                        |
-                        +-------------> <a href="https://github.com/akxyverse/certifications/tree/main/Completed">Completed</a>
-                        |
-                        +-------------> <a href="https://github.com/akxyverse/certifications/tree/main/In%20Progress">In Progress</a>
-                        |
-                        +-------------> <a href="https://github.com/akxyverse/certifications/tree/main/Practice%20Exams">Practice Exams</a>
+<a href="https://github.com/akxyverse/certifications">certifications</a>
+|
++-------------> Certificates
+|
++-------------> Completed
+|
++-------------> In Progress
+|
++-------------> Practice Exams
 </pre>
 
 </details>
@@ -528,41 +612,43 @@ Akxyverse isn't one repository — it's several, each with a single job, designe
 <summary><b>💼 Career Hub</b> — <a href="https://github.com/akxyverse/career-hub">career-hub</a></summary>
 
 <pre>
-<b>💼 Career Hub</b>
-        |
-        +-------------> <a href="https://github.com/akxyverse/career-hub">career-hub</a>
-                        |
-                        +-------------> <a href="https://github.com/akxyverse/career-hub/tree/main/Resume">Resume</a>
-                        |
-                        +-------------> <a href="https://github.com/akxyverse/career-hub/tree/main/Interview%20Preparation">Interview Preparation</a>
-                                        |
-                                        + - - - - -> <a href="https://github.com/akxyverse/career-hub/tree/main/Interview%20Preparation/Coding%20Interviews">Coding Interviews</a>
-                                        + - - - - -> <a href="https://github.com/akxyverse/career-hub/tree/main/Interview%20Preparation/HR%20Interviews">HR Interviews</a>
-                                        + - - - - -> <a href="https://github.com/akxyverse/career-hub/tree/main/Interview%20Preparation/Technical%20Interviews">Technical Interviews</a>
-                        |
-                        +-------------> <a href="https://github.com/akxyverse/career-hub/tree/main/Job%20Applications">Job Applications</a>
-                        |
-                        +-------------> <a href="https://github.com/akxyverse/career-hub/tree/main/LinkedIn">LinkedIn</a>
-                        |
-                        +-------------> <a href="https://github.com/akxyverse/career-hub/tree/main/Career%20Planning">Career Planning</a>
-                        |
-                        +-------------> <a href="https://github.com/akxyverse/career-hub/tree/main/Company%20Research">Company Research</a>
-                        |
-                        +-------------> <a href="https://github.com/akxyverse/career-hub/tree/main/Freelancing">Freelancing</a>
-                        |
-                        +-------------> <a href="https://github.com/akxyverse/career-hub/tree/main/GitHub%20Profile">GitHub Profile</a>
-                        |
-                        +-------------> <a href="https://github.com/akxyverse/career-hub/tree/main/Internships">Internships</a>
-                                        |
-                                        + - - - - -> <a href="https://github.com/akxyverse/career-hub/tree/main/Internships/Bharat%20Intern">Bharat Intern</a>
-                                        + - - - - -> <a href="https://github.com/akxyverse/career-hub/tree/main/Internships/CodeClause">CodeClause</a>
-                                        + - - - - -> <a href="https://github.com/akxyverse/career-hub/tree/main/Internships/V-Ramp%20Automation">V-Ramp Automation</a>
-                        |
-                        +-------------> <a href="https://github.com/akxyverse/career-hub/tree/main/Job%20Preparation">Job Preparation</a>
-                        |
-                        +-------------> <a href="https://github.com/akxyverse/career-hub/tree/main/Networking">Networking</a>
-                        |
-                        +-------------> <a href="https://github.com/akxyverse/career-hub/tree/main/Salary%20Research">Salary Research</a>
+<a href="https://github.com/akxyverse/career-hub">career-hub</a>
+|
++-------------> Resume
+|
++-------------> Interview Preparation
+                |
+                +-------------> Coding Interviews
+                |
+                +-------------> HR Interviews
+                |
+                +-------------> Technical Interviews
+|
++-------------> Job Applications
+|
++-------------> LinkedIn
+|
++-------------> Career Planning
+|
++-------------> Company Research
+|
++-------------> Freelancing
+|
++-------------> GitHub Profile
+|
++-------------> Internships
+                |
+                +-------------> Bharat Intern
+                |
+                +-------------> CodeClause
+                |
+                +-------------> V-Ramp Automation
+|
++-------------> Job Preparation
+|
++-------------> Networking
+|
++-------------> Salary Research
 </pre>
 
 </details>
