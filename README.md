@@ -48,53 +48,45 @@ Building a connected ecosystem of real, working data projects — not just a lis
 
 <img align="right" width="340" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="">
 
-### 👋 Hi, I'm Akash.
+### 👋 Meet the Creator
 
-> **Turning data into decisions.**
-> *One dashboard. One project. One improvement at a time.*
-
-```text
-📍 India
-🎯 Aspiring Data Analyst
-⚡ Python • SQL • Power BI • AI
-```
+→ **Name:** Akash Yadav
+→ **Based in:** India 🇮🇳
+→ **Role:** Aspiring Data Analyst
+→ **Focus:** Data Analytics • Business Intelligence • Python • SQL • AI Automation
+→ **Currently Building:** Akxyverse — a connected learning ecosystem
+→ **Goal:** Turn raw data into meaningful insights and build projects that solve real problems.
 
 <br clear="right">
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+### 🚀 What You'll Find Here
 
-**01 — WHY I BUILD**
+✓ End-to-End Projects
+✓ Interactive Dashboards
+✓ Guidebooks
+✓ AI Workflows
+✓ Datasets
+✓ Learning Resources
+✓ Career Resources
 
-Not another portfolio.
-A growing workspace where projects, learning, datasets, and experiments come together.
+### 🎯 Mission
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+✔ Build real projects
+✔ Learn in public
+✔ Document everything
+✔ Help others learn faster
 
-**02 — WHAT DRIVES ME**
+### 🧠 Currently Learning
 
-> Build. Analyze. Improve. Repeat.
+**Machine Learning** • **Advanced SQL** • **DAX**
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+### 💡 Philosophy
 
-**03 — CURRENTLY SHIPPING**
-
-```text
-▸ End-to-End Analytics Projects
-▸ AI-Assisted Workflows
-▸ Interactive Dashboards
-```
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-**04 — WHAT'S NEXT**
-
-```text
-▸ Machine Learning
-▸ Advanced SQL
-▸ DAX
-```
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+→ Learn continuously
+→ Build consistently
+→ Share openly
+→ Improve every project
+→ Quality over quantity
 
 ---
 
