@@ -48,101 +48,38 @@ Building a connected ecosystem of real, working data projects — not just a lis
 
 <img align="right" width="340" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="">
 
-### 👨‍💻 Meet the Creator
+### 👋 Meet the Creator
 
-Hi, I'm **Akash Yadav**, based in **India 🇮🇳** and currently building toward a career as a Data Analyst, one real project at a time.
+**Hi, I'm Akash Yadav.**
+An aspiring **Data Analyst** based in **India 🇮🇳**, passionate about turning messy, unstructured data into decisions people can actually act on.
 
-I like the moment a messy, unstructured dataset turns into something someone can actually act on — a dashboard, a clear number, a decision made a little more confidently. That's the part of the work I keep coming back to.
+→ I enjoy building **real projects**, **interactive dashboards**, and **AI-assisted workflows** that solve practical problems — one real project at a time.
 
-Akxyverse exists because my learning used to live scattered across notes, bookmarks, and half-finished folders. I built this ecosystem so everything — the projects, the fundamentals, the guidebooks, the proof of work — has one structured, public home instead of disappearing into private files.
+---
 
-### 🪐 Welcome to Akxyverse
+### 🚀 Why Akxyverse?
 
-Akxyverse is my ecosystem for Data Analytics, AI, Automation, real projects, guidebooks, and learning in public. It isn't a single portfolio — it's a connected set of repositories covering everything from raw data to shipped dashboards, from fundamentals to AI-assisted workflows. Explore whichever part is relevant to you, or follow the whole journey.
+My learning used to live scattered across notes, bookmarks, and half-finished folders. Akxyverse is the fix — one structured, public home for the projects, the fundamentals, and the proof of work, instead of it disappearing into private files.
 
-### 🎯 Mission
+It's a workspace that keeps growing, not a portfolio that sits still.
 
-Turn raw data into decisions people can actually act on. Build analytics products that get used, not just tutorials that get forgotten. Learn in public, and document the process as honestly as the outcome.
+---
 
-### 🌌 Ecosystem Overview
+### 🎯 What Drives Me
 
-- 📊 **[Data Analytics Projects](https://github.com/akxyverse/data-analytics-projects)** — hands-on, end-to-end analytics work, organized by tool and by domain
-- 🧠 **[Knowledge Hub](https://github.com/akxyverse/data-analytics-knowledge-system)** — the core learning track: fundamentals, Python, SQL, BI tools
-- 🤖 **[AI Automation](https://github.com/akxyverse/ai-automation)** — generative and agentic AI, LangChain, n8n
-- 📚 **[Learning Resources](https://github.com/akxyverse/data-analytics-resources)** — books, guidebooks, courses, cheat sheets
-- 💼 **[Career Hub](https://github.com/akxyverse/career-hub)** — resume, interview prep, applications
-- 🏅 **[Certifications](https://github.com/akxyverse/certifications)** — verified credentials, in progress and earned
-- ✍️ **[Content Studio](https://github.com/akxyverse/content-studio)** — articles, tutorials, and content assets
-- 📦 **[Datasets](https://github.com/akxyverse/datasets)** — the data behind every project, organized by source
+> **Build. Learn. Document. Repeat.**
 
-### 💭 Philosophy
+Every project should teach something. Every write-up should be as honest about the process as it is about the outcome.
 
-Build in public, not behind closed doors.
-Ship real projects, not just tutorials.
-Document the process, not just the outcome.
-Every version should be better than the last.
+---
 
-### 🚀 Currently Exploring
+### 💡 Current Focus
 
-Machine Learning · Advanced SQL · DAX
+**Python** • **SQL** • **Power BI** • **Tableau** • **AI Automation**
 
-<br>
-
-> *A universe built one dataset, one dashboard, and one shipped project at a time.*
+<sub>Currently exploring: Machine Learning · Advanced SQL · DAX</sub>
 
 <br clear="right">
-
-<table>
-<tr>
-<td width="25%" align="center" valign="top">
-
-**🧭 Who**
-
-Akash Yadav — Aspiring Data Analyst from India, learning and building in public.
-
-</td>
-<td width="25%" align="center" valign="top">
-
-**💡 Why This Page**
-
-The single starting point for everything I build — one hub, eight focused repositories.
-
-</td>
-<td width="25%" align="center" valign="top">
-
-**👥 For**
-
-Recruiters, hiring managers, fellow learners, and anyone exploring Data Analytics.
-
-</td>
-<td width="25%" align="center" valign="top">
-
-**🎁 Value**
-
-A live, growing map of real skills — not a static resume.
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-### 🧭 Explore the Ecosystem
-
-</div>
-
-<table>
-<tr>
-<td align="center" width="11%"><a href="https://github.com/akxyverse/data-analytics-knowledge-system"><b>🧠</b><br><sub>Knowledge Hub</sub></a></td>
-<td align="center" width="11%"><a href="https://github.com/akxyverse/data-analytics-projects"><b>🚀</b><br><sub>Projects</sub></a></td>
-<td align="center" width="11%"><a href="https://github.com/akxyverse/datasets"><b>📦</b><br><sub>Datasets</sub></a></td>
-<td align="center" width="11%"><a href="https://github.com/akxyverse/data-analytics-resources"><b>📚</b><br><sub>Resources</sub></a></td>
-<td align="center" width="11%"><a href="https://github.com/akxyverse/career-hub"><b>💼</b><br><sub>Career</sub></a></td>
-<td align="center" width="11%"><a href="https://github.com/akxyverse/content-studio"><b>✍️</b><br><sub>Content</sub></a></td>
-<td align="center" width="11%"><a href="https://github.com/akxyverse/certifications"><b>🏅</b><br><sub>Certs</sub></a></td>
-<td align="center" width="11%"><a href="https://github.com/akxyverse/ai-automation"><b>🤖</b><br><sub>AI Automation</sub></a></td>
-</tr>
-</table>
 
 ---
 
