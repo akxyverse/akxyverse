@@ -2,7 +2,7 @@
 
 <img src="./assets/banner-illustration.jpg" alt="Akxyverse — Data Analytics Ecosystem" width="100%">
 
-<br><br>
+<br>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Turning+Raw+Data+into+Clear+Decisions+%F0%9F%93%8A;Python+%C2%B7+SQL+%C2%B7+Power+BI+%C2%B7+Tableau;EDA+%C2%B7+Dashboards+%C2%B7+Data+Storytelling;Building+in+Public%2C+One+Project+at+a+Time+%F0%9F%9A%80" alt="Typing SVG" />
@@ -10,15 +10,13 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=60&color=0:38bdf8,100:8b5cf6&section=header" width="100%" alt=""/>
 
-# AKASH YADAV
-
-**Data Analytics** · AI-Assisted Workflows · Automation
+# <img src="./assets/name-wordmark.svg" width="560" alt="Akash Yadav — Data Analytics, AI-Assisted Workflows, Automation">
 
 Building a connected ecosystem of real, working data projects — not just a list of links.
 
 <br>
 
-<sub>📊 PROFILE AT A GLANCE</sub>
+**📊 Profile at a Glance**
 <br>
 <img src="https://komarev.com/ghpvc/?username=akxyverse&label=Profile%20Views&color=38bdf8&style=for-the-badge" alt="profile views"/>
 &nbsp;•&nbsp;
@@ -26,9 +24,9 @@ Building a connected ecosystem of real, working data projects — not just a lis
   <img src="https://img.shields.io/github/followers/akxyverse?label=Followers&style=for-the-badge&color=22d3ee" alt="followers"/>
 </a>
 &nbsp;•&nbsp;
-<img src="https://img.shields.io/badge/Repositories-8-8b5cf6?style=for-the-badge" alt="8 repositories"/>
+<img src="https://img.shields.io/badge/8--Repo%20Ecosystem-8b5cf6?style=for-the-badge" alt="8-repo curated ecosystem"/>
 
-<br><br>
+<br>
 
 <a href="https://github.com/akxyverse/data-analytics-projects">
   <img src="https://img.shields.io/badge/%F0%9F%9A%80%20Projects-38bdf8?style=for-the-badge" alt="Projects"/>
@@ -37,14 +35,6 @@ Building a connected ecosystem of real, working data projects — not just a lis
 <a href="https://github.com/akxyverse/data-analytics-knowledge-system">
   <img src="https://img.shields.io/badge/%F0%9F%93%9A%20Knowledge%20Hub-22d3ee?style=for-the-badge" alt="Knowledge Hub"/>
 </a>
-&nbsp;
-<a href="https://www.linkedin.com/in/akash-yadav-122a75288/">
-  <img src="https://img.shields.io/badge/%F0%9F%94%97%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-
-<br><br>
-
-⭐ **4 Live Projects** &nbsp;·&nbsp; 📊 **2 Interactive Dashboards** &nbsp;·&nbsp; 📚 **1 Full Guidebook** &nbsp;·&nbsp; 🤖 **AI-Assisted Workflows**
 
 <br>
 
