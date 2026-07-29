@@ -205,7 +205,7 @@ A live, growing map of real skills — not a static resume.
 <img src="https://img.shields.io/badge/Java-242938?style=for-the-badge&logo=openjdk&logoColor=ED8B00" alt="Java"/>
 <img src="https://img.shields.io/badge/SQL-242938?style=for-the-badge&logo=mysql&logoColor=4479A1" alt="SQL"/>
 
-<br><br>
+<br>
 
 **🗄️ Databases**
 <br>
@@ -213,53 +213,49 @@ A live, growing map of real skills — not a static resume.
 <img src="https://img.shields.io/badge/PostgreSQL-242938?style=for-the-badge&logo=postgresql&logoColor=4169E1" alt="PostgreSQL"/>
 <img src="https://img.shields.io/badge/Supabase-242938?style=for-the-badge&logo=supabase&logoColor=3ECF8E" alt="Supabase"/>
 
-<br><br>
+<br>
 
-**📦 Python Ecosystem**
+**📦 Python Libraries**
 <br>
 <img src="https://img.shields.io/badge/Pandas-242938?style=for-the-badge&logo=pandas&logoColor=E70488" alt="Pandas"/>
 <img src="https://img.shields.io/badge/NumPy-242938?style=for-the-badge&logo=numpy&logoColor=4DABCF" alt="NumPy"/>
-<img src="https://img.shields.io/badge/Matplotlib-242938?style=for-the-badge&logo=python&logoColor=11557C" alt="Matplotlib"/>
-<img src="https://img.shields.io/badge/Seaborn-242938?style=for-the-badge&logo=python&logoColor=3776AB" alt="Seaborn"/>
+<img src="https://img.shields.io/badge/Matplotlib-242938?style=for-the-badge" alt="Matplotlib"/>
+<img src="https://img.shields.io/badge/Seaborn-242938?style=for-the-badge" alt="Seaborn"/>
 <img src="https://img.shields.io/badge/Plotly-242938?style=for-the-badge&logo=plotly&logoColor=3F4F75" alt="Plotly"/>
 <img src="https://img.shields.io/badge/Streamlit-242938?style=for-the-badge&logo=streamlit&logoColor=FF4B4B" alt="Streamlit"/>
 
-<br><br>
-
-**📊 Analytics & BI**
 <br>
-<img src="https://img.shields.io/badge/Power%20BI-242938?style=for-the-badge&logoColor=F2C811" alt="Power BI"/>
-<img src="https://img.shields.io/badge/Tableau-242938?style=for-the-badge&logoColor=E97627" alt="Tableau"/>
-<img src="https://img.shields.io/badge/Excel-242938?style=for-the-badge&logoColor=217346" alt="Excel"/>
 
-<br><br>
+**📊 Data Visualization & BI**
+<br>
+<img src="https://img.shields.io/badge/Power%20BI-242938?style=for-the-badge" alt="Power BI"/>
+<img src="https://img.shields.io/badge/Tableau-242938?style=for-the-badge" alt="Tableau"/>
+<img src="https://img.shields.io/badge/Microsoft%20Excel-242938?style=for-the-badge" alt="Microsoft Excel"/>
+<img src="https://img.shields.io/badge/Google%20Sheets-242938?style=for-the-badge&logo=googlesheets&logoColor=34A853" alt="Google Sheets"/>
+
+<br>
 
 **🤖 AI & Automation**
 <br>
-<img src="https://img.shields.io/badge/ChatGPT-242938?style=for-the-badge&logoColor=74aa9c" alt="ChatGPT"/>
-<img src="https://img.shields.io/badge/Claude-242938?style=for-the-badge&logo=claude&logoColor=CC785C" alt="Claude"/>
-<img src="https://img.shields.io/badge/Gemini-242938?style=for-the-badge&logo=googlegemini&logoColor=4285F4" alt="Gemini"/>
-<img src="https://img.shields.io/badge/Julius%20AI-242938?style=for-the-badge&logoColor=7C3AED" alt="Julius AI"/>
-<img src="https://img.shields.io/badge/Formula%20Bot-242938?style=for-the-badge&logoColor=00BFA5" alt="Formula Bot"/>
-<img src="https://img.shields.io/badge/Quadratic%20AI-242938?style=for-the-badge&logoColor=A78BFA" alt="Quadratic AI"/>
-<img src="https://img.shields.io/badge/Zapier-242938?style=for-the-badge&logo=zapier&logoColor=FF4A00" alt="Zapier"/>
+<img src="https://img.shields.io/badge/LangChain-242938?style=for-the-badge&logo=langchain&logoColor=1C3C3C" alt="LangChain"/>
 <img src="https://img.shields.io/badge/n8n-242938?style=for-the-badge&logo=n8n&logoColor=EA4B71" alt="n8n"/>
+<img src="https://img.shields.io/badge/Flowise-242938?style=for-the-badge" alt="Flowise"/>
+<img src="https://img.shields.io/badge/Gemini-242938?style=for-the-badge&logo=googlegemini&logoColor=4285F4" alt="Gemini"/>
+<img src="https://img.shields.io/badge/OpenAI-242938?style=for-the-badge" alt="OpenAI"/>
+<img src="https://img.shields.io/badge/MCP-242938?style=for-the-badge&logo=modelcontextprotocol&logoColor=white" alt="MCP"/>
+<img src="https://img.shields.io/badge/RAG-242938?style=for-the-badge" alt="RAG"/>
 
-<br><br>
+<br>
 
-**⚙️ Development Tools**
+**⚙️ Developer Tools**
 <br>
 <img src="https://img.shields.io/badge/Git-242938?style=for-the-badge&logo=git&logoColor=F05032" alt="Git"/>
 <img src="https://img.shields.io/badge/GitHub-242938?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 <img src="https://img.shields.io/badge/VS%20Code-242938?style=for-the-badge&logoColor=007ACC" alt="VS Code"/>
-<img src="https://img.shields.io/badge/PyCharm-242938?style=for-the-badge&logo=pycharm&logoColor=21D789" alt="PyCharm"/>
-<img src="https://img.shields.io/badge/Jupyter-242938?style=for-the-badge&logo=jupyter&logoColor=F37626" alt="Jupyter"/>
-<img src="https://img.shields.io/badge/Google%20Colab-242938?style=for-the-badge&logo=googlecolab&logoColor=F9AB00" alt="Google Colab"/>
-<img src="https://img.shields.io/badge/Replit-242938?style=for-the-badge&logo=replit&logoColor=white" alt="Replit"/>
 
 </div>
 
-<sub>Icons render wherever the underlying icon library (simple-icons) actually carries that logo — a few tools shown above (Power BI, Tableau, Excel, VS Code, ChatGPT, Julius AI, Formula Bot, Quadratic AI) have no icon in that library at all (confirmed against its own source list, not a rendering bug), so those display as clean text-only tiles instead.</sub>
+<sub>Icons render wherever the underlying icon library (simple-icons) actually carries that logo — verified individually before this update. Power BI, Tableau, Microsoft Excel, Matplotlib, Seaborn, Flowise, OpenAI, RAG, and VS Code have no icon in that library at all (confirmed against shields.io's live output, not a rendering bug), so those display as clean text-only tiles instead.</sub>
 
 ## 🚀 Featured Project Universe
 
