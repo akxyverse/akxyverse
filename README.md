@@ -289,7 +289,7 @@ Akxyverse isn't one repository — it's several, each with a single job, designe
 
 <div align="center">
 
-<img src="./assets/ecosystem-map.svg" width="100%" alt="Akxyverse ecosystem map: 8 repositories grouped by Learn, Build, Automate, Share, and Career, connected to the central akxyverse hub">
+<img src="./assets/ecosystem-map.svg" width="100%" alt="Akxyverse ecosystem tree: the akxyverse hub branching into 8 repositories (Knowledge Hub, Learning Resources, Projects, Datasets, AI Automation, Content Studio, Certifications, Career Hub), each branching further into its real top-level folders">
 
 </div>
 
