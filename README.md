@@ -673,12 +673,12 @@ Everything I build, learn, and share is organized into dedicated repositories. E
 
 ### 💻 GitHub Stats & Top Languages
 <br>
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=akxyverse&theme=tokyonight" alt="GitHub Stats Card">
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=akxyverse&theme=tokyonight" alt="Top Languages">
+<img width="40%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=akxyverse&theme=tokyonight" alt="GitHub Stats Card">
+<img width="40%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=akxyverse&theme=tokyonight" alt="Top Languages">
 
 <br><br>
 
-<img width="60%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=akxyverse&theme=tokyonight" alt="Languages by Commit">
+<img width="40%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=akxyverse&theme=tokyonight" alt="Languages by Commit">
 
 <br><br>
 
