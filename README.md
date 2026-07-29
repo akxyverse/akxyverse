@@ -281,83 +281,82 @@ Akxyverse isn't one repository — it's several, each with a single job, designe
 <summary><b>🧠 Knowledge Hub</b> — <a href="https://github.com/akxyverse/data-analytics-knowledge-system">data-analytics-knowledge-system</a></summary>
 
 <pre>
-<a href="https://github.com/akxyverse/data-analytics-knowledge-system">data-analytics-knowledge-system</a>
 |
-+-------------> Fundamentals of Data Analytics
-                |
-                +-------------> Mathematics
-                                |
-                                + - - - - -> Calculus
-                                |
-                                + - - - - -> Discrete Mathematics
-                                |
-                                + - - - - -> Linear Algebra
-                |
-                +-------------> Probability
-                |
-                +-------------> Statistics
-                                |
-                                + - - - - -> Descriptive Statistics
-                                |
-                                + - - - - -> Inferential Statistics
++-------------> <b>Fundamentals of Data Analytics</b>
+|               |
+|               +-------------> Mathematics
+|               |               |
+|               |               + - - - - -> Calculus
+|               |               |
+|               |               + - - - - -> Discrete Mathematics
+|               |               |
+|               |               + - - - - -> Linear Algebra
+|               |
+|               +-------------> Probability
+|               |
+|               +-------------> Statistics
+|                               |
+|                               + - - - - -> Descriptive Statistics
+|                               |
+|                               + - - - - -> Inferential Statistics
 |
-+-------------> Data Analytics Technologies
++-------------> <b>Data Analytics Technologies</b>
                 |
                 +-------------> APIs
-                                |
-                                + - - - - -> Authentication
-                                |
-                                + - - - - -> GraphQL
-                                |
-                                + - - - - -> REST APIs
-                                |
-                                + - - - - -> Webhooks
+                |               |
+                |               + - - - - -> Authentication
+                |               |
+                |               + - - - - -> GraphQL
+                |               |
+                |               + - - - - -> REST APIs
+                |               |
+                |               + - - - - -> Webhooks
                 |
                 +-------------> Analytics Concepts
-                                |
-                                + - - - - -> Business Analytics
-                                |
-                                + - - - - -> Data Analytics Concepts
-                                |
-                                + - - - - -> Data Storytelling
+                |               |
+                |               + - - - - -> Business Analytics
+                |               |
+                |               + - - - - -> Data Analytics Concepts
+                |               |
+                |               + - - - - -> Data Storytelling
                 |
                 +-------------> Data Visualization
-                                |
-                                + - - - - -> Excel Dashboards
-                                |
-                                + - - - - -> Looker Studio
-                                |
-                                + - - - - -> Power BI
-                                |
-                                + - - - - -> Tableau
+                |               |
+                |               + - - - - -> Excel Dashboards
+                |               |
+                |               + - - - - -> Looker Studio
+                |               |
+                |               + - - - - -> Power BI
+                |               |
+                |               + - - - - -> Tableau
                 |
                 +-------------> Databases
-                                |
-                                + - - - - -> MongoDB
-                                |
-                                + - - - - -> MySQL
-                                |
-                                + - - - - -> PostgreSQL
-                                |
-                                + - - - - -> Redis
-                                |
-                                + - - - - -> SQL
-                                |
-                                + - - - - -> SQL Server
-                                |
-                                + - - - - -> SQLite
+                |               |
+                |               + - - - - -> MongoDB
+                |               |
+                |               + - - - - -> MySQL
+                |               |
+                |               + - - - - -> PostgreSQL
+                |               |
+                |               + - - - - -> Redis
+                |               |
+                |               + - - - - -> SQL
+                |               |
+                |               + - - - - -> SQL Server
+                |               |
+                |               + - - - - -> SQLite
                 |
                 +-------------> Other Tools
                 |
                 +-------------> Programming
-                                |
-                                + - - - - -> Python
-                                |
-                                + - - - - -> Web Development
+                |               |
+                |               + - - - - -> Python
+                |               |
+                |               + - - - - -> Web Development
                 |
                 +-------------> Spreadsheets
-                                |
-                                + - - - - -> Excel
+                |               |
+                |               + - - - - -> Excel
                 |
                 +-------------> Version Control
                                 |
@@ -372,39 +371,38 @@ Akxyverse isn't one repository — it's several, each with a single job, designe
 <summary><b>📚 Learning Resources</b> — <a href="https://github.com/akxyverse/data-analytics-resources">data-analytics-resources</a></summary>
 
 <pre>
-<a href="https://github.com/akxyverse/data-analytics-resources">data-analytics-resources</a>
 |
-+-------------> Guidebooks
-                |
-                +-------------> Excel Roadmap Guide
++-------------> <b>Guidebooks</b>
+|               |
+|               +-------------> Excel Roadmap Guide
 |
-+-------------> Courses
++-------------> <b>Courses</b>
 |
-+-------------> Cheat Sheets
++-------------> <b>Cheat Sheets</b>
 |
-+-------------> Books
++-------------> <b>Books</b>
 |
-+-------------> Blogs
++-------------> <b>Blogs</b>
 |
-+-------------> External Study Resources
++-------------> <b>External Study Resources</b>
 |
-+-------------> Newsletters
++-------------> <b>Newsletters</b>
 |
-+-------------> Official Documentation
++-------------> <b>Official Documentation</b>
 |
-+-------------> PDFs
++-------------> <b>PDFs</b>
 |
-+-------------> References
++-------------> <b>References</b>
 |
-+-------------> Research Papers
++-------------> <b>Research Papers</b>
 |
-+-------------> Templates
++-------------> <b>Templates</b>
 |
-+-------------> Videos
++-------------> <b>Videos</b>
 |
-+-------------> Websites
++-------------> <b>Websites</b>
 |
-+-------------> White Papers
++-------------> <b>White Papers</b>
 </pre>
 
 </details>
@@ -413,83 +411,82 @@ Akxyverse isn't one repository — it's several, each with a single job, designe
 <summary><b>🚀 Projects</b> — <a href="https://github.com/akxyverse/data-analytics-projects">data-analytics-projects</a></summary>
 
 <pre>
-<a href="https://github.com/akxyverse/data-analytics-projects">data-analytics-projects</a>
 |
-+-------------> End-to-End Projects
-                |
-                +-------------> ThunderCast
-                                |
-                                + - - - - -> dashboard
-                                |
-                                + - - - - -> data
-                                |
-                                + - - - - -> src
++-------------> <b>End-to-End Projects</b>
+|               |
+|               +-------------> ThunderCast
+|                               |
+|                               + - - - - -> dashboard
+|                               |
+|                               + - - - - -> data
+|                               |
+|                               + - - - - -> src
 |
-+-------------> Domain-wise Projects
-                |
-                +-------------> Banking
-                |
-                +-------------> Ecommerce
-                |
-                +-------------> Education
-                |
-                +-------------> Finance
-                |
-                +-------------> HR
-                |
-                +-------------> Healthcare
-                |
-                +-------------> Insurance
-                |
-                +-------------> Logistics
-                                |
-                                + - - - - -> Supply Chain Analytics Dashboard
-                |
-                +-------------> Manufacturing
-                |
-                +-------------> Marketing
-                |
-                +-------------> Others
-                                |
-                                + - - - - -> Esports Gaming Revenue Analytics
-                |
-                +-------------> Real Estate
-                |
-                +-------------> Retail
-                |
-                +-------------> Sales
++-------------> <b>Domain-wise Projects</b>
+|               |
+|               +-------------> Banking
+|               |
+|               +-------------> Ecommerce
+|               |
+|               +-------------> Education
+|               |
+|               +-------------> Finance
+|               |
+|               +-------------> HR
+|               |
+|               +-------------> Healthcare
+|               |
+|               +-------------> Insurance
+|               |
+|               +-------------> Logistics
+|               |               |
+|               |               + - - - - -> Supply Chain Analytics Dashboard
+|               |
+|               +-------------> Manufacturing
+|               |
+|               +-------------> Marketing
+|               |
+|               +-------------> Others
+|               |               |
+|               |               + - - - - -> Esports Gaming Revenue Analytics
+|               |
+|               +-------------> Real Estate
+|               |
+|               +-------------> Retail
+|               |
+|               +-------------> Sales
 |
-+-------------> Tool-wise Projects
-                |
-                +-------------> Agentic AI
-                |
-                +-------------> Cloud
-                |
-                +-------------> Data Engineering
-                |
-                +-------------> Deep Learning
-                |
-                +-------------> Excel
-                |
-                +-------------> Generative AI
-                |
-                +-------------> Machine Learning
-                |
-                +-------------> Power BI
-                |
-                +-------------> Python
-                |
-                +-------------> SQL
-                |
-                +-------------> Tableau
++-------------> <b>Tool-wise Projects</b>
+|               |
+|               +-------------> Agentic AI
+|               |
+|               +-------------> Cloud
+|               |
+|               +-------------> Data Engineering
+|               |
+|               +-------------> Deep Learning
+|               |
+|               +-------------> Excel
+|               |
+|               +-------------> Generative AI
+|               |
+|               +-------------> Machine Learning
+|               |
+|               +-------------> Power BI
+|               |
+|               +-------------> Python
+|               |
+|               +-------------> SQL
+|               |
+|               +-------------> Tableau
 |
-+-------------> AI Projects
++-------------> <b>AI Projects</b>
 |
-+-------------> Showcase Projects
++-------------> <b>Showcase Projects</b>
 |
-+-------------> Business Problems
++-------------> <b>Business Problems</b>
 |
-+-------------> Project Templates
++-------------> <b>Project Templates</b>
 </pre>
 
 </details>
@@ -498,25 +495,24 @@ Akxyverse isn't one repository — it's several, each with a single job, designe
 <summary><b>📦 Datasets</b> — <a href="https://github.com/akxyverse/datasets">datasets</a></summary>
 
 <pre>
-<a href="https://github.com/akxyverse/datasets">datasets</a>
 |
-+-------------> Kaggle
++-------------> <b>Kaggle</b>
 |
-+-------------> Government
++-------------> <b>Government</b>
 |
-+-------------> Company
++-------------> <b>Company</b>
 |
-+-------------> Public
++-------------> <b>Public</b>
 |
-+-------------> Archive
++-------------> <b>Archive</b>
 |
-+-------------> Competition
++-------------> <b>Competition</b>
 |
-+-------------> Personal
++-------------> <b>Personal</b>
 |
-+-------------> Practice
++-------------> <b>Practice</b>
 |
-+-------------> Synthetic
++-------------> <b>Synthetic</b>
 </pre>
 
 </details>
@@ -525,39 +521,38 @@ Akxyverse isn't one repository — it's several, each with a single job, designe
 <summary><b>🤖 AI Automation</b> — <a href="https://github.com/akxyverse/ai-automation">ai-automation</a></summary>
 
 <pre>
-<a href="https://github.com/akxyverse/ai-automation">ai-automation</a>
 |
-+-------------> LangChain
++-------------> <b>LangChain</b>
 |
-+-------------> Agentic AI
++-------------> <b>Agentic AI</b>
 |
-+-------------> RAG
++-------------> <b>RAG</b>
 |
-+-------------> n8n
++-------------> <b>n8n</b>
 |
-+-------------> AI APIs
++-------------> <b>AI APIs</b>
 |
-+-------------> AI Tools
++-------------> <b>AI Tools</b>
 |
-+-------------> AI Workflows
++-------------> <b>AI Workflows</b>
 |
-+-------------> FastAPI
++-------------> <b>FastAPI</b>
 |
-+-------------> Flask
++-------------> <b>Flask</b>
 |
-+-------------> Flowise
++-------------> <b>Flowise</b>
 |
-+-------------> Generative AI
++-------------> <b>Generative AI</b>
 |
-+-------------> Hugging Face
++-------------> <b>Hugging Face</b>
 |
-+-------------> LangGraph
++-------------> <b>LangGraph</b>
 |
-+-------------> MCP
++-------------> <b>MCP</b>
 |
-+-------------> Prompt Engineering
++-------------> <b>Prompt Engineering</b>
 |
-+-------------> Vector Databases
++-------------> <b>Vector Databases</b>
 </pre>
 
 </details>
@@ -566,27 +561,26 @@ Akxyverse isn't one repository — it's several, each with a single job, designe
 <summary><b>✍️ Content Studio</b> — <a href="https://github.com/akxyverse/content-studio">content-studio</a></summary>
 
 <pre>
-<a href="https://github.com/akxyverse/content-studio">content-studio</a>
 |
-+-------------> Articles
++-------------> <b>Articles</b>
 |
-+-------------> Blogs
++-------------> <b>Blogs</b>
 |
-+-------------> LinkedIn Posts
++-------------> <b>LinkedIn Posts</b>
 |
-+-------------> Tutorials
++-------------> <b>Tutorials</b>
 |
-+-------------> Banners
++-------------> <b>Banners</b>
 |
-+-------------> Content Ideas
++-------------> <b>Content Ideas</b>
 |
-+-------------> Content Templates
++-------------> <b>Content Templates</b>
 |
-+-------------> GitHub Content
++-------------> <b>GitHub Content</b>
 |
-+-------------> Images
++-------------> <b>Images</b>
 |
-+-------------> Thumbnails
++-------------> <b>Thumbnails</b>
 </pre>
 
 </details>
@@ -595,15 +589,14 @@ Akxyverse isn't one repository — it's several, each with a single job, designe
 <summary><b>🏅 Certifications</b> — <a href="https://github.com/akxyverse/certifications">certifications</a></summary>
 
 <pre>
-<a href="https://github.com/akxyverse/certifications">certifications</a>
 |
-+-------------> Certificates
++-------------> <b>Certificates</b>
 |
-+-------------> Completed
++-------------> <b>Completed</b>
 |
-+-------------> In Progress
++-------------> <b>In Progress</b>
 |
-+-------------> Practice Exams
++-------------> <b>Practice Exams</b>
 </pre>
 
 </details>
@@ -612,43 +605,42 @@ Akxyverse isn't one repository — it's several, each with a single job, designe
 <summary><b>💼 Career Hub</b> — <a href="https://github.com/akxyverse/career-hub">career-hub</a></summary>
 
 <pre>
-<a href="https://github.com/akxyverse/career-hub">career-hub</a>
 |
-+-------------> Resume
++-------------> <b>Resume</b>
 |
-+-------------> Interview Preparation
-                |
-                +-------------> Coding Interviews
-                |
-                +-------------> HR Interviews
-                |
-                +-------------> Technical Interviews
++-------------> <b>Interview Preparation</b>
+|               |
+|               +-------------> Coding Interviews
+|               |
+|               +-------------> HR Interviews
+|               |
+|               +-------------> Technical Interviews
 |
-+-------------> Job Applications
++-------------> <b>Job Applications</b>
 |
-+-------------> LinkedIn
++-------------> <b>LinkedIn</b>
 |
-+-------------> Career Planning
++-------------> <b>Career Planning</b>
 |
-+-------------> Company Research
++-------------> <b>Company Research</b>
 |
-+-------------> Freelancing
++-------------> <b>Freelancing</b>
 |
-+-------------> GitHub Profile
++-------------> <b>GitHub Profile</b>
 |
-+-------------> Internships
-                |
-                +-------------> Bharat Intern
-                |
-                +-------------> CodeClause
-                |
-                +-------------> V-Ramp Automation
++-------------> <b>Internships</b>
+|               |
+|               +-------------> Bharat Intern
+|               |
+|               +-------------> CodeClause
+|               |
+|               +-------------> V-Ramp Automation
 |
-+-------------> Job Preparation
++-------------> <b>Job Preparation</b>
 |
-+-------------> Networking
++-------------> <b>Networking</b>
 |
-+-------------> Salary Research
++-------------> <b>Salary Research</b>
 </pre>
 
 </details>
