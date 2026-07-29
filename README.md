@@ -199,63 +199,13 @@ A live, growing map of real skills — not a static resume.
 
 <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="180" alt="Tech Stack">
 
-**🐍 Languages**
-<br>
-<img src="https://img.shields.io/badge/Python-242938?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python"/>
-<img src="https://img.shields.io/badge/Java-242938?style=for-the-badge&logo=openjdk&logoColor=ED8B00" alt="Java"/>
-<img src="https://img.shields.io/badge/SQL-242938?style=for-the-badge&logo=mysql&logoColor=4479A1" alt="SQL"/>
+<br><br>
 
-<br>
-
-**🗄️ Databases**
-<br>
-<img src="https://img.shields.io/badge/MySQL-242938?style=for-the-badge&logo=mysql&logoColor=4479A1" alt="MySQL"/>
-<img src="https://img.shields.io/badge/PostgreSQL-242938?style=for-the-badge&logo=postgresql&logoColor=4169E1" alt="PostgreSQL"/>
-<img src="https://img.shields.io/badge/Supabase-242938?style=for-the-badge&logo=supabase&logoColor=3ECF8E" alt="Supabase"/>
-
-<br>
-
-**📦 Python Libraries**
-<br>
-<img src="https://img.shields.io/badge/Pandas-242938?style=for-the-badge&logo=pandas&logoColor=E70488" alt="Pandas"/>
-<img src="https://img.shields.io/badge/NumPy-242938?style=for-the-badge&logo=numpy&logoColor=4DABCF" alt="NumPy"/>
-<img src="https://img.shields.io/badge/Matplotlib-242938?style=for-the-badge" alt="Matplotlib"/>
-<img src="https://img.shields.io/badge/Seaborn-242938?style=for-the-badge" alt="Seaborn"/>
-<img src="https://img.shields.io/badge/Plotly-242938?style=for-the-badge&logo=plotly&logoColor=3F4F75" alt="Plotly"/>
-<img src="https://img.shields.io/badge/Streamlit-242938?style=for-the-badge&logo=streamlit&logoColor=FF4B4B" alt="Streamlit"/>
-
-<br>
-
-**📊 Data Visualization & BI**
-<br>
-<img src="https://img.shields.io/badge/Power%20BI-242938?style=for-the-badge" alt="Power BI"/>
-<img src="https://img.shields.io/badge/Tableau-242938?style=for-the-badge" alt="Tableau"/>
-<img src="https://img.shields.io/badge/Microsoft%20Excel-242938?style=for-the-badge" alt="Microsoft Excel"/>
-<img src="https://img.shields.io/badge/Google%20Sheets-242938?style=for-the-badge&logo=googlesheets&logoColor=34A853" alt="Google Sheets"/>
-
-<br>
-
-**🤖 AI & Automation**
-<br>
-<img src="https://img.shields.io/badge/LangChain-242938?style=for-the-badge&logo=langchain&logoColor=1C3C3C" alt="LangChain"/>
-<img src="https://img.shields.io/badge/n8n-242938?style=for-the-badge&logo=n8n&logoColor=EA4B71" alt="n8n"/>
-<img src="https://img.shields.io/badge/Flowise-242938?style=for-the-badge" alt="Flowise"/>
-<img src="https://img.shields.io/badge/Gemini-242938?style=for-the-badge&logo=googlegemini&logoColor=4285F4" alt="Gemini"/>
-<img src="https://img.shields.io/badge/OpenAI-242938?style=for-the-badge" alt="OpenAI"/>
-<img src="https://img.shields.io/badge/MCP-242938?style=for-the-badge&logo=modelcontextprotocol&logoColor=white" alt="MCP"/>
-<img src="https://img.shields.io/badge/RAG-242938?style=for-the-badge" alt="RAG"/>
-
-<br>
-
-**⚙️ Developer Tools**
-<br>
-<img src="https://img.shields.io/badge/Git-242938?style=for-the-badge&logo=git&logoColor=F05032" alt="Git"/>
-<img src="https://img.shields.io/badge/GitHub-242938?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-<img src="https://img.shields.io/badge/VS%20Code-242938?style=for-the-badge&logoColor=007ACC" alt="VS Code"/>
+<img src="./assets/tech-arsenal.svg" width="100%" alt="Tech Arsenal: Languages (Python, Java, SQL), Databases (MySQL, PostgreSQL, Supabase), Python Libraries (Pandas, NumPy, Matplotlib, Seaborn, Plotly, Streamlit), Data Visualization & BI (Power BI, Tableau, Microsoft Excel, Google Sheets), AI & Automation (LangChain, n8n, Flowise, Gemini, OpenAI, MCP, RAG), Developer Tools (Git, GitHub, VS Code)">
 
 </div>
 
-<sub>Icons render wherever the underlying icon library (simple-icons) actually carries that logo — verified individually before this update. Power BI, Tableau, Microsoft Excel, Matplotlib, Seaborn, Flowise, OpenAI, RAG, and VS Code have no icon in that library at all (confirmed against shields.io's live output, not a rendering bug), so those display as clean text-only tiles instead.</sub>
+<sub>Icons are real simple-icons vector data, embedded inline and verified before shipping. Power BI, Tableau, Microsoft Excel, Matplotlib, Seaborn, Flowise, OpenAI, RAG, and VS Code have no icon in that library at all (confirmed against its source repo directly), so those display as clean text-only tiles instead.</sub>
 
 ## 🚀 Featured Project Universe
 
