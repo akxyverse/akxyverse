@@ -146,11 +146,17 @@ Not tutorials that get abandoned halfway — end-to-end work that actually ships
 
 <img src="./assets/divider-accent.svg" width="32" alt="">
 
-➤ <a href="https://github.com/akxyverse/data-analytics-knowledge-system"><img src="https://img.shields.io/badge/Knowledge%20Hub-8b5cf6?style=for-the-badge" alt="Knowledge Hub"/></a>
+<br>
 
-➤ <a href="https://github.com/akxyverse/data-analytics-resources"><img src="https://img.shields.io/badge/Learning%20Resources-8b5cf6?style=for-the-badge" alt="Learning Resources"/></a>
+<div align="left">
 
-➤ <a href="https://github.com/akxyverse/data-analytics-projects"><img src="https://img.shields.io/badge/Projects-8b5cf6?style=for-the-badge" alt="Projects"/></a>
+<a href="https://github.com/akxyverse/data-analytics-knowledge-system"><img src="https://img.shields.io/badge/%E2%9E%A4%20Knowledge%20Hub-8b5cf6?style=for-the-badge" alt="Knowledge Hub"/></a>
+
+<a href="https://github.com/akxyverse/data-analytics-resources"><img src="https://img.shields.io/badge/%E2%9E%A4%20Learning%20Resources-242938?style=for-the-badge" alt="Learning Resources"/></a>
+
+<a href="https://github.com/akxyverse/data-analytics-projects"><img src="https://img.shields.io/badge/%E2%9E%A4%20Projects-242938?style=for-the-badge" alt="Projects"/></a>
+
+</div>
 
 <br>
 
@@ -167,11 +173,17 @@ Not tutorials that get abandoned halfway — end-to-end work that actually ships
 
 <img src="./assets/divider-accent.svg" width="32" alt="">
 
-➤ <a href="#-featured-project-universe"><img src="https://img.shields.io/badge/Featured%20Projects-8b5cf6?style=for-the-badge" alt="Featured Projects"/></a>
+<br>
 
-➤ <a href="https://github.com/akxyverse/certifications"><img src="https://img.shields.io/badge/Certifications-8b5cf6?style=for-the-badge" alt="Certifications"/></a>
+<div align="left">
 
-➤ <a href="https://github.com/akxyverse/career-hub"><img src="https://img.shields.io/badge/Career%20Hub-8b5cf6?style=for-the-badge" alt="Career Hub"/></a>
+<a href="#-featured-project-universe"><img src="https://img.shields.io/badge/%E2%9E%A4%20Featured%20Projects-8b5cf6?style=for-the-badge" alt="Featured Projects"/></a>
+
+<a href="https://github.com/akxyverse/certifications"><img src="https://img.shields.io/badge/%E2%9E%A4%20Certifications-242938?style=for-the-badge" alt="Certifications"/></a>
+
+<a href="https://github.com/akxyverse/career-hub"><img src="https://img.shields.io/badge/%E2%9E%A4%20Career%20Hub-242938?style=for-the-badge" alt="Career Hub"/></a>
+
+</div>
 
 <br>
 
@@ -188,11 +200,17 @@ Not tutorials that get abandoned halfway — end-to-end work that actually ships
 
 <img src="./assets/divider-accent.svg" width="32" alt="">
 
-➤ <a href="https://github.com/akxyverse/data-analytics-projects"><img src="https://img.shields.io/badge/Projects-8b5cf6?style=for-the-badge" alt="Projects"/></a>
+<br>
 
-➤ <a href="https://github.com/akxyverse/datasets"><img src="https://img.shields.io/badge/Datasets-8b5cf6?style=for-the-badge" alt="Datasets"/></a>
+<div align="left">
 
-➤ <a href="https://github.com/akxyverse/data-analytics-knowledge-system"><img src="https://img.shields.io/badge/Knowledge%20Hub-8b5cf6?style=for-the-badge" alt="Knowledge Hub"/></a>
+<a href="https://github.com/akxyverse/data-analytics-projects"><img src="https://img.shields.io/badge/%E2%9E%A4%20Projects-8b5cf6?style=for-the-badge" alt="Projects"/></a>
+
+<a href="https://github.com/akxyverse/datasets"><img src="https://img.shields.io/badge/%E2%9E%A4%20Datasets-242938?style=for-the-badge" alt="Datasets"/></a>
+
+<a href="https://github.com/akxyverse/data-analytics-knowledge-system"><img src="https://img.shields.io/badge/%E2%9E%A4%20Knowledge%20Hub-242938?style=for-the-badge" alt="Knowledge Hub"/></a>
+
+</div>
 
 <br>
 
@@ -209,9 +227,15 @@ Not tutorials that get abandoned halfway — end-to-end work that actually ships
 
 <img src="./assets/divider-accent.svg" width="32" alt="">
 
-➤ <a href="https://github.com/akxyverse/ai-automation"><img src="https://img.shields.io/badge/AI%20Automation-8b5cf6?style=for-the-badge" alt="AI Automation"/></a>
+<br>
 
-➤ <a href="https://github.com/akxyverse/data-analytics-projects"><img src="https://img.shields.io/badge/Projects-8b5cf6?style=for-the-badge" alt="Projects"/></a>
+<div align="left">
+
+<a href="https://github.com/akxyverse/ai-automation"><img src="https://img.shields.io/badge/%E2%9E%A4%20AI%20Automation-8b5cf6?style=for-the-badge" alt="AI Automation"/></a>
+
+<a href="https://github.com/akxyverse/data-analytics-projects"><img src="https://img.shields.io/badge/%E2%9E%A4%20Projects-242938?style=for-the-badge" alt="Projects"/></a>
+
+</div>
 
 <br>
 
