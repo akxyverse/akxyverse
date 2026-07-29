@@ -124,75 +124,96 @@ Not tutorials that get abandoned halfway — end-to-end work that actually ships
 
 ---
 
-## 🚀 Choose Your Journey
+## ⭐ Start Here
 
 <div align="center">
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/897cd757-ea1f-492d-aaf9-6d1674177e08" width="180" alt="Find & Search">
-
-<br>
 
 **Pick the path that matches you.**
 
-<br>
+<br><br>
 
 <table>
 <tr>
-<td width="25%" align="center" valign="middle">
+<td width="25%" align="center" valign="top">
+
+<br>
 
 ### 🎓 Learning Path
 
-Learning Data Analytics<br>from beginner to advanced.
+<img src="./assets/divider-accent.svg" width="64" alt="">
+
+<sub>Learning Data Analytics<br>from beginner to advanced.</sub>
+
+<img src="./assets/divider-accent.svg" width="32" alt="">
+
+➤ <a href="https://github.com/akxyverse/data-analytics-knowledge-system"><img src="https://img.shields.io/badge/Knowledge%20Hub-8b5cf6?style=for-the-badge" alt="Knowledge Hub"/></a>
+
+➤ <a href="https://github.com/akxyverse/data-analytics-resources"><img src="https://img.shields.io/badge/Learning%20Resources-8b5cf6?style=for-the-badge" alt="Learning Resources"/></a>
+
+➤ <a href="https://github.com/akxyverse/data-analytics-projects"><img src="https://img.shields.io/badge/Projects-8b5cf6?style=for-the-badge" alt="Projects"/></a>
 
 <br>
 
-➤ <a href="https://github.com/akxyverse/data-analytics-knowledge-system"><img src="https://img.shields.io/badge/Knowledge%20Hub-8b5cf6?style=for-the-badge" alt="Knowledge Hub"/></a>
-<br><br>
-➤ <a href="https://github.com/akxyverse/data-analytics-resources"><img src="https://img.shields.io/badge/Learning%20Resources-8b5cf6?style=for-the-badge" alt="Learning Resources"/></a>
-<br><br>
-➤ <a href="https://github.com/akxyverse/data-analytics-projects"><img src="https://img.shields.io/badge/Projects-8b5cf6?style=for-the-badge" alt="Projects"/></a>
-
 </td>
-<td width="25%" align="center" valign="middle">
+<td width="25%" align="center" valign="top">
+
+<br>
 
 ### 💼 Hiring? Start Here
 
-Evaluate my skills, projects,<br>and experience.
+<img src="./assets/divider-accent.svg" width="64" alt="">
+
+<sub>Evaluate my skills, projects,<br>and experience.</sub>
+
+<img src="./assets/divider-accent.svg" width="32" alt="">
+
+➤ <a href="#-featured-project-universe"><img src="https://img.shields.io/badge/Featured%20Projects-8b5cf6?style=for-the-badge" alt="Featured Projects"/></a>
+
+➤ <a href="https://github.com/akxyverse/certifications"><img src="https://img.shields.io/badge/Certifications-8b5cf6?style=for-the-badge" alt="Certifications"/></a>
+
+➤ <a href="https://github.com/akxyverse/career-hub"><img src="https://img.shields.io/badge/Career%20Hub-8b5cf6?style=for-the-badge" alt="Career Hub"/></a>
 
 <br>
 
-➤ <a href="#-featured-project-universe"><img src="https://img.shields.io/badge/Featured%20Projects-8b5cf6?style=for-the-badge" alt="Featured Projects"/></a>
-<br><br>
-➤ <a href="https://github.com/akxyverse/certifications"><img src="https://img.shields.io/badge/Certifications-8b5cf6?style=for-the-badge" alt="Certifications"/></a>
-<br><br>
-➤ <a href="https://github.com/akxyverse/career-hub"><img src="https://img.shields.io/badge/Career%20Hub-8b5cf6?style=for-the-badge" alt="Career Hub"/></a>
-
 </td>
-<td width="25%" align="center" valign="middle">
+<td width="25%" align="center" valign="top">
+
+<br>
 
 ### 📊 Analytics Portfolio
 
-Explore dashboards, datasets,<br>and analytics work.
+<img src="./assets/divider-accent.svg" width="64" alt="">
+
+<sub>Explore dashboards, datasets,<br>and analytics work.</sub>
+
+<img src="./assets/divider-accent.svg" width="32" alt="">
+
+➤ <a href="https://github.com/akxyverse/data-analytics-projects"><img src="https://img.shields.io/badge/Projects-8b5cf6?style=for-the-badge" alt="Projects"/></a>
+
+➤ <a href="https://github.com/akxyverse/datasets"><img src="https://img.shields.io/badge/Datasets-8b5cf6?style=for-the-badge" alt="Datasets"/></a>
+
+➤ <a href="https://github.com/akxyverse/data-analytics-knowledge-system"><img src="https://img.shields.io/badge/Knowledge%20Hub-8b5cf6?style=for-the-badge" alt="Knowledge Hub"/></a>
 
 <br>
 
-➤ <a href="https://github.com/akxyverse/data-analytics-projects"><img src="https://img.shields.io/badge/Projects-8b5cf6?style=for-the-badge" alt="Projects"/></a>
-<br><br>
-➤ <a href="https://github.com/akxyverse/datasets"><img src="https://img.shields.io/badge/Datasets-8b5cf6?style=for-the-badge" alt="Datasets"/></a>
-<br><br>
-➤ <a href="https://github.com/akxyverse/data-analytics-knowledge-system"><img src="https://img.shields.io/badge/Knowledge%20Hub-8b5cf6?style=for-the-badge" alt="Knowledge Hub"/></a>
-
 </td>
-<td width="25%" align="center" valign="middle">
+<td width="25%" align="center" valign="top">
+
+<br>
 
 ### 🤖 AI & Automation
 
-Discover AI automation,<br>agents, and workflows.
+<img src="./assets/divider-accent.svg" width="64" alt="">
 
-<br>
+<sub>Discover AI automation,<br>agents, and workflows.</sub>
+
+<img src="./assets/divider-accent.svg" width="32" alt="">
 
 ➤ <a href="https://github.com/akxyverse/ai-automation"><img src="https://img.shields.io/badge/AI%20Automation-8b5cf6?style=for-the-badge" alt="AI Automation"/></a>
-<br><br>
+
 ➤ <a href="https://github.com/akxyverse/data-analytics-projects"><img src="https://img.shields.io/badge/Projects-8b5cf6?style=for-the-badge" alt="Projects"/></a>
+
+<br>
 
 </td>
 </tr>
