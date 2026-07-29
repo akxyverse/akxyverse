@@ -50,40 +50,40 @@ Building a connected ecosystem of real, working data projects — not just a lis
 
 ### 👋 Meet the Creator
 
-→ **Hi, I'm Akash Yadav.**
+➤ **Hi, I'm Akash Yadav.**
 
 I turn messy, real-world data into insights people can actually act on — through dashboards, automation, and AI-assisted workflows. Most of what I build lives here, in the open, as I learn.
 
-→ **Based In:** India 🇮🇳
+➤ **Based In:** India 🇮🇳
 
-→ **Role:** Aspiring Data Analyst
+➤ **Role:** Aspiring Data Analyst
 
-→ **Focus:** Data Analytics, Business Intelligence, Python, SQL & AI Automation
+➤ **Focus:** Data Analytics, Business Intelligence, Python, SQL & AI Automation
 
-→ **Currently Building:** Akxyverse
+➤ **Currently Building:** Akxyverse
 
-→ **Goal:** Build practical analytics solutions that help people make better decisions.
+➤ **Goal:** Build practical analytics solutions that help people make better decisions.
 
 <br clear="right">
 
 ### 🚀 Explore My Work
 
-→ **Projects**
+➤ **Projects**
 Hands-on analytics solutions solving real business problems.
 
-→ **Dashboards**
+➤ **Dashboards**
 Interactive Power BI and Tableau reports.
 
-→ **Guidebooks**
+➤ **Guidebooks**
 Curated roadmaps, notes and learning resources.
 
-→ **AI Workflows**
+➤ **AI Workflows**
 Automation using modern AI tools.
 
-→ **Datasets**
+➤ **Datasets**
 Real and practice datasets used throughout projects.
 
-→ **Career Resources**
+➤ **Career Resources**
 Resume, interview preparation and job search materials.
 
 ### 🎯 Mission
@@ -115,7 +115,7 @@ Not tutorials that get abandoned halfway — end-to-end work that actually ships
 ### 🎓 Student
 *Learning data analytics from scratch*
 
-[Knowledge Hub](https://github.com/akxyverse/data-analytics-knowledge-system) → [Learning Resources](https://github.com/akxyverse/data-analytics-resources) → [Projects](https://github.com/akxyverse/data-analytics-projects)
+[Knowledge Hub](https://github.com/akxyverse/data-analytics-knowledge-system) ➤ [Learning Resources](https://github.com/akxyverse/data-analytics-resources) ➤ [Projects](https://github.com/akxyverse/data-analytics-projects)
 
 </td>
 <td width="25%" align="center" valign="top">
@@ -123,7 +123,7 @@ Not tutorials that get abandoned halfway — end-to-end work that actually ships
 ### 💼 Recruiter
 *Evaluating my work*
 
-[Featured Project Universe](#-featured-project-universe) → [Certifications](https://github.com/akxyverse/certifications) → [Career Hub](https://github.com/akxyverse/career-hub)
+[Featured Project Universe](#-featured-project-universe) ➤ [Certifications](https://github.com/akxyverse/certifications) ➤ [Career Hub](https://github.com/akxyverse/career-hub)
 
 </td>
 <td width="25%" align="center" valign="top">
@@ -131,7 +131,7 @@ Not tutorials that get abandoned halfway — end-to-end work that actually ships
 ### 📊 Fellow Analyst
 *Looking for projects, tools, techniques*
 
-[Projects](https://github.com/akxyverse/data-analytics-projects) → [Datasets](https://github.com/akxyverse/datasets) → [Knowledge Hub](https://github.com/akxyverse/data-analytics-knowledge-system)
+[Projects](https://github.com/akxyverse/data-analytics-projects) ➤ [Datasets](https://github.com/akxyverse/datasets) ➤ [Knowledge Hub](https://github.com/akxyverse/data-analytics-knowledge-system)
 
 </td>
 <td width="25%" align="center" valign="top">
@@ -139,7 +139,7 @@ Not tutorials that get abandoned halfway — end-to-end work that actually ships
 ### 🤖 AI Enthusiast
 *Interested in automation*
 
-[AI Automation](https://github.com/akxyverse/ai-automation) → [Projects](https://github.com/akxyverse/data-analytics-projects)
+[AI Automation](https://github.com/akxyverse/ai-automation) ➤ [Projects](https://github.com/akxyverse/data-analytics-projects)
 
 </td>
 </tr>
@@ -169,7 +169,7 @@ Real, working analytics products, not a static list — new ones ship regularly,
 
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0b335028-1d3d-4ee5-b5b3-a373d499be7e" width="260" alt="Cool Stats on Laptop">
 
-**🚀 [Browse All Projects →](https://github.com/akxyverse/data-analytics-projects)**
+**🚀 [Browse All Projects ➤](https://github.com/akxyverse/data-analytics-projects)**
 
 </div>
 
