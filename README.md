@@ -374,37 +374,31 @@ Everything I build, learn, and share is organized into dedicated repositories. E
 <pre>
 <a href="https://github.com/akxyverse/data-analytics-resources">data-analytics-resources</a>
 │
-├-------------▶  <b><a href="https://github.com/akxyverse/data-analytics-resources/tree/main/Guidebooks">Guidebooks</a></b>
+├-------------▶  <b><a href="https://github.com/akxyverse/data-analytics-resources/tree/main/Excel">Excel</a></b>
 │                │
-│                └-------------▶  <a href="https://github.com/akxyverse/data-analytics-resources/tree/main/Guidebooks/Excel%20Roadmap%20Guide">Excel Roadmap Guide</a>
+│                └-------------▶  <a href="https://github.com/akxyverse/data-analytics-resources/tree/main/Excel/Guidebooks">Guidebooks</a>
+│                                 │
+│                                 ├- - - - -▶  <a href="https://github.com/akxyverse/data-analytics-resources/tree/main/Excel/Guidebooks/Excel%20Roadmap%20Guide">Excel Roadmap Guide</a>
+│                                 │
+│                                 ├- - - - -▶  <a href="https://github.com/akxyverse/data-analytics-resources/tree/main/Excel/Guidebooks/Excel%20Syllabus%20Notebook">Excel Syllabus Notebook</a>
+│                                 │
+│                                 └- - - - -▶  <a href="https://github.com/akxyverse/data-analytics-resources/tree/main/Excel/Guidebooks/Excel%20Ultimate%20Guidebook">Excel Ultimate Guidebook</a>
 │
-├-------------▶  <b><a href="https://github.com/akxyverse/data-analytics-resources/tree/main/Courses">Courses</a></b>
+├-------------▶  <b><a href="https://github.com/akxyverse/data-analytics-resources/tree/main/Data%20Analytics">Data Analytics</a></b>
+│                │
+│                └-------------▶  <a href="https://github.com/akxyverse/data-analytics-resources/tree/main/Data%20Analytics/Guidebooks">Guidebooks</a>
+│                                 │
+│                                 └- - - - -▶  <a href="https://github.com/akxyverse/data-analytics-resources/tree/main/Data%20Analytics/Guidebooks/Data%20Analyst%20Workflow%20Guidebook">Data Analyst Workflow Guidebook</a>
 │
-├-------------▶  <b><a href="https://github.com/akxyverse/data-analytics-resources/tree/main/Cheat%20Sheets">Cheat Sheets</a></b>
+├-------------▶  <b><a href="https://github.com/akxyverse/data-analytics-resources/tree/main/SQL">SQL</a></b>
 │
-├-------------▶  <b><a href="https://github.com/akxyverse/data-analytics-resources/tree/main/Books">Books</a></b>
+├-------------▶  <b><a href="https://github.com/akxyverse/data-analytics-resources/tree/main/Python">Python</a></b>
 │
-├-------------▶  <b><a href="https://github.com/akxyverse/data-analytics-resources/tree/main/Blogs">Blogs</a></b>
+├-------------▶  <b><a href="https://github.com/akxyverse/data-analytics-resources/tree/main/Power%20BI">Power BI</a></b>
 │
-├-------------▶  <b><a href="https://github.com/akxyverse/data-analytics-resources/tree/main/External%20Study%20Resources">External Study Resources</a></b>
+├-------------▶  <b><a href="https://github.com/akxyverse/data-analytics-resources/tree/main/Tableau">Tableau</a></b>
 │
-├-------------▶  <b><a href="https://github.com/akxyverse/data-analytics-resources/tree/main/Newsletters">Newsletters</a></b>
-│
-├-------------▶  <b><a href="https://github.com/akxyverse/data-analytics-resources/tree/main/Official%20Documentation">Official Documentation</a></b>
-│
-├-------------▶  <b><a href="https://github.com/akxyverse/data-analytics-resources/tree/main/PDFs">PDFs</a></b>
-│
-├-------------▶  <b><a href="https://github.com/akxyverse/data-analytics-resources/tree/main/References">References</a></b>
-│
-├-------------▶  <b><a href="https://github.com/akxyverse/data-analytics-resources/tree/main/Research%20Papers">Research Papers</a></b>
-│
-├-------------▶  <b><a href="https://github.com/akxyverse/data-analytics-resources/tree/main/Templates">Templates</a></b>
-│
-├-------------▶  <b><a href="https://github.com/akxyverse/data-analytics-resources/tree/main/Videos">Videos</a></b>
-│
-├-------------▶  <b><a href="https://github.com/akxyverse/data-analytics-resources/tree/main/Websites">Websites</a></b>
-│
-└-------------▶  <b><a href="https://github.com/akxyverse/data-analytics-resources/tree/main/White%20Papers">White Papers</a></b>
+└-------------▶  <b><a href="https://github.com/akxyverse/data-analytics-resources/tree/main/External%20Study%20Resources">External Study Resources</a></b>
 </pre>
 
 </details>
