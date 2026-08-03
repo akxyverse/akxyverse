@@ -698,9 +698,9 @@ Everything I build, learn, and share is organized into dedicated repositories. E
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=60&color=0:38bdf8,100:8b5cf6&section=header" width="100%" alt=""/>
 
-## 🚀 Continue Exploring
+## 🤝 Let's Connect
 
-➜ **Thanks for exploring the Akxyverse.** If you enjoyed this ecosystem, feel free to connect, explore more repositories, or follow my journey as I continue building in public.
+➜ **Thank you for visiting Akxyverse.** Whether you're a recruiter, fellow developer, data professional, or learner, I'd be happy to connect, collaborate, and share ideas.
 
 <div align="center">
 
@@ -712,7 +712,7 @@ Everything I build, learn, and share is organized into dedicated repositories. E
 
 <br><br>
 
-⭐ **Found something useful?** Consider starring the repositories that helped you.
+⭐ **If you found this repository helpful, consider giving it a star.** Your support helps me continue building and sharing open-source projects.
 
 <sub>Building. Learning. Sharing. One repository at a time.</sub>
 
