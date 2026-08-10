@@ -4,15 +4,11 @@
 
 <br>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1200&color=38BDF8&center=true&vCenter=true&width=620&lines=Turning+Raw+Data+into+Clear+Decisions+%F0%9F%93%8A;Python+%C2%B7+SQL+%C2%B7+Power+BI+%C2%B7+Tableau;Building+in+Public%2C+One+Project+at+a+Time+%F0%9F%9A%80" alt="Turning raw data into clear decisions · Python, SQL, Power BI, Tableau · Building in public, one project at a time" />
-</a>
+<img src="./assets/tagline-data-insights-decisions.svg" width="100%" alt="DATA — collect and clean · INSIGHTS — analyse and model · DECISIONS — act and measure">
 
 <br><br>
 
 # <img src="./assets/name-wordmark.svg" width="600" alt="Akash Yadav — Analytics, Intelligence, Automation">
-
-**Turning numbers into decisions — one dashboard at a time.**
 
 <br>
 
