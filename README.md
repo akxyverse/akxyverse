@@ -1,14 +1,10 @@
 <div align="center">
 
-<img src="./assets/hero-data-analyst.png" alt="Akash Yadav — Data Analyst. Turning data into decisions. Analytics, Intelligence, Automation. Excel, SQL, Python, Power BI, Tableau." width="100%">
+# <img src="./assets/hero-data-analyst.png" alt="Akash Yadav — Data Analyst. Turning data into decisions. Analytics, Intelligence, Automation. Excel, SQL, Python, Power BI, Tableau." width="82%">
 
 <br>
 
-<img src="./assets/tagline-data-insights-decisions.svg" width="100%" alt="DATA — collect and clean · INSIGHTS — analyse and model · DECISIONS — act and measure">
-
-<br><br>
-
-# <img src="./assets/name-wordmark.svg" width="600" alt="Akash Yadav — Analytics, Intelligence, Automation">
+<img src="./assets/tagline-data-insights-decisions.svg" width="82%" alt="DATA — collect and clean · INSIGHTS — analyse and model · DECISIONS — act and measure">
 
 <br>
 
@@ -21,11 +17,11 @@
 <br>
 
 <img src="https://komarev.com/ghpvc/?username=akxyverse&label=Profile%20Views&color=38bdf8&style=for-the-badge" alt="profile views"/>
-&nbsp;•&nbsp;
+&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/akxyverse?tab=followers">
   <img src="https://img.shields.io/github/followers/akxyverse?label=Followers&style=for-the-badge&color=22d3ee" alt="followers"/>
 </a>
-&nbsp;•&nbsp;
+&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fakxyverse%2Fakxyverse%2Fmain%2F.github%2Fbadges%2Frepo-count.json&style=for-the-badge" alt="public repositories"/>
 
 <br><br><br>
@@ -34,31 +30,33 @@
 
 <br>
 
-<a href="https://github.com/akxyverse/data-analytics-projects">
-  <img src="https://img.shields.io/badge/%F0%9F%9A%80%20Projects-38bdf8?style=for-the-badge" alt="Projects"/>
-</a>
-&nbsp;
-<a href="https://github.com/akxyverse/data-analytics-knowledge-system">
-  <img src="https://img.shields.io/badge/%F0%9F%A7%A0%20Knowledge%20Hub-22d3ee?style=for-the-badge" alt="Knowledge Hub"/>
-</a>
-&nbsp;
-<a href="https://github.com/akxyverse/ai-automation">
-  <img src="https://img.shields.io/badge/%F0%9F%A4%96%20AI%20Automation-8b5cf6?style=for-the-badge" alt="AI Automation"/>
-</a>
-
-<br><br>
-
-<a href="https://github.com/akxyverse/data-analytics-resources">
-  <img src="https://img.shields.io/badge/%F0%9F%93%9A%20Learning%20Resources-22d3ee?style=for-the-badge" alt="Learning Resources"/>
-</a>
-&nbsp;
-<a href="https://github.com/akxyverse/career-hub">
-  <img src="https://img.shields.io/badge/%F0%9F%92%BC%20Career%20Hub-f59e0b?style=for-the-badge" alt="Career Hub"/>
-</a>
-&nbsp;
-<a href="https://github.com/akxyverse/certifications">
-  <img src="https://img.shields.io/badge/%F0%9F%8F%86%20Certifications-f472b6?style=for-the-badge" alt="Certifications"/>
-</a>
+<!-- Six destinations on a fixed 3-column grid. The table enforces equal
+     column widths so the badges align in two tidy rows instead of centring
+     each row independently at its own natural width. Destinations unchanged. -->
+<table width="100%">
+<tr>
+<td width="33.33%" align="center">
+<a href="https://github.com/akxyverse/data-analytics-projects"><img src="https://img.shields.io/badge/%F0%9F%9A%80%20Projects-38bdf8?style=for-the-badge" alt="Projects"/></a>
+</td>
+<td width="33.33%" align="center">
+<a href="https://github.com/akxyverse/data-analytics-knowledge-system"><img src="https://img.shields.io/badge/%F0%9F%A7%A0%20Knowledge%20Hub-22d3ee?style=for-the-badge" alt="Knowledge Hub"/></a>
+</td>
+<td width="33.33%" align="center">
+<a href="https://github.com/akxyverse/ai-automation"><img src="https://img.shields.io/badge/%F0%9F%A4%96%20AI%20Automation-8b5cf6?style=for-the-badge" alt="AI Automation"/></a>
+</td>
+</tr>
+<tr>
+<td width="33.33%" align="center">
+<a href="https://github.com/akxyverse/data-analytics-resources"><img src="https://img.shields.io/badge/%F0%9F%93%9A%20Learning%20Resources-22d3ee?style=for-the-badge" alt="Learning Resources"/></a>
+</td>
+<td width="33.33%" align="center">
+<a href="https://github.com/akxyverse/career-hub"><img src="https://img.shields.io/badge/%F0%9F%92%BC%20Career%20Hub-f59e0b?style=for-the-badge" alt="Career Hub"/></a>
+</td>
+<td width="33.33%" align="center">
+<a href="https://github.com/akxyverse/certifications"><img src="https://img.shields.io/badge/%F0%9F%8F%86%20Certifications-f472b6?style=for-the-badge" alt="Certifications"/></a>
+</td>
+</tr>
+</table>
 
 <br><br>
 
@@ -112,15 +110,17 @@ Resume, interview preparation and job search materials.
 
 ### 🎯 Mission
 
-> **Build projects that solve real problems.**
+> **Turn complex data into clear insights that drive smarter decisions.**
 
-Not tutorials that get abandoned halfway — end-to-end work that actually ships, gets documented honestly, and hopefully helps someone else learn a little faster too.
+Data is only worth what someone can act on. Every project here follows the same arc — raw data, honest analysis, a decision it supports, and the impact it was meant to have.
 
 ### 🧠 Currently Learning
 
 <img src="https://img.shields.io/badge/Machine%20Learning-242938?style=for-the-badge&logoColor=8b5cf6" alt="Machine Learning"/>
-<img src="https://img.shields.io/badge/Advanced%20SQL-242938?style=for-the-badge&logoColor=38bdf8" alt="Advanced SQL"/>
-<img src="https://img.shields.io/badge/DAX-242938?style=for-the-badge&logoColor=22d3ee" alt="DAX"/>
+<img src="https://img.shields.io/badge/Advanced%20Statistics-242938?style=for-the-badge&logoColor=38bdf8" alt="Advanced Statistics"/>
+<img src="https://img.shields.io/badge/Generative%20AI-242938?style=for-the-badge&logoColor=22d3ee" alt="Generative AI"/>
+<img src="https://img.shields.io/badge/Agentic%20AI-242938?style=for-the-badge&logoColor=a78bfa" alt="Agentic AI"/>
+<img src="https://img.shields.io/badge/Data%20Engineering%20Fundamentals-242938?style=for-the-badge&logoColor=f472b6" alt="Data Engineering Fundamentals"/>
 
 ---
 

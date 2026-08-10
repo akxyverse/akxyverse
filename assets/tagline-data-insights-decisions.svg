@@ -21,6 +21,24 @@
       <stop offset="100%" stop-color="#38bdf8" stop-opacity="0"/>
     </radialGradient>
 
+    <!-- One halo per stage so each highlight glows in its own accent while
+         using the identical treatment: same radius logic, same opacity ramp. -->
+    <radialGradient id="tglowB" cx="50%" cy="50%" r="50%">
+      <stop offset="0%"   stop-color="#38bdf8" stop-opacity=".42"/>
+      <stop offset="60%"  stop-color="#38bdf8" stop-opacity=".12"/>
+      <stop offset="100%" stop-color="#38bdf8" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="tglowC" cx="50%" cy="50%" r="50%">
+      <stop offset="0%"   stop-color="#22d3ee" stop-opacity=".42"/>
+      <stop offset="60%"  stop-color="#22d3ee" stop-opacity=".12"/>
+      <stop offset="100%" stop-color="#22d3ee" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="tglowV" cx="50%" cy="50%" r="50%">
+      <stop offset="0%"   stop-color="#a78bfa" stop-opacity=".42"/>
+      <stop offset="60%"  stop-color="#a78bfa" stop-opacity=".12"/>
+      <stop offset="100%" stop-color="#a78bfa" stop-opacity="0"/>
+    </radialGradient>
+
     <pattern id="tgrid" width="25" height="25" patternUnits="userSpaceOnUse">
       <path d="M25 0H0V25" fill="none" stroke="#16304d" stroke-width=".5" stroke-opacity=".5"/>
     </pattern>
@@ -32,28 +50,35 @@
     <style>
       /* Every word is painted at full opacity in the base state, so if a
          renderer ignores CSS the complete message still reads
-         DATA -> INSIGHTS -> DECISIONS. Animation only adds emphasis. */
+         DATA -> INSIGHTS -> DECISIONS. Animation only adds emphasis.
+
+         Delays are NEGATIVE on purpose. With a positive delay an element
+         sits in its BASE state until the delay elapses, so INSIGHTS and
+         DECISIONS rendered permanently bright for the first 3s and 6s and
+         looked favoured over DATA. A negative delay starts each stage
+         already mid-cycle, so all three share one identical 9s rotation and
+         each gets the same 1.6s in the spotlight. */
       .stage      { animation: cycle 9s ease-in-out infinite; }
-      .s2         { animation-delay: 3s; }
-      .s3         { animation-delay: 6s; }
+      .s2         { animation-delay: -6s; }
+      .s3         { animation-delay: -3s; }
       .halo       { opacity: 0; animation: halo 9s ease-in-out infinite; }
-      .h2         { animation-delay: 3s; }
-      .h3         { animation-delay: 6s; }
+      .h2         { animation-delay: -6s; }
+      .h3         { animation-delay: -3s; }
       .spark      { animation: spark 9s linear infinite; }
-      .p2         { animation-delay: 3s; }
-      .p3         { animation-delay: 6s; }
+      .p2         { animation-delay: -6s; }
+      .p3         { animation-delay: -3s; }
       .drift      { animation: drift 6s ease-in-out infinite alternate; }
-      .d2         { animation-delay: 2s; }
-      .d3         { animation-delay: 4s; }
+      .d2         { animation-delay: -4s; }
+      .d3         { animation-delay: -2s; }
 
       @keyframes cycle {
-        0%, 4%   { opacity: .48; }
-        10%, 28% { opacity: 1; }
-        36%,100% { opacity: .48; }
+        0%,  4%  { opacity: .62; }
+        11%, 29% { opacity: 1; }
+        36%,100% { opacity: .62; }
       }
       @keyframes halo {
-        0%, 4%   { opacity: 0; }
-        12%, 26% { opacity: .85; }
+        0%,  4%  { opacity: 0; }
+        13%, 27% { opacity: 1; }
         36%,100% { opacity: 0; }
       }
       @keyframes spark {
@@ -100,7 +125,7 @@
 
     <!-- ── DATA ─────────────────────────────────────────────────── -->
     <g class="stage">
-      <circle class="halo" cx="170" cy="62" r="52" fill="url(#tglow)"/>
+      <circle class="halo" cx="170" cy="62" r="54" fill="url(#tglowB)"/>
       <!-- raw data: a small table with a header row and two populated cells,
            feeding three minimal bars -->
       <g class="drift" opacity=".9">
@@ -130,7 +155,7 @@
 
     <!-- ── INSIGHTS ─────────────────────────────────────────────── -->
     <g class="stage s2">
-      <circle class="halo h2" cx="500" cy="62" r="56" fill="url(#tglow)"/>
+      <circle class="halo h2" cx="500" cy="62" r="54" fill="url(#tglowC)"/>
       <!-- analysis: a trend line under examination, with the significant
            point picked out beneath the lens -->
       <g class="drift d2" opacity=".9">
@@ -151,7 +176,7 @@
 
     <!-- ── DECISIONS ────────────────────────────────────────────── -->
     <g class="stage s3">
-      <circle class="halo h3" cx="825" cy="62" r="58" fill="url(#tglow)"/>
+      <circle class="halo h3" cx="825" cy="62" r="54" fill="url(#tglowV)"/>
       <!-- business impact: a clean upward trend arriving on target -->
       <g class="drift d3" opacity=".9">
         <polyline points="801,39 810,33 818,35 828,26" fill="none"
