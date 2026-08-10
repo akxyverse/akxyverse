@@ -11,27 +11,27 @@
     </linearGradient>
 
     <linearGradient id="tflow" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%"   stop-color="#38bdf8"/>
-      <stop offset="50%"  stop-color="#22d3ee"/>
+      <stop offset="0%"   stop-color="#3b82f6"/>
+      <stop offset="50%"  stop-color="#2dd4bf"/>
       <stop offset="100%" stop-color="#a78bfa"/>
     </linearGradient>
 
     <radialGradient id="tglow" cx="50%" cy="50%" r="50%">
-      <stop offset="0%"   stop-color="#38bdf8" stop-opacity=".26"/>
-      <stop offset="100%" stop-color="#38bdf8" stop-opacity="0"/>
+      <stop offset="0%"   stop-color="#3b82f6" stop-opacity=".26"/>
+      <stop offset="100%" stop-color="#3b82f6" stop-opacity="0"/>
     </radialGradient>
 
     <!-- One halo per stage so each highlight glows in its own accent while
          using the identical treatment: same radius logic, same opacity ramp. -->
     <radialGradient id="tglowB" cx="50%" cy="50%" r="50%">
-      <stop offset="0%"   stop-color="#38bdf8" stop-opacity=".42"/>
-      <stop offset="60%"  stop-color="#38bdf8" stop-opacity=".12"/>
-      <stop offset="100%" stop-color="#38bdf8" stop-opacity="0"/>
+      <stop offset="0%"   stop-color="#3b82f6" stop-opacity=".42"/>
+      <stop offset="60%"  stop-color="#3b82f6" stop-opacity=".12"/>
+      <stop offset="100%" stop-color="#3b82f6" stop-opacity="0"/>
     </radialGradient>
     <radialGradient id="tglowC" cx="50%" cy="50%" r="50%">
-      <stop offset="0%"   stop-color="#22d3ee" stop-opacity=".42"/>
-      <stop offset="60%"  stop-color="#22d3ee" stop-opacity=".12"/>
-      <stop offset="100%" stop-color="#22d3ee" stop-opacity="0"/>
+      <stop offset="0%"   stop-color="#2dd4bf" stop-opacity=".42"/>
+      <stop offset="60%"  stop-color="#2dd4bf" stop-opacity=".12"/>
+      <stop offset="100%" stop-color="#2dd4bf" stop-opacity="0"/>
     </radialGradient>
     <radialGradient id="tglowV" cx="50%" cy="50%" r="50%">
       <stop offset="0%"   stop-color="#a78bfa" stop-opacity=".42"/>
@@ -109,7 +109,7 @@
         stroke-width="1.4" stroke-opacity=".45" stroke-dasharray="4 6"/>
 
   <!-- travelling particles, one per hand-off -->
-  <g fill="#22d3ee">
+  <g fill="#2dd4bf">
     <circle class="spark"    cx="255" cy="62" r="2.6"/>
     <circle class="spark p2" cx="575" cy="62" r="2.6" fill="#a78bfa"/>
     <circle class="spark p3" cx="255" cy="62" r="2.2" opacity=".5"/>
@@ -130,25 +130,25 @@
            feeding three minimal bars -->
       <g class="drift" opacity=".9">
         <rect x="147" y="21" width="27" height="19" rx="2"
-              fill="none" stroke="#38bdf8" stroke-width="1.1" opacity=".75"/>
-        <rect x="147" y="21" width="27" height="5.5" rx="2" fill="#38bdf8" opacity=".35"/>
-        <g stroke="#38bdf8" stroke-width=".7" opacity=".45">
+              fill="none" stroke="#3b82f6" stroke-width="1.1" opacity=".75"/>
+        <rect x="147" y="21" width="27" height="5.5" rx="2" fill="#3b82f6" opacity=".35"/>
+        <g stroke="#3b82f6" stroke-width=".7" opacity=".45">
           <line x1="156" y1="21" x2="156" y2="40"/>
           <line x1="165" y1="21" x2="165" y2="40"/>
           <line x1="147" y1="33" x2="174" y2="33"/>
         </g>
-        <g fill="#7dd3fc">
+        <g fill="#93c5fd">
           <rect x="149" y="28.5" width="5" height="2.5" rx="1"/>
           <rect x="167" y="35" width="5" height="2.5" rx="1"/>
         </g>
-        <g fill="#38bdf8">
+        <g fill="#3b82f6">
           <rect x="180" y="32" width="3.4" height="8"  rx="1.2" opacity=".65"/>
           <rect x="185.5" y="27" width="3.4" height="13" rx="1.2" opacity=".85"/>
           <rect x="191" y="30" width="3.4" height="10" rx="1.2" opacity=".7"/>
         </g>
       </g>
       <text x="170" y="74" font-size="27" font-weight="700" letter-spacing="5"
-            fill="#38bdf8">DATA</text>
+            fill="#3b82f6">DATA</text>
       <text x="170" y="94" font-size="10" font-weight="500" letter-spacing="2.4"
             fill="#64809f">COLLECT · CLEAN</text>
     </g>
@@ -160,16 +160,16 @@
            point picked out beneath the lens -->
       <g class="drift d2" opacity=".9">
         <polyline points="478,38 486,33 494,35 502,27 510,30 520,22"
-                  fill="none" stroke="#22d3ee" stroke-width="1.6"
+                  fill="none" stroke="#2dd4bf" stroke-width="1.6"
                   stroke-linecap="round" stroke-linejoin="round" opacity=".55"/>
-        <circle cx="502" cy="27" r="2.4" fill="#67e8f9"/>
+        <circle cx="502" cy="27" r="2.4" fill="#5eead4"/>
         <circle cx="504" cy="28" r="8.5" fill="#0a1020" fill-opacity=".35"
-                stroke="#22d3ee" stroke-width="1.8"/>
-        <line x1="510" y1="34" x2="516" y2="40" stroke="#22d3ee"
+                stroke="#2dd4bf" stroke-width="1.8"/>
+        <line x1="510" y1="34" x2="516" y2="40" stroke="#2dd4bf"
               stroke-width="2" stroke-linecap="round"/>
       </g>
       <text x="500" y="74" font-size="27" font-weight="700" letter-spacing="5"
-            fill="#22d3ee">INSIGHTS</text>
+            fill="#2dd4bf">INSIGHTS</text>
       <text x="500" y="94" font-size="10" font-weight="500" letter-spacing="2.4"
             fill="#64809f">ANALYSE · MODEL</text>
     </g>

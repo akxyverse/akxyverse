@@ -72,55 +72,60 @@
 
 ### 👋 Meet the Creator
 
-➤ **Hi, I'm Akash Yadav.**
+**Hi, I'm Akash Yadav.**
 
-I turn messy, real-world data into insights people can actually act on — through dashboards, automation, and AI-assisted workflows. Most of what I build lives here, in the open, as I learn.
+I build dashboards and automations that make messy data usable.
+Everything I make lives here, in the open, as I learn.
 
-➤ **Based In:** India 🇮🇳
+<br>
 
-➤ **Role:** Aspiring Data Analyst
+📍 &nbsp;**Based in** &nbsp;·&nbsp; India 🇮🇳
 
-➤ **Focus:** Data Analytics, Business Intelligence, Python, SQL & AI Automation
+💼 &nbsp;**Role** &nbsp;·&nbsp; Aspiring Data Analyst
 
-➤ **Currently Building:** Akxyverse
+🎯 &nbsp;**Focus** &nbsp;·&nbsp; Data Analytics · Business Intelligence · Python · SQL · AI Automation
 
-➤ **Goal:** Build practical analytics solutions that help people make better decisions.
+🧩 &nbsp;**Currently building** &nbsp;·&nbsp; Akxyverse
+
+🚀 &nbsp;**Goal** &nbsp;·&nbsp; Practical analytics that help people make better decisions
 
 <br clear="right">
 
 ### 🚀 Explore My Work
 
-➤ **Projects**
-Hands-on analytics solutions solving real business problems.
+🚀 &nbsp;**Projects**
+<sub>Hands-on analytics solutions solving real business problems.</sub>
 
-➤ **Dashboards**
-Interactive Power BI and Tableau reports.
+📊 &nbsp;**Dashboards**
+<sub>Interactive Power BI and Tableau reports.</sub>
 
-➤ **Guidebooks**
-Curated roadmaps, notes and learning resources.
+📚 &nbsp;**Guidebooks**
+<sub>Curated roadmaps, notes and learning resources.</sub>
 
-➤ **AI Workflows**
-Automation using modern AI tools.
+🤖 &nbsp;**AI Workflows**
+<sub>Automation using modern AI tools.</sub>
 
-➤ **Datasets**
-Real and practice datasets used throughout projects.
+🗂️ &nbsp;**Datasets**
+<sub>Real and practice datasets used throughout projects.</sub>
 
-➤ **Career Resources**
-Resume, interview preparation and job search materials.
+💼 &nbsp;**Career Resources**
+<sub>Resume, interview preparation and job search materials.</sub>
 
 ### 🎯 Mission
 
-> **Turn complex data into clear insights that drive smarter decisions.**
-
-Data is only worth what someone can act on. Every project here follows the same arc — raw data, honest analysis, a decision it supports, and the impact it was meant to have.
+> **Turning data, AI and automation into practical solutions that matter.**
 
 ### 🧠 Currently Learning
 
-<img src="https://img.shields.io/badge/Machine%20Learning-242938?style=for-the-badge&logoColor=8b5cf6" alt="Machine Learning"/>
-<img src="https://img.shields.io/badge/Advanced%20Statistics-242938?style=for-the-badge&logoColor=38bdf8" alt="Advanced Statistics"/>
-<img src="https://img.shields.io/badge/Generative%20AI-242938?style=for-the-badge&logoColor=22d3ee" alt="Generative AI"/>
-<img src="https://img.shields.io/badge/Agentic%20AI-242938?style=for-the-badge&logoColor=a78bfa" alt="Agentic AI"/>
-<img src="https://img.shields.io/badge/Data%20Engineering%20Fundamentals-242938?style=for-the-badge&logoColor=f472b6" alt="Data Engineering Fundamentals"/>
+➜ Machine Learning
+
+➜ Advanced Statistics
+
+➜ Generative AI
+
+➜ Agentic AI
+
+➜ Data Engineering Fundamentals
 
 ---
 
@@ -128,7 +133,9 @@ Data is only worth what someone can act on. Every project here follows the same 
 
 <div align="center">
 
-**Pick the path that matches you.**
+### **Pick the path that matches you.**
+
+<sub>⬇︎</sub>
 
 <br><br>
 
@@ -150,11 +157,11 @@ Data is only worth what someone can act on. Every project here follows the same 
 
 <div align="left">
 
-<a href="https://github.com/akxyverse/data-analytics-knowledge-system"><img src="https://img.shields.io/badge/%E2%9E%A4%20Knowledge%20Hub-8b5cf6?style=for-the-badge" alt="Knowledge Hub"/></a>
+<a href="https://github.com/akxyverse/data-analytics-knowledge-system"><img src="https://img.shields.io/badge/%E2%9E%A4-Knowledge%20Hub-242938?style=for-the-badge&labelColor=38bdf8" alt="Knowledge Hub"/></a>
 
-<a href="https://github.com/akxyverse/data-analytics-resources"><img src="https://img.shields.io/badge/%E2%9E%A4%20Learning%20Resources-242938?style=for-the-badge" alt="Learning Resources"/></a>
+<a href="https://github.com/akxyverse/data-analytics-resources"><img src="https://img.shields.io/badge/%E2%9E%A4-Learning%20Resources-242938?style=for-the-badge&labelColor=38bdf8" alt="Learning Resources"/></a>
 
-<a href="https://github.com/akxyverse/data-analytics-projects"><img src="https://img.shields.io/badge/%E2%9E%A4%20Projects-242938?style=for-the-badge" alt="Projects"/></a>
+<a href="https://github.com/akxyverse/data-analytics-projects"><img src="https://img.shields.io/badge/%E2%9E%A4-Projects-242938?style=for-the-badge&labelColor=38bdf8" alt="Projects"/></a>
 
 </div>
 
@@ -177,11 +184,11 @@ Data is only worth what someone can act on. Every project here follows the same 
 
 <div align="left">
 
-<a href="#-featured-project-universe"><img src="https://img.shields.io/badge/%E2%9E%A4%20Featured%20Projects-8b5cf6?style=for-the-badge" alt="Featured Projects"/></a>
+<a href="#-featured-project-universe"><img src="https://img.shields.io/badge/%E2%9E%A4-Featured%20Projects-242938?style=for-the-badge&labelColor=f59e0b" alt="Featured Projects"/></a>
 
-<a href="https://github.com/akxyverse/certifications"><img src="https://img.shields.io/badge/%E2%9E%A4%20Certifications-242938?style=for-the-badge" alt="Certifications"/></a>
+<a href="https://github.com/akxyverse/certifications"><img src="https://img.shields.io/badge/%E2%9E%A4-Certifications-242938?style=for-the-badge&labelColor=f59e0b" alt="Certifications"/></a>
 
-<a href="https://github.com/akxyverse/career-hub"><img src="https://img.shields.io/badge/%E2%9E%A4%20Career%20Hub-242938?style=for-the-badge" alt="Career Hub"/></a>
+<a href="https://github.com/akxyverse/career-hub"><img src="https://img.shields.io/badge/%E2%9E%A4-Career%20Hub-242938?style=for-the-badge&labelColor=f59e0b" alt="Career Hub"/></a>
 
 </div>
 
@@ -204,11 +211,11 @@ Data is only worth what someone can act on. Every project here follows the same 
 
 <div align="left">
 
-<a href="https://github.com/akxyverse/data-analytics-projects"><img src="https://img.shields.io/badge/%E2%9E%A4%20Projects-8b5cf6?style=for-the-badge" alt="Projects"/></a>
+<a href="https://github.com/akxyverse/data-analytics-projects"><img src="https://img.shields.io/badge/%E2%9E%A4-Projects-242938?style=for-the-badge&labelColor=22d3ee" alt="Projects"/></a>
 
-<a href="https://github.com/akxyverse/datasets"><img src="https://img.shields.io/badge/%E2%9E%A4%20Datasets-242938?style=for-the-badge" alt="Datasets"/></a>
+<a href="https://github.com/akxyverse/datasets"><img src="https://img.shields.io/badge/%E2%9E%A4-Datasets-242938?style=for-the-badge&labelColor=22d3ee" alt="Datasets"/></a>
 
-<a href="https://github.com/akxyverse/data-analytics-knowledge-system"><img src="https://img.shields.io/badge/%E2%9E%A4%20Knowledge%20Hub-242938?style=for-the-badge" alt="Knowledge Hub"/></a>
+<a href="https://github.com/akxyverse/data-analytics-knowledge-system"><img src="https://img.shields.io/badge/%E2%9E%A4-Knowledge%20Hub-242938?style=for-the-badge&labelColor=22d3ee" alt="Knowledge Hub"/></a>
 
 </div>
 
@@ -231,9 +238,9 @@ Data is only worth what someone can act on. Every project here follows the same 
 
 <div align="left">
 
-<a href="https://github.com/akxyverse/ai-automation"><img src="https://img.shields.io/badge/%E2%9E%A4%20AI%20Automation-8b5cf6?style=for-the-badge" alt="AI Automation"/></a>
+<a href="https://github.com/akxyverse/ai-automation"><img src="https://img.shields.io/badge/%E2%9E%A4-AI%20Automation-242938?style=for-the-badge&labelColor=8b5cf6" alt="AI Automation"/></a>
 
-<a href="https://github.com/akxyverse/data-analytics-projects"><img src="https://img.shields.io/badge/%E2%9E%A4%20Projects-242938?style=for-the-badge" alt="Projects"/></a>
+<a href="https://github.com/akxyverse/data-analytics-projects"><img src="https://img.shields.io/badge/%E2%9E%A4-Projects-242938?style=for-the-badge&labelColor=8b5cf6" alt="Projects"/></a>
 
 </div>
 
@@ -649,7 +656,7 @@ Everything I build, learn, and share is organized into dedicated repositories. E
 
 ## 📊 GitHub Analytics
 
-➜ **Welcome to My GitHub Analytics Dashboard** — Explore real-time insights into my repositories, development activity, programming languages, and contribution history, powered directly by GitHub.
+➜ **Repositories, languages, commit patterns and contribution history — pulled live from GitHub.**
 
 <div align="center">
 
