@@ -1,10 +1,10 @@
 <div align="center">
 
-# <img src="./assets/hero-data-analyst.png" alt="Akash Yadav — Data Analyst. Turning data into decisions. Analytics, Intelligence, Automation. Excel, SQL, Python, Power BI, Tableau." width="82%">
+# <img src="./assets/hero-data-analyst.png" alt="Akash Yadav — Data Analyst. Turning data into decisions. Analytics, Intelligence, Automation. Excel, SQL, Python, Power BI, Tableau." width="90%">
 
 <br>
 
-<img src="./assets/tagline-data-insights-decisions.svg" width="82%" alt="DATA — collect and clean · INSIGHTS — analyse and model · DECISIONS — act and measure">
+<img src="./assets/tagline-data-insights-decisions.svg" width="90%" alt="DATA — collect and clean · INSIGHTS — analyse and model · DECISIONS — act and measure">
 
 <br>
 
@@ -79,37 +79,29 @@ Everything I make lives here, in the open, as I learn.
 
 <br>
 
-📍 &nbsp;**Based in** &nbsp;·&nbsp; India 🇮🇳
+**Based in** &nbsp;→&nbsp; India
 
-💼 &nbsp;**Role** &nbsp;·&nbsp; Aspiring Data Analyst
+**Role** &nbsp;→&nbsp; Aspiring Data Analyst
 
-🎯 &nbsp;**Focus** &nbsp;·&nbsp; Data Analytics · Business Intelligence · Python · SQL · AI Automation
+**Focus** &nbsp;→&nbsp; Data Analytics &nbsp;|&nbsp; Business Intelligence &nbsp;|&nbsp; Python &nbsp;|&nbsp; SQL &nbsp;|&nbsp; AI Automation
 
-🧩 &nbsp;**Currently building** &nbsp;·&nbsp; Akxyverse
-
-🚀 &nbsp;**Goal** &nbsp;·&nbsp; Practical analytics that help people make better decisions
+**Goal** &nbsp;→&nbsp; Practical analytics that help people make better decisions
 
 <br clear="right">
 
 ### 🚀 Explore My Work
 
-🚀 &nbsp;**Projects**
-<sub>Hands-on analytics solutions solving real business problems.</sub>
+•&nbsp; **Projects** &nbsp;→&nbsp; Hands-on analytics solutions solving real business problems.
 
-📊 &nbsp;**Dashboards**
-<sub>Interactive Power BI and Tableau reports.</sub>
+•&nbsp; **Dashboards** &nbsp;→&nbsp; Interactive Power BI and Tableau reports.
 
-📚 &nbsp;**Guidebooks**
-<sub>Curated roadmaps, notes and learning resources.</sub>
+•&nbsp; **Guidebooks** &nbsp;→&nbsp; Curated roadmaps, notes and learning resources.
 
-🤖 &nbsp;**AI Workflows**
-<sub>Automation using modern AI tools.</sub>
+•&nbsp; **AI Workflows** &nbsp;→&nbsp; Automation using modern AI tools.
 
-🗂️ &nbsp;**Datasets**
-<sub>Real and practice datasets used throughout projects.</sub>
+•&nbsp; **Datasets** &nbsp;→&nbsp; Real and practice datasets used throughout projects.
 
-💼 &nbsp;**Career Resources**
-<sub>Resume, interview preparation and job search materials.</sub>
+•&nbsp; **Career Resources** &nbsp;→&nbsp; Resume, interview preparation and job search materials.
 
 ### 🎯 Mission
 
@@ -135,7 +127,7 @@ Everything I make lives here, in the open, as I learn.
 
 ### **Pick the path that matches you.**
 
-<sub>⬇︎</sub>
+<h3>⬇</h3>
 
 <br><br>
 
@@ -667,7 +659,7 @@ Everything I build, learn, and share is organized into dedicated repositories. E
 <!-- Hero stat card. Native artwork is 700x200; rendering at 100% of the
      README column (~830px) scales the name, figures and icons up ~19% above
      native instead of the ~29% BELOW native that width="60%" produced. -->
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akxyverse&theme=tokyonight" alt="Profile summary — repositories, commits, stars and contribution overview">
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akxyverse&theme=tokyonight&name=AKXYVERSE" alt="Profile summary — repositories, commits, stars and contribution overview">
 
 <br><br>
 
@@ -698,7 +690,7 @@ Everything I build, learn, and share is organized into dedicated repositories. E
 
 <!-- height=500 against a 420 default: taller plot area, so the axis labels
      and daily peaks stay legible at full README width. -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=akxyverse&theme=tokyo-night&hide_border=false&area=true&height=500&radius=12" width="100%" alt="akxyverse's GitHub contribution activity graph over the past year"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=akxyverse&theme=tokyo-night&hide_border=false&area=true&height=340&radius=12" width="100%" alt="akxyverse's GitHub contribution activity graph over the past year"/>
 
 <br><br>
 
