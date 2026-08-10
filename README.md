@@ -1,20 +1,24 @@
 <div align="center">
 
-<img src="./assets/banner-illustration.svg" alt="Akxyverse — Data Analytics Ecosystem" width="100%">
+<img src="./assets/hero-data-analyst.png" alt="Akash Yadav — Data Analyst. Turning data into decisions. Analytics, Intelligence, Automation. Excel, SQL, Python, Power BI, Tableau." width="100%">
 
 <br>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Turning+Raw+Data+into+Clear+Decisions+%F0%9F%93%8A;Python+%C2%B7+SQL+%C2%B7+Power+BI+%C2%B7+Tableau;Building+in+Public%2C+One+Project+at+a+Time+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1200&color=38BDF8&center=true&vCenter=true&width=620&lines=Turning+Raw+Data+into+Clear+Decisions+%F0%9F%93%8A;Python+%C2%B7+SQL+%C2%B7+Power+BI+%C2%B7+Tableau;Building+in+Public%2C+One+Project+at+a+Time+%F0%9F%9A%80" alt="Turning raw data into clear decisions · Python, SQL, Power BI, Tableau · Building in public, one project at a time" />
 </a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=60&color=0:38bdf8,100:8b5cf6&section=header" width="100%" alt=""/>
+<br><br>
 
-# <img src="./assets/name-wordmark.svg" width="560" alt="Akash Yadav — Data Analytics, AI-Assisted Workflows, Automation">
+# <img src="./assets/name-wordmark.svg" width="600" alt="Akash Yadav — Analytics, Intelligence, Automation">
 
 **Turning numbers into decisions — one dashboard at a time.**
 
-<br><br>
+<br>
+
+<img src="./assets/divider-accent.svg" width="100%" alt="">
+
+<br>
 
 ### 📊 Quick Stats
 
@@ -654,35 +658,44 @@ Everything I build, learn, and share is organized into dedicated repositories. E
 <div align="center">
 
 ### 📊 Account Overview
+
 <br>
+
+<!-- Hero stat card. Native artwork is 700x200; rendering at 100% of the
+     README column (~830px) scales the name, figures and icons up ~19% above
+     native instead of the ~29% BELOW native that width="60%" produced. -->
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akxyverse&theme=tokyonight" alt="Profile summary — repositories, commits, stars and contribution overview">
+
+<br><br>
+
 <img src="https://img.shields.io/github/stars/akxyverse/data-analytics-projects?style=for-the-badge&logo=github&label=Project%20Stars&color=8b5cf6" alt="Project Stars">
 
-<br><br>
+<br><br><br>
 
-<img width="60%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akxyverse&theme=tokyonight" alt="Profile Summary Card">
+### 💻 Stats, Languages & Activity Patterns
 
-<br><br>
-
-### 💻 GitHub Stats & Top Languages
 <br>
-<img width="40%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=akxyverse&theme=tokyonight" alt="GitHub Stats Card">
-<img width="40%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=akxyverse&theme=tokyonight" alt="Top Languages">
+
+<!-- Paired 49% columns: each card is natively 340x200, so this renders them
+     ~19% larger than native while keeping two per row and matching the hero
+     card's scale factor exactly. -->
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=akxyverse&theme=tokyonight" alt="GitHub stats — commits, contributions and pull requests">
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=akxyverse&theme=tokyonight" alt="Top languages by number of repositories">
 
 <br><br>
 
-<img width="40%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=akxyverse&theme=tokyonight" alt="Languages by Commit">
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=akxyverse&theme=tokyonight" alt="Top languages by commit volume">
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=akxyverse&theme=tokyonight&utcOffset=5.5" alt="Most productive hours of the day (IST, UTC+5:30)">
 
-<br><br>
-
-### ⏰ Activity Patterns
-<br>
-<img width="60%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=akxyverse&theme=tokyonight&utcOffset=5.5" alt="Productive Time (IST, UTC+5:30)">
-
-<br><br>
+<br><br><br>
 
 ### 🌱 Contribution Activity
+
 <br>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=akxyverse&theme=tokyo-night&hide_border=false&area=true" width="100%" alt="akxyverse's GitHub contribution activity graph over the past year"/>
+
+<!-- height=500 against a 420 default: taller plot area, so the axis labels
+     and daily peaks stay legible at full README width. -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=akxyverse&theme=tokyo-night&hide_border=false&area=true&height=500&radius=12" width="100%" alt="akxyverse's GitHub contribution activity graph over the past year"/>
 
 <br><br>
 
