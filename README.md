@@ -684,23 +684,17 @@ Everything I build, learn, and share is organized into dedicated repositories. E
 
 <br><br><br>
 
-### 🌱 Contribution Activity
-
-<br>
-
-<!-- Was github-readme-activity-graph.vercel.app, which now answers 402 Payment
-     Required: that free Vercel deployment is suspended, not down, so it is not
-     coming back on its own and no amount of waiting fixes it.
-
-     ghchart renders the familiar GitHub contribution heatmap as a plain SVG
-     with no account, no key and no quota. The colour is the seed green from
-     the heading above, so the squares match the rest of the profile rather
-     than arriving in GitHub's default palette. -->
-<img src="https://ghchart.rshah.org/26a641/akxyverse" width="100%" alt="akxyverse's GitHub contribution heatmap over the past year"/>
-
-<br><br>
-
 ### 🐍 Contribution Journey
+
+<!-- One section, not two. This used to sit under a static ghchart heatmap
+     headed "Contribution Activity", and the two showed THE SAME DATA -- the
+     snake is that same contribution grid with a snake eating through it, so
+     the heatmap above was the identical year rendered twice, once without the
+     animation. Kept the animated one and dropped the still.
+
+     Regenerated on a schedule by .github/workflows/snake.yml, so it stays
+     current without anything to maintain here. -->
+
 <br>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/akxyverse/akxyverse/output/github-contribution-grid-snake-dark.gif">
