@@ -688,9 +688,15 @@ Everything I build, learn, and share is organized into dedicated repositories. E
 
 <br>
 
-<!-- height=500 against a 420 default: taller plot area, so the axis labels
-     and daily peaks stay legible at full README width. -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=akxyverse&theme=tokyo-night&hide_border=false&area=true&height=340&radius=12" width="100%" alt="akxyverse's GitHub contribution activity graph over the past year"/>
+<!-- Was github-readme-activity-graph.vercel.app, which now answers 402 Payment
+     Required: that free Vercel deployment is suspended, not down, so it is not
+     coming back on its own and no amount of waiting fixes it.
+
+     ghchart renders the familiar GitHub contribution heatmap as a plain SVG
+     with no account, no key and no quota. The colour is the seed green from
+     the heading above, so the squares match the rest of the profile rather
+     than arriving in GitHub's default palette. -->
+<img src="https://ghchart.rshah.org/26a641/akxyverse" width="100%" alt="akxyverse's GitHub contribution heatmap over the past year"/>
 
 <br><br>
 
